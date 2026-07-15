@@ -1,0 +1,501 @@
+﻿id_fornecedor,razao_social,nome_fantasia,cnpj,segmento,categoria_principal,porte,cidade,estado,telefone,email,status
+1,Microsoft Brasil LTDA,Microsoft Brasil,10.496.582/0001-00,Tecnologia,Softwares,Grande,Pastor,SP,68 0013-3890,contato@microsoftbrasil.com.br,Ativo
+2,Oracle Brasil LTDA,Oracle Brasil,83.619.420/0001-88,Cloud,Cloud,Grande,Sampaio,SP,68 5423-5116,contato@oraclebrasil.com.br,Ativo
+3,Amazon AWS LTDA,Amazon AWS,15.842.037/0001-34,Cloud,Cloud,Grande,Garcia,MG,+55 38 8495-9310,contato@amazonaws.com.br,Ativo
+4,Google Cloud LTDA,Google Cloud,34.167.095/0001-54,Cloud,Cloud,Grande,Porto de Fonseca,SP,+55 68 5534-1928,contato@googlecloud.com.br,Ativo
+5,TOTVS LTDA,TOTVS,32.798.415/0001-49,Tecnologia,Softwares,Grande,Vargas do Norte,MG,+55 91 0564-1395,contato@totvs.com.br,Ativo
+6,Dell Technologies LTDA,Dell Technologies,37.659.120/0001-05,Tecnologia,Softwares,Média,Souza,SP,0900 496 9653,contato@delltechnologies.com.br,Ativo
+7,Cisco Brasil LTDA,Cisco Brasil,28.706.519/0001-09,Tecnologia,Softwares,Grande,Vieira,PR,68 9166-9784,contato@ciscobrasil.com.br,Ativo
+8,Intel Brasil LTDA,Intel Brasil,80.154.269/0001-61,Tecnologia,Softwares,Média,Lopes da Serra,SP,81 0482-8148,contato@intelbrasil.com.br,Ativo
+9,Lenovo Brasil LTDA,Lenovo Brasil,93.271.406/0001-90,Tecnologia,Softwares,Média,Mendonça do Sul,SP,+55 48 5430-3911,contato@lenovobrasil.com.br,Ativo
+10,HP Brasil LTDA,HP Brasil,71.285.364/0001-03,Tecnologia,Softwares,Média,Cunha da Prata,RS,+55 83 4657-8713,contato@hpbrasil.com.br,Ativo
+11,Claro Empresas LTDA,Claro Empresas,31.504.782/0001-20,Telefonia,Telefonia,Grande,Abreu,PR,+55 35 0310-5183,contato@claroempresas.com.br,Ativo
+12,Vivo Empresas LTDA,Vivo Empresas,47.391.680/0001-85,Telefonia,Telefonia,Média,Jesus de Correia,SP,+55 44 1656-6701,contato@vivoempresas.com.br,Ativo
+13,TIM Empresas LTDA,TIM Empresas,06.589.147/0001-45,Telefonia,Telefonia,Média,Carvalho de Lima,MG,+55 75 4731-7810,contato@timempresas.com.br,Ativo
+14,JSL Logística LTDA,JSL Logística,80.167.534/0001-46,Logística,Fretes,Grande,Cunha de Guerra,MG,+55 32 2606-4746,contato@jsllogística.com.br,Ativo
+15,Braspress LTDA,Braspress,87.219.605/0001-56,Transporte,Fretes,Grande,Souza,RS,28 0097-8820,contato@braspress.com.br,Ativo
+16,Correios LTDA,Correios,81.204.693/0001-36,Transporte,Fretes,Média,Nunes,SP,+55 96 9909-1699,contato@correios.com.br,Ativo
+17,Jadlog LTDA,Jadlog,85.419.263/0001-92,Transporte,Fretes,Média,Cardoso da Mata,SP,82 5107-9911,contato@jadlog.com.br,Ativo
+18,Localiza Fleet LTDA,Localiza Fleet,83.412.069/0001-50,Transporte,Fretes,Pequena,Castro dos Dourados,SP,22 9808-4124,contato@localizafleet.com.br,Ativo
+19,Kalunga Empresas LTDA,Kalunga Empresas,19.276.485/0001-79,Escritório,Materiais de Escritório,Pequena,Costela Paulista,MG,95 7401-6400,contato@kalungaempresas.com.br,Ativo
+20,RD Station LTDA,RD Station,52.419.378/0001-28,Marketing,Marketing,Média,Camargo,SP,+55 37 2805-9826,contato@rdstation.com.br,Ativo
+21,Rock Content LTDA,Rock Content,20.498.617/0001-96,Marketing,Marketing,Média,Rios,MG,+55 46 5869-2322,contato@rockcontent.com.br,Ativo
+22,TOTVS Protheus LTDA,TOTVS Protheus,60.257.314/0001-04,Tecnologia,Softwares,Grande,Viana,SP,+55 47 6073-3754,contato@totvsprotheus.com.br,Ativo
+23,Senior Sistemas LTDA,Senior Sistemas,39.051.826/0001-15,Tecnologia,Softwares,Média,Vargas,RJ,15 5868-5014,contato@seniorsistemas.com.br,Ativo
+24,Sankhya LTDA,Sankhya,24.078.395/0001-03,Tecnologia,Softwares,Média,Lopes do Galho,SP,+55 49 6934-0608,contato@sankhya.com.br,Ativo
+25,Stone Pagamentos LTDA,Stone Pagamentos,83.590.246/0001-98,Financeiro,Serviços Financeiros,Média,Silveira,SP,21 8465-6482,contato@stonepagamentos.com.br,Ativo
+26,Cielo LTDA,Cielo,36.857.124/0001-35,Financeiro,Serviços Financeiros,Média,da Rosa,PR,17 3699-5777,contato@cielo.com.br,Ativo
+27,Ultragaz LTDA,Ultragaz,38.765.104/0001-60,Energia,Energia,Grande,Borges de Goiás,RJ,27 3320-0379,contato@ultragaz.com.br,Inativo
+28,Neoenergia LTDA,Neoenergia,17.654.938/0001-28,Energia,Energia,Grande,da Cruz Grande,RJ,+55 12 1632-8708,contato@neoenergia.com.br,Ativo
+29,Enel LTDA,Enel,31.789.426/0001-08,Energia,Energia,Grande,Novaes dos Dourados,RS,+55 67 7743-4873,contato@enel.com.br,Ativo
+30,PwC LTDA,PwC,47.152.869/0001-15,Financeiro,Serviços Financeiros,Grande,Nogueira de Minas,SC,+55 62 2362-3166,contato@pwc.com.br,Ativo
+31,Deloitte LTDA,Deloitte,58.730.164/0001-54,Financeiro,Serviços Financeiros,Grande,Teixeira,RJ,51 7054-6688,contato@deloitte.com.br,Ativo
+32,KPMG LTDA,KPMG,93.712.840/0001-68,Financeiro,Serviços Financeiros,Média,Fernandes das Flores,RJ,+55 69 7298-0699,contato@kpmg.com.br,Inativo
+33,EY LTDA,EY,01.683.794/0001-06,Financeiro,Serviços Financeiros,Grande,Duarte do Oeste,MG,81 5564-6417,contato@ey.com.br,Ativo
+34,Souza - EI,Ferreira S.A.,10.896.754/0001-25,Energia,Energia,Grande,Melo,PR,+55 49 9374-5299,vasconcelosluan@caldeira.gov.br,Ativo
+35,das Neves - EI,Gonçalves,31.905.264/0001-18,Logística,Fretes,Grande,Ferreira,RJ,0800 651 8506,bcaldeira@porto.com.br,Inativo
+36,Santos,Lopes Cavalcanti e Filhos,84.736.921/0001-07,Financeiro,Serviços Financeiros,Média,Borges,ES,15 7379-9650,lduarte@cunha.br,Ativo
+37,Fernandes,Peixoto,48.091.752/0001-31,Escritório,Materiais de Escritório,Pequena,Mendonça da Prata,RS,+55 94 7770-1436,ana-lauraribeiro@melo.edu.br,Ativo
+38,Lima,Fogaça,74.821.053/0001-00,Cloud,Cloud,Grande,Souza,SP,0900 233 7498,guilherme34@fonseca.com,Ativo
+39,da Mota Aparecida S/A,Sampaio,27.160.498/0001-06,Escritório,Materiais de Escritório,Pequena,Macedo de Fernandes,MG,+55 77 0471-1671,cassianokaique@barros.net,Ativo
+40,Novais - ME,Vasconcelos Moreira - ME,79.468.325/0001-53,Tecnologia,Softwares,Média,Pimenta,RS,+55 45 3341-2328,castroandre@machado.com.br,Ativo
+41,da Rocha,da Conceição Ltda.,47.158.263/0001-97,Logística,Fretes,Grande,Nogueira,SP,+55 89 2421-0249,luna17@sampaio.br,Ativo
+42,Montenegro,Macedo,10.652.478/0001-50,Tecnologia,Softwares,Média,da Conceição,SC,+55 16 4902-7874,luizaporto@borges.br,Inativo
+43,Jesus,Duarte,12.537.684/0001-44,Escritório,Materiais de Escritório,Pequena,Teixeira da Prata,SP,+55 21 7154-5168,ribeirovitoria@jesus.com,Ativo
+44,Moreira Fonseca - EI,Pires,70.324.165/0001-02,Escritório,Materiais de Escritório,Pequena,Campos de Alves,RJ,+55 94 2480-8613,martinsisaac@monteiro.edu.br,Ativo
+45,Leão,Melo,37.291.450/0001-90,RH,Recursos Humanos,Pequena,Vargas das Pedras,PR,38 8404-4997,maitenascimento@ferreira.br,Ativo
+46,Marques,Correia,36.987.025/0001-78,Cloud,Cloud,Grande,Santos de Garcia,RJ,53 2702-8951,hbrito@albuquerque.com.br,Ativo
+47,Jesus Rezende S.A.,Melo Ltda.,56.182.437/0001-48,Tecnologia,Softwares,Grande,Nogueira de Andrade,SP,+55 34 3431-6117,ana-claraalves@duarte.org,Ativo
+48,Freitas,Casa Grande,38.645.170/0001-04,Escritório,Materiais de Escritório,Pequena,Pimenta,SP,51 9379-2374,qda-cunha@martins.gov.br,Ativo
+49,Barbosa Macedo Ltda.,Porto,64.792.138/0001-53,Tecnologia,Softwares,Grande,da Costa,GO,51 9594-4064,nunescarlos-eduardo@da.com.br,Ativo
+50,Pereira Fogaça S.A.,Pinto da Cunha e Filhos,21.093.765/0001-93,Tecnologia,Softwares,Grande,Borges,SP,19 5623-2858,lucas47@souza.com.br,Ativo
+51,Camargo,Barbosa,23.674.901/0001-64,Escritório,Materiais de Escritório,Pequena,da Luz,SP,0900 175 4965,rocharavi-lucca@alves.gov.br,Ativo
+52,Pimenta,Ramos Azevedo e Filhos,74.601.985/0001-47,Transporte,Fretes,Grande,Camargo de Brito,SP,+55 93 8267-5869,kamillyrezende@mendonca.br,Ativo
+53,Andrade,Cunha,79.362.058/0001-35,Transporte,Fretes,Média,Araújo das Flores,RS,14 3171-3900,ryan29@azevedo.net,Ativo
+54,da Conceição Farias S.A.,da Mota S.A.,28.461.073/0001-08,Cloud,Cloud,Grande,Fogaça,SP,+55 93 9502-4026,souzadavi-lucas@machado.com.br,Ativo
+55,Moraes,Machado - EI,30.495.871/0001-94,Telefonia,Telefonia,Grande,Lima do Campo,SP,91 7115-9212,agatha56@marques.edu.br,Ativo
+56,Brito,Rezende e Filhos,83.691.725/0001-09,Transporte,Fretes,Média,Leão do Campo,SP,28 6545-2711,borgesluana@souza.br,Ativo
+57,Novais Araújo - EI,Rios,16.587.309/0001-60,Financeiro,Serviços Financeiros,Grande,Fogaça do Campo,RJ,95 3273-1585,teixeiraagatha@lima.gov.br,Ativo
+58,Pereira e Filhos,Alves,24.896.017/0001-37,Escritório,Materiais de Escritório,Pequena,Azevedo Grande,MG,+55 18 1836-6752,ana-livia59@aragao.com,Ativo
+59,Rocha S/A,Macedo,67.832.104/0001-33,Tecnologia,Softwares,Grande,Camargo da Mata,BA,89 8403-6900,ana-juliacunha@teixeira.br,Ativo
+60,Abreu - ME,Cavalcanti,26.348.901/0001-62,Tecnologia,Softwares,Média,Lopes,RJ,+55 15 7159-6966,ian60@cavalcante.com.br,Ativo
+61,Sales,Borges,61.374.908/0001-50,Energia,Energia,Grande,Souza Alegre,RJ,+55 88 5218-1883,clara23@casa.net,Inativo
+62,Pereira Cassiano e Filhos,Cavalcanti e Filhos,79.854.623/0001-81,Logística,Fretes,Média,Cassiano dos Dourados,SP,+55 34 7744-9058,das-nevesmaria-eduarda@andrade.com,Ativo
+63,da Paz,Ramos S/A,98.634.501/0001-24,Marketing,Marketing,Pequena,Duarte,SP,86 8207-1518,brunoda-cruz@macedo.edu.br,Ativo
+64,Fonseca Freitas Ltda.,Jesus,50.982.631/0001-21,RH,Recursos Humanos,Pequena,Silveira Grande,PR,35 1925-4629,das-nevesfernanda@cardoso.gov.br,Ativo
+65,Ramos e Filhos,Moraes,50.921.764/0001-98,Escritório,Materiais de Escritório,Pequena,Câmara,SP,+55 62 2141-8880,joao96@castro.com.br,Ativo
+66,Silveira Macedo S/A,Fonseca,37.465.912/0001-49,Financeiro,Serviços Financeiros,Grande,das Neves,MG,85 3597-7468,mcastro@da.br,Ativo
+67,Novaes,Silva - EI,14.967.238/0001-03,Logística,Fretes,Grande,Lopes,BA,+55 43 3750-6068,ravy61@camara.com,Ativo
+68,Brito,Vieira,29.083.154/0001-76,Escritório,Materiais de Escritório,Pequena,Barros,MG,+55 15 4328-9861,renan41@da.gov.br,Ativo
+69,Azevedo,Monteiro - EI,80.351.279/0001-97,Escritório,Materiais de Escritório,Pequena,da Costa Verde,BA,66 2185-1888,gomesmaria-isis@porto.br,Ativo
+70,Souza,Fogaça S/A,53.164.270/0001-02,Marketing,Marketing,Média,Nogueira Alegre,SP,+55 73 7722-1704,caiovieira@aparecida.edu.br,Ativo
+71,Nogueira,da Cunha,03.429.675/0001-49,Cloud,Cloud,Grande,Lopes das Flores,SP,74 6527-7584,siqueiralais@lopes.com.br,Ativo
+72,Nogueira da Rocha Ltda.,Barros Ltda.,49.785.312/0001-47,Tecnologia,Softwares,Média,Ferreira de Machado,MG,+55 22 5964-0165,bentocasa-grande@andrade.com,Ativo
+73,da Costa e Filhos,Fonseca,60.253.741/0001-06,Tecnologia,Softwares,Grande,Oliveira,RJ,+55 62 8565-4310,melinamoreira@novais.com,Ativo
+74,Vasconcelos,Santos,73.458.106/0001-07,Logística,Fretes,Grande,Machado,RS,+55 73 7155-1884,levi25@campos.net,Ativo
+75,Alves,Novaes,95.764.103/0001-34,Tecnologia,Softwares,Média,Gonçalves do Amparo,MG,0300 669 1251,rmartins@cardoso.com.br,Inativo
+76,Vargas Cardoso - ME,Campos - EI,24.917.653/0001-06,Cloud,Cloud,Grande,Barros Paulista,MG,+55 82 8424-9818,leandrocavalcante@nunes.com,Ativo
+77,Barros S/A,Rezende,36.095.428/0001-02,Jurídico,Serviços Jurídicos,Média,Mendes de Goiás,BA,63 4710-2767,vcostela@dias.com.br,Ativo
+78,Guerra,Teixeira Freitas - EI,81.593.026/0001-92,Tecnologia,Softwares,Grande,Casa Grande,PR,+55 44 0469-6325,mateus27@monteiro.org,Ativo
+79,Almeida,Gonçalves - EI,73.842.061/0001-70,Logística,Fretes,Grande,Peixoto de Rezende,PR,85 4801-6245,cfonseca@aragao.gov.br,Ativo
+80,Fonseca Novaes Ltda.,Gomes - EI,78.469.503/0001-06,Cloud,Cloud,Grande,Gonçalves,RJ,48 5852-3986,aparecidabreno@silva.edu.br,Ativo
+81,Cassiano,Duarte Pimenta Ltda.,26.479.835/0001-60,Energia,Energia,Grande,Melo do Sul,SP,47 5169-4097,rafael09@cavalcante.edu.br,Ativo
+82,Casa Grande,Andrade Oliveira e Filhos,13.082.694/0001-03,Logística,Fretes,Grande,Jesus,SP,94 9702-8385,ymoura@cavalcanti.br,Ativo
+83,Nogueira,Rocha,47.312.950/0001-15,RH,Recursos Humanos,Pequena,Vargas da Mata,PR,+55 85 7575-8441,wgoncalves@da.com.br,Ativo
+84,Ferreira - ME,Souza,73.864.250/0001-43,Transporte,Fretes,Grande,Pimenta,SP,+55 94 3083-3016,maria-julia12@novaes.br,Ativo
+85,Mendes,Sá da Paz Ltda.,40.159.783/0001-75,Marketing,Marketing,Média,Cavalcanti do Norte,RJ,61 7240-0499,fariasalice@ramos.edu.br,Ativo
+86,Carvalho,da Mata,31.587.924/0001-60,Escritório,Materiais de Escritório,Pequena,Albuquerque,RJ,37 4932-9668,erick61@carvalho.net,Ativo
+87,da Luz - ME,Machado Sá Ltda.,54.029.617/0001-69,Transporte,Fretes,Grande,Martins,GO,24 2684-1459,pedro-lucascarvalho@cassiano.br,Ativo
+88,Leão,Sá,83.954.072/0001-03,Logística,Fretes,Grande,Barbosa Verde,RJ,+55 48 0883-9822,raquel71@silva.com,Ativo
+89,Araújo,Cardoso,86.740.932/0001-96,Financeiro,Serviços Financeiros,Grande,Silveira do Sul,BA,61 4039-1065,nogueiradante@melo.org,Ativo
+90,Cirino,Vargas Ramos e Filhos,65.937.802/0001-78,Tecnologia,Softwares,Grande,Rezende,RS,42 1286-8230,da-rosamaria-fernanda@nascimento.br,Ativo
+91,da Cruz Marques Ltda.,da Mota Correia e Filhos,10.648.975/0001-84,Marketing,Marketing,Pequena,Peixoto,SC,+55 19 7903-0673,danielcarvalho@da.com.br,Ativo
+92,Oliveira,da Costa,42.378.509/0001-12,Cloud,Cloud,Grande,Pires,SP,69 8705-6856,tcassiano@cirino.com.br,Ativo
+93,da Costa,da Rosa Santos S.A.,70.634.519/0001-07,Tecnologia,Softwares,Grande,da Cunha,RS,+55 84 5175-1830,gabriela99@barbosa.com.br,Ativo
+94,Mendes Costela Ltda.,Albuquerque,39.158.746/0001-63,Telefonia,Telefonia,Média,Novaes,SP,32 4678-5445,gmartins@teixeira.com.br,Ativo
+95,Costela,Dias,60.351.827/0001-71,Financeiro,Serviços Financeiros,Grande,da Rocha Grande,SP,+55 82 5369-3785,mariana77@siqueira.com,Ativo
+96,Silveira Nogueira - ME,Nogueira Ramos S/A,80.165.947/0001-91,Logística,Fretes,Grande,Pires,ES,+55 92 1203-8750,fribeiro@abreu.edu.br,Ativo
+97,Albuquerque,Moura e Filhos,48.907.316/0001-98,Cloud,Cloud,Grande,Moura,MG,+55 65 3398-4546,freitasjade@nunes.net,Ativo
+98,da Rosa Rodrigues S/A,Borges - ME,69.705.814/0001-28,Logística,Fretes,Grande,Lopes de Ramos,SP,34 9180-3397,caleb14@cavalcanti.com,Inativo
+99,Pastor Casa Grande e Filhos,Barbosa,42.397.681/0001-13,Tecnologia,Softwares,Média,Vieira,SP,+55 38 8501-6315,uvasconcelos@porto.com.br,Ativo
+100,Mendonça,Fogaça Novaes - ME,62.904.815/0001-52,Logística,Fretes,Média,Barros,RJ,12 2626-5511,das-neveslivia@teixeira.org,Inativo
+101,Cardoso S/A,Lopes Machado - EI,89.607.523/0001-04,Tecnologia,Softwares,Grande,Peixoto,SP,33 6046-6183,gabriellycavalcante@da.br,Ativo
+102,Azevedo Cavalcante - ME,Leão,47.126.835/0001-56,Tecnologia,Softwares,Grande,Marques,RJ,+55 47 2406-5965,bfarias@da.com.br,Ativo
+103,Mendes Dias S.A.,Dias,47.328.651/0001-79,Cloud,Cloud,Grande,Nunes,MG,+55 83 9828-0737,davi-miguel67@porto.org,Ativo
+104,Silva Lima - ME,Machado - EI,76.840.253/0001-35,Tecnologia,Softwares,Média,Ribeiro,RJ,43 2909-6561,britovalentim@moraes.edu.br,Ativo
+105,Machado Freitas - ME,Vargas,98.270.351/0001-17,Logística,Fretes,Média,Barros do Campo,MG,+55 63 5457-3875,cbrito@dias.com,Ativo
+106,Aparecida,Almeida Ltda.,12.349.657/0001-48,Cloud,Cloud,Grande,Martins de Goiás,MG,63 2266-0937,agomes@costela.com.br,Ativo
+107,Oliveira S/A,Fonseca Duarte S.A.,71.453.926/0001-80,Cloud,Cloud,Grande,Pimenta das Flores,RJ,+55 49 5579-2499,rochajoao-felipe@campos.net,Ativo
+108,Camargo,Freitas Sales S.A.,86.941.735/0001-35,Logística,Fretes,Grande,Mendonça,RJ,0900 282 7422,manuella90@albuquerque.br,Ativo
+109,Correia Gomes - EI,Jesus,76.931.048/0001-85,Cloud,Cloud,Grande,Andrade Paulista,RJ,+55 89 8427-9788,oliveiraian@vasconcelos.edu.br,Ativo
+110,Nogueira,Teixeira e Filhos,78.390.125/0001-62,Escritório,Materiais de Escritório,Pequena,da Luz de Ferreira,MG,+55 42 7133-9596,joao-lucasviana@costela.br,Ativo
+111,Peixoto,Duarte Santos Ltda.,49.173.025/0001-86,Cloud,Cloud,Grande,Sampaio,SP,+55 55 3253-6729,kamilly67@porto.br,Inativo
+112,Sales,Marques,75.068.932/0001-75,Logística,Fretes,Média,Azevedo da Prata,SP,61 3637-4545,maria-vitoriaviana@rodrigues.com.br,Ativo
+113,Aparecida S/A,Almeida,12.730.698/0001-80,Tecnologia,Softwares,Grande,Rezende,PE,22 2415-4152,goncalvesana-laura@lima.com.br,Ativo
+114,Abreu S.A.,Barbosa,23.706.951/0001-86,Telefonia,Telefonia,Média,Mendes,RJ,+55 35 3611-1554,giovannavasconcelos@ramos.com,Ativo
+115,Pimenta e Filhos,Macedo Ferreira e Filhos,32.645.910/0001-18,Tecnologia,Softwares,Média,Carvalho,RJ,+55 53 9656-5234,da-cruzalice@ribeiro.net,Ativo
+116,Souza Gonçalves Ltda.,Viana S.A.,76.193.402/0001-11,Cloud,Cloud,Grande,Fonseca,GO,31 2696-5827,almeidadavi-luiz@da.com,Ativo
+117,Vieira - ME,Pires,86.953.017/0001-89,Energia,Energia,Grande,das Neves,SP,+55 38 8328-5691,luiza30@borges.br,Ativo
+118,das Neves e Filhos,Campos Albuquerque e Filhos,20.937.458/0001-89,Marketing,Marketing,Pequena,Cardoso Paulista,SP,+55 51 0564-8149,monteiromaria-alice@araujo.br,Ativo
+119,Freitas Castro Ltda.,Oliveira e Filhos,13.076.954/0001-20,Financeiro,Serviços Financeiros,Média,Gomes Grande,SP,+55 74 0863-5365,eduardo95@montenegro.com,Ativo
+120,Câmara Moreira S/A,Azevedo,74.820.935/0001-50,Escritório,Materiais de Escritório,Pequena,Costa da Mata,ES,22 9375-9738,kevinabreu@alves.net,Ativo
+121,Porto,Farias S/A,64.178.935/0001-45,Cloud,Cloud,Grande,Casa Grande,SC,15 1038-6571,montenegrojoao-felipe@barbosa.gov.br,Ativo
+122,Lopes e Filhos,da Costa da Rocha Ltda.,56.923.810/0001-74,Energia,Energia,Grande,Carvalho,RJ,+55 47 2127-7561,oliver74@da.com.br,Ativo
+123,Borges S.A.,Santos,90.362.185/0001-77,Financeiro,Serviços Financeiros,Média,Fogaça,PR,61 8044-2067,gabrielmartins@vieira.com,Ativo
+124,Araújo S.A.,Costa Guerra Ltda.,14.906.735/0001-93,Cloud,Cloud,Grande,Farias,RJ,+55 53 0702-9667,garcialeticia@fogaca.org,Ativo
+125,Machado,Andrade Pimenta - EI,93.486.750/0001-04,Logística,Fretes,Média,da Mota,SP,53 2638-3806,maria-luiza87@nunes.edu.br,Ativo
+126,Gomes,Cirino,05.392.678/0001-80,Tecnologia,Softwares,Grande,Vargas Verde,RJ,+55 92 2133-4803,lfogaca@da.com.br,Ativo
+127,Pastor,Santos e Filhos,52.367.480/0001-27,Logística,Fretes,Média,Andrade de Borges,RJ,+55 31 3930-8705,jose-pedrofernandes@duarte.com,Ativo
+128,Vasconcelos Camargo - EI,Barbosa,56.128.970/0001-21,Transporte,Fretes,Grande,Vieira do Amparo,SC,31 2895-3926,ana-beatriz22@sampaio.br,Ativo
+129,Cirino - EI,Pimenta,31.782.069/0001-48,Telefonia,Telefonia,Grande,Cavalcante de Minas,RS,35 7043-3154,silveiraalexandre@gomes.com.br,Ativo
+130,Cavalcante,Monteiro,65.903.417/0001-00,Transporte,Fretes,Grande,Barbosa de Andrade,BA,19 0541-1526,domnovaes@fernandes.gov.br,Ativo
+131,Santos,Lopes e Filhos,26.908.715/0001-30,Transporte,Fretes,Média,Sampaio da Prata,RJ,11 4431-0698,dcassiano@abreu.br,Ativo
+132,da Rocha e Filhos,Costa,10.395.286/0001-05,Telefonia,Telefonia,Grande,das Neves,RJ,61 7741-8625,lfreitas@aparecida.org,Ativo
+133,Martins,Câmara,40.265.897/0001-08,Transporte,Fretes,Média,Nogueira das Pedras,SP,+55 91 8068-6879,maria-laurada-rosa@goncalves.com,Ativo
+134,Campos Sá - ME,Cavalcante Cunha S.A.,20.685.319/0001-05,Transporte,Fretes,Grande,Peixoto,RS,+55 99 5116-8685,raquel70@camargo.br,Ativo
+135,Casa Grande Nunes - EI,Caldeira - EI,14.532.687/0001-10,RH,Recursos Humanos,Pequena,Andrade de Cavalcanti,GO,14 6299-6065,carlos-eduardosouza@da.br,Ativo
+136,Fernandes Ltda.,da Mota,71.382.956/0001-43,Cloud,Cloud,Grande,Pereira de Minas,MG,+55 79 7367-8508,davi-luccadas-neves@carvalho.com.br,Ativo
+137,Cavalcanti S.A.,Araújo da Cruz S/A,70.591.246/0001-60,Transporte,Fretes,Grande,Porto do Campo,SP,+55 18 3579-7279,catarina24@da.br,Ativo
+138,Castro - EI,Câmara Ramos S.A.,34.680.597/0001-84,Transporte,Fretes,Média,Peixoto,PR,+55 13 3494-4665,nda-cunha@da.gov.br,Ativo
+139,Pacheco,Abreu - EI,58.429.037/0001-10,Marketing,Marketing,Pequena,da Mota Alegre,SP,14 4432-8309,uribeiro@silveira.br,Ativo
+140,da Luz,Guerra,60.325.179/0001-89,Tecnologia,Softwares,Grande,Montenegro da Mata,PE,+55 71 8241-7248,brunarezende@camara.net,Ativo
+141,Leão,Freitas,49.760.352/0001-34,Cloud,Cloud,Grande,Melo,PR,+55 81 8168-4602,murilofernandes@nunes.br,Ativo
+142,Dias Silva S.A.,Mendonça Ltda.,25.073.916/0001-00,Tecnologia,Softwares,Grande,Mendonça,MG,+55 42 2966-6676,andradesophie@siqueira.br,Ativo
+143,Almeida Rocha S/A,Câmara Sales Ltda.,42.139.580/0001-42,Transporte,Fretes,Grande,Aparecida,MG,21 4789-8562,mariana53@guerra.net,Ativo
+144,Cunha Siqueira S/A,Campos Fonseca e Filhos,06.487.592/0001-02,Marketing,Marketing,Pequena,Ribeiro,SP,+55 47 0016-7618,maria-julia23@da.gov.br,Ativo
+145,Ribeiro - EI,Pinto,92.670.451/0001-54,Marketing,Marketing,Média,Viana,PR,+55 47 7393-4835,kda-rocha@novaes.net,Ativo
+146,Farias,Abreu Albuquerque e Filhos,19.780.452/0001-61,Logística,Fretes,Grande,da Cunha,BA,+55 92 7447-0120,eloah56@brito.com,Ativo
+147,Ribeiro Ramos S.A.,Fogaça,74.126.908/0001-82,Energia,Energia,Grande,Marques Paulista,RJ,53 7621-2021,epastor@cirino.gov.br,Ativo
+148,Vasconcelos,Pimenta,02.739.645/0001-76,Tecnologia,Softwares,Grande,da Luz,SP,28 0899-3588,lopestheo@ferreira.gov.br,Ativo
+149,Cassiano,Albuquerque e Filhos,28.763.104/0001-77,Financeiro,Serviços Financeiros,Grande,da Costa Alegre,SC,15 0838-6631,zmacedo@borges.com.br,Ativo
+150,Machado,Campos,70.136.845/0001-94,Tecnologia,Softwares,Média,Moraes da Prata,MG,+55 84 7550-3758,qsilva@silva.br,Ativo
+151,Brito e Filhos,Abreu Fernandes Ltda.,48.570.613/0001-90,Cloud,Cloud,Grande,Silva,RS,64 1493-3163,mviana@caldeira.com.br,Ativo
+152,Aparecida,Vargas - ME,78.230.459/0001-79,Tecnologia,Softwares,Média,Pacheco do Amparo,MG,96 2922-1699,mirella66@da.org,Ativo
+153,Carvalho,Jesus Pereira e Filhos,84.576.910/0001-07,Marketing,Marketing,Pequena,Pinto,SP,18 5228-8515,kpacheco@rocha.com.br,Ativo
+154,Lima,Moreira S/A,06.295.813/0001-32,Cloud,Cloud,Grande,da Paz,RJ,+55 97 2043-8057,pimentapietro@da.edu.br,Ativo
+155,Sales,Garcia - ME,65.078.214/0001-26,Escritório,Materiais de Escritório,Pequena,Câmara de Porto,RS,47 9893-3472,cirinoluiz-felipe@garcia.br,Ativo
+156,Novais,Cardoso,24.093.175/0001-59,Tecnologia,Softwares,Média,Peixoto do Norte,SP,22 7985-1583,raquelazevedo@leao.br,Ativo
+157,Ferreira S.A.,Ribeiro Farias Ltda.,54.368.972/0001-62,Cloud,Cloud,Grande,Camargo,SP,41 7399-3056,gomestheo@alves.edu.br,Ativo
+158,Moraes,Mendonça,04.328.957/0001-12,Logística,Fretes,Média,Pires,SP,+55 33 3361-3861,beniciomarques@andrade.com,Ativo
+159,Aragão S.A.,Novais,13.486.579/0001-96,Logística,Fretes,Média,Almeida das Flores,MG,+55 51 8091-9015,da-rochaana-julia@da.br,Ativo
+160,Ribeiro,Melo S.A.,83.259.476/0001-79,Tecnologia,Softwares,Grande,da Rosa,PR,48 0882-1009,jnascimento@das.com.br,Ativo
+161,Cunha,Ramos,82.916.470/0001-64,Marketing,Marketing,Pequena,Cirino,MG,+55 28 8781-4141,mariahfarias@cardoso.gov.br,Ativo
+162,Brito da Paz - EI,Correia Ltda.,79.548.216/0001-46,Telefonia,Telefonia,Grande,Dias das Pedras,SP,+55 71 0533-6452,maria-luiza77@vasconcelos.org,Ativo
+163,Novaes,Cavalcanti e Filhos,91.468.753/0001-81,Logística,Fretes,Média,Siqueira,RJ,+55 37 0809-9693,novaesvicente@rezende.com.br,Ativo
+164,Fonseca Gonçalves S.A.,Carvalho,78.132.405/0001-70,Transporte,Fretes,Pequena,Pimenta,MG,+55 69 8272-2992,cfogaca@teixeira.com,Ativo
+165,Freitas,Aparecida Rios S.A.,85.637.042/0001-90,Transporte,Fretes,Média,Caldeira do Galho,SP,14 4989-2665,moreiratheodoro@camara.edu.br,Ativo
+166,Fogaça,Mendonça,70.231.589/0001-14,Tecnologia,Softwares,Grande,Cunha Grande,PR,+55 77 2591-3651,erocha@costela.gov.br,Inativo
+167,Ramos Jesus S/A,Aparecida Cardoso - EI,92.854.016/0001-80,Marketing,Marketing,Média,da Luz,SP,+55 75 8699-0413,epereira@cavalcante.net,Ativo
+168,Peixoto,Vieira Pacheco S.A.,98.415.237/0001-38,Marketing,Marketing,Pequena,da Conceição,PE,49 6210-3886,gaelcavalcanti@pimenta.gov.br,Ativo
+169,Viana - EI,Borges - ME,28.065.341/0001-64,Logística,Fretes,Média,Sampaio,SP,0500 637 6599,limajoao-felipe@mendes.com.br,Ativo
+170,Barros da Paz - EI,da Cunha,30.846.751/0001-94,Escritório,Materiais de Escritório,Pequena,Sales,SP,28 6512-6944,xnunes@rodrigues.br,Ativo
+171,Jesus Novaes - EI,Cavalcanti,58.726.493/0001-21,Logística,Fretes,Grande,Sousa Grande,MG,+55 51 3721-3865,castroheloisa@borges.br,Ativo
+172,Borges,da Luz S.A.,51.093.624/0001-31,Tecnologia,Softwares,Grande,Vasconcelos,MG,+55 73 7703-8430,luccarocha@fonseca.gov.br,Ativo
+173,Castro S/A,Vasconcelos,65.934.102/0001-20,Transporte,Fretes,Grande,Borges,ES,16 8955-4393,kguerra@da.br,Ativo
+174,Novais S/A,Fernandes,18.476.239/0001-06,Financeiro,Serviços Financeiros,Grande,Vargas de da Cruz,SC,37 7790-7141,yporto@rocha.com.br,Ativo
+175,Jesus,Moreira,80.412.935/0001-14,Tecnologia,Softwares,Grande,Barbosa da Prata,SP,+55 74 7553-9423,msousa@sousa.net,Ativo
+176,Costa da Cruz - EI,Cassiano,19.856.302/0001-94,Jurídico,Serviços Jurídicos,Média,Mendes,PE,48 9579-4728,isabella39@aragao.br,Ativo
+177,Montenegro Ltda.,Rodrigues,27.154.396/0001-88,Telefonia,Telefonia,Grande,Albuquerque,PR,+55 85 6915-5942,renan47@fonseca.com,Ativo
+178,Lima,Leão Sampaio Ltda.,56.431.792/0001-03,Energia,Energia,Grande,Brito,RS,13 3866-3227,cavalcantilaura@carvalho.com.br,Inativo
+179,Viana,da Rosa,48.037.156/0001-73,Logística,Fretes,Grande,Melo do Campo,MG,79 5455-8845,jesusjoaquim@rocha.gov.br,Ativo
+180,Oliveira Oliveira e Filhos,Vasconcelos da Paz Ltda.,58.769.301/0001-64,Jurídico,Serviços Jurídicos,Média,Martins Grande,MG,+55 69 5699-6112,rafael55@santos.org,Ativo
+181,da Mata,Vasconcelos,58.731.906/0001-66,Tecnologia,Softwares,Grande,Ribeiro,SP,+55 97 1326-1117,alvesisabella@caldeira.gov.br,Ativo
+182,Barros Rezende - ME,da Conceição,34.751.680/0001-05,Tecnologia,Softwares,Média,Ribeiro,MG,44 5778-4872,maria-alicepires@moura.gov.br,Ativo
+183,Ferreira,Nogueira,31.726.950/0001-21,Tecnologia,Softwares,Média,Albuquerque do Sul,PR,99 2547-8077,antony64@vieira.br,Ativo
+184,Jesus Novais - ME,da Cruz,26.819.035/0001-40,Transporte,Fretes,Pequena,Moreira,SP,13 4846-3122,henry79@da.com.br,Ativo
+185,Correia,Almeida,20.817.945/0001-08,Telefonia,Telefonia,Grande,Siqueira de Albuquerque,RJ,+55 92 1207-3564,dfreitas@farias.com.br,Ativo
+186,Araújo da Mata - ME,Nogueira - ME,23.468.079/0001-85,Cloud,Cloud,Grande,Gomes,SC,75 3037-1837,trodrigues@castro.gov.br,Ativo
+187,Souza - EI,da Cunha - ME,43.507.168/0001-09,Tecnologia,Softwares,Média,Duarte do Sul,MG,+55 69 4916-3009,msales@freitas.net,Ativo
+188,Monteiro Borges e Filhos,Teixeira,09.571.483/0001-59,Jurídico,Serviços Jurídicos,Pequena,da Conceição de Dias,SP,41 7306-5240,csantos@nogueira.com.br,Ativo
+189,Correia,Nogueira Ferreira Ltda.,74.208.135/0001-83,Marketing,Marketing,Pequena,Nogueira da Praia,RJ,81 0862-0959,aurorasilveira@ribeiro.com.br,Ativo
+190,Correia,Vargas,82.493.605/0001-26,Tecnologia,Softwares,Grande,Aparecida,RS,+55 55 2031-7310,fribeiro@aragao.br,Ativo
+191,Pereira Silva S/A,Costela e Filhos,71.965.023/0001-89,Cloud,Cloud,Grande,Freitas do Norte,SP,12 8014-1381,silveiraravi@correia.net,Inativo
+192,Nunes Pires S.A.,Souza,15.786.304/0001-01,Financeiro,Serviços Financeiros,Grande,Novaes,PE,62 8528-9755,esther66@pereira.net,Ativo
+193,Garcia Vargas - EI,Fonseca,79.605.823/0001-09,Logística,Fretes,Grande,Moreira,PR,+55 61 4043-3504,gabrielandrade@fogaca.com,Ativo
+194,da Luz Fonseca - EI,da Conceição da Cunha Ltda.,16.350.278/0001-29,Escritório,Materiais de Escritório,Pequena,Sales de Sampaio,GO,+55 44 9409-6105,luara61@souza.com,Ativo
+195,Aragão,Moura,05.274.189/0001-24,Escritório,Materiais de Escritório,Pequena,Machado Verde,ES,95 1364-6225,melocarlos-eduardo@da.com,Ativo
+196,Montenegro,Vasconcelos,29.741.368/0001-92,Transporte,Fretes,Média,Novais,MG,0300 331 4659,camargojulia@fonseca.br,Ativo
+197,Duarte Ferreira - EI,Vargas Ltda.,25.741.306/0001-20,Logística,Fretes,Média,Rodrigues,SP,48 2110-3924,fernandeshenry@machado.br,Ativo
+198,Farias S.A.,Costela Nogueira - EI,48.795.106/0001-55,Telefonia,Telefonia,Grande,da Cunha,RJ,+55 71 0439-4070,gomesvitor-hugo@caldeira.com,Ativo
+199,Rezende,da Conceição,68.123.405/0001-50,Logística,Fretes,Média,Montenegro,RS,82 8003-8457,ksouza@ferreira.br,Ativo
+200,Pires,da Costa,84.052.376/0001-30,Tecnologia,Softwares,Média,Câmara Grande,RJ,38 6216-8936,leandrolima@pereira.br,Ativo
+201,Nogueira,Costela Rezende S.A.,98.361.257/0001-73,Transporte,Fretes,Média,Rezende,MG,+55 67 5188-1252,teixeiraantonella@jesus.org,Ativo
+202,Souza,Cassiano,31.280.479/0001-90,Logística,Fretes,Grande,Peixoto,BA,+55 92 3051-7289,psilva@cirino.com.br,Ativo
+203,Mendonça,Carvalho,23.807.691/0001-35,Marketing,Marketing,Média,Souza,SP,+55 83 3127-9757,leticiaguerra@pereira.com.br,Ativo
+204,Silveira,Gonçalves,98.047.365/0001-76,Telefonia,Telefonia,Grande,Moreira,SP,0900 608 6803,lunna64@martins.com,Ativo
+205,da Rocha,Sales - EI,27.805.463/0001-87,Transporte,Fretes,Grande,Gonçalves,PE,65 5702-7937,da-cunhaayla@silva.com,Ativo
+206,Santos - ME,Barros,86.234.905/0001-41,Transporte,Fretes,Grande,Nunes Grande,MG,+55 68 2206-4474,isaaccardoso@abreu.com,Ativo
+207,Monteiro,Nogueira,07.314.856/0001-80,Jurídico,Serviços Jurídicos,Pequena,Barros de Peixoto,RJ,+55 12 3849-8302,danielrezende@andrade.com,Ativo
+208,Rios - EI,Farias,10.937.526/0001-56,Financeiro,Serviços Financeiros,Média,Marques,SP,45 0145-5616,da-rochamaria-julia@campos.br,Ativo
+209,Moura,Sampaio Costela - EI,01.835.427/0001-72,Transporte,Fretes,Pequena,da Luz do Galho,RJ,43 2997-8772,amandacorreia@campos.br,Ativo
+210,Sousa S.A.,Jesus,05.847.192/0001-90,Financeiro,Serviços Financeiros,Média,Sales,PR,16 4144-8850,rodriguesbrenda@goncalves.com.br,Ativo
+211,Cavalcanti S.A.,Fernandes,79.051.362/0001-61,Logística,Fretes,Média,Nascimento de Farias,SC,83 6084-9588,costelabianca@azevedo.com,Ativo
+212,Alves,Garcia,82.614.093/0001-09,Logística,Fretes,Média,Santos do Norte,RS,13 6173-5743,luiz-fernando15@vasconcelos.com,Ativo
+213,Montenegro,Mendes - EI,23.587.491/0001-14,Transporte,Fretes,Média,Vargas,MG,+55 45 8230-7681,das-nevescaio@farias.com,Ativo
+214,Moreira e Filhos,Almeida,94.321.568/0001-58,Transporte,Fretes,Média,Vargas dos Dourados,RS,+55 51 4224-1098,costelavitoria@novaes.br,Inativo
+215,Casa Grande,Oliveira,32.184.690/0001-72,Logística,Fretes,Média,Alves,SP,85 0160-1662,wpimenta@farias.com.br,Ativo
+216,Silva Teixeira e Filhos,Sá - ME,92.165.307/0001-60,Tecnologia,Softwares,Média,Rodrigues dos Dourados,PR,85 3329-4562,aylla77@azevedo.com,Ativo
+217,Mendes,Cavalcante,45.290.381/0001-29,Transporte,Fretes,Pequena,Vieira,SC,22 8769-6393,maria-luisagomes@fernandes.com.br,Ativo
+218,Viana,Nunes,58.319.074/0001-75,Tecnologia,Softwares,Grande,Duarte de Novais,SP,+55 44 7246-1919,fduarte@borges.com.br,Inativo
+219,Pacheco Sá e Filhos,Sá S.A.,27.438.560/0001-89,Logística,Fretes,Grande,Rodrigues,RS,31 4946-5190,scardoso@freitas.com,Ativo
+220,Santos - EI,Camargo,40.375.962/0001-40,Escritório,Materiais de Escritório,Pequena,Silva das Flores,SP,63 6683-2723,afonseca@da.com,Ativo
+221,Barbosa e Filhos,Casa Grande e Filhos,76.201.349/0001-53,Financeiro,Serviços Financeiros,Grande,Pinto da Serra,SP,81 8687-6532,apereira@siqueira.net,Ativo
+222,Jesus,Andrade,07.594.368/0001-74,Logística,Fretes,Média,Martins do Galho,MG,+55 38 8913-7189,caue58@melo.edu.br,Ativo
+223,Oliveira,Leão,54.810.723/0001-85,Financeiro,Serviços Financeiros,Média,Araújo do Amparo,ES,+55 71 9049-0471,mirellabarbosa@da.com,Ativo
+224,da Mota,Albuquerque,12.853.796/0001-04,Energia,Energia,Grande,Mendonça,RS,+55 75 8051-2927,yvargas@ribeiro.gov.br,Ativo
+225,Costela Oliveira e Filhos,Aragão,41.083.596/0001-18,Tecnologia,Softwares,Média,Souza de Sá,PE,0800 366 7428,salbuquerque@garcia.gov.br,Ativo
+226,Moura,Brito - EI,56.428.901/0001-33,Transporte,Fretes,Grande,Martins de Goiás,PR,+55 81 8525-8001,jesusgael-henrique@rodrigues.br,Ativo
+227,Silveira da Paz Ltda.,Andrade Alves - EI,10.345.867/0001-32,Tecnologia,Softwares,Grande,Garcia,MG,+55 77 1244-7174,qsales@da.com,Ativo
+228,da Mota S/A,Gomes,50.462.138/0001-80,Tecnologia,Softwares,Grande,Costa de Pimenta,SP,55 2712-8639,macedovalentim@andrade.com,Ativo
+229,Vasconcelos,Almeida,72.095.386/0001-73,Tecnologia,Softwares,Média,Gonçalves Verde,MG,+55 11 8776-6183,gomesmaria-luisa@nunes.br,Ativo
+230,Rodrigues,Guerra,01.542.938/0001-04,Tecnologia,Softwares,Grande,Cavalcanti,MG,+55 22 6346-1571,msousa@andrade.com.br,Ativo
+231,Mendonça Gomes S/A,Monteiro,87.092.653/0001-26,Marketing,Marketing,Pequena,Guerra,GO,+55 51 3878-2931,sousajoao-miguel@rezende.com,Ativo
+232,Pinto,da Cruz e Filhos,20.958.761/0001-68,Transporte,Fretes,Média,Pastor,RJ,+55 33 1179-9313,zfernandes@duarte.com,Ativo
+233,Duarte Vieira S.A.,Pastor S.A.,51.827.396/0001-86,Energia,Energia,Grande,Novaes da Serra,GO,74 3902-1962,mendoncaenrico@abreu.com,Ativo
+234,Leão,Sales,23.957.481/0001-23,Tecnologia,Softwares,Média,Cavalcanti,BA,+55 21 9279-1456,novaisravy@campos.gov.br,Inativo
+235,Teixeira,Martins Vargas e Filhos,34.017.698/0001-70,Logística,Fretes,Média,Castro,MG,+55 24 0543-6459,gaparecida@nascimento.com,Ativo
+236,Mendonça - EI,Barbosa S.A.,75.618.290/0001-30,Logística,Fretes,Média,da Conceição do Campo,RS,+55 93 6363-1797,lopesjoao-vitor@pimenta.br,Ativo
+237,Carvalho,Silveira,35.412.608/0001-08,Transporte,Fretes,Média,da Mota,MG,+55 61 1776-2534,luigioliveira@borges.br,Inativo
+238,Pastor Melo - ME,Albuquerque,63.827.419/0001-31,Logística,Fretes,Média,Oliveira,SP,+55 12 6007-8068,zmendes@machado.net,Ativo
+239,Novais S/A,Cunha,25.418.076/0001-62,Marketing,Marketing,Média,Castro dos Dourados,GO,+55 17 7726-2570,gomesbrenda@da.com.br,Ativo
+240,Sampaio,Viana Rodrigues S/A,95.048.273/0001-12,Financeiro,Serviços Financeiros,Média,Fonseca dos Dourados,PR,+55 22 5528-1832,rhavi81@sousa.com.br,Ativo
+241,Sá Souza S.A.,Fogaça,48.620.571/0001-55,Telefonia,Telefonia,Grande,Mendonça de Montenegro,MG,0300 178 8479,davi-lucca37@barros.com,Ativo
+242,Barbosa,Cavalcante Ltda.,12.796.405/0001-67,Cloud,Cloud,Grande,Rodrigues da Prata,MG,+55 55 7567-0431,da-conceicaoraquel@jesus.gov.br,Ativo
+243,Rezende,Mendonça,98.732.416/0001-07,Cloud,Cloud,Grande,Vieira,SC,+55 99 3754-0254,ncavalcante@silva.com,Ativo
+244,Santos Sales e Filhos,Castro da Costa S/A,05.237.819/0001-90,Transporte,Fretes,Grande,Rios,SP,31 5257-8284,alvesjade@vargas.com,Ativo
+245,Dias,Abreu Sousa - EI,85.432.719/0001-54,Marketing,Marketing,Média,Fernandes de Sales,SP,+55 48 7028-1406,maitefogaca@duarte.gov.br,Ativo
+246,Pacheco Moura S.A.,Costa,01.756.934/0001-10,Financeiro,Serviços Financeiros,Média,Dias de Pereira,RJ,96 0562-6565,da-pazcatarina@das.br,Ativo
+247,Cunha e Filhos,Sousa,67.415.380/0001-04,Financeiro,Serviços Financeiros,Média,Casa Grande,GO,+55 85 4785-1961,jesusyago@cavalcanti.edu.br,Ativo
+248,Santos,Costa Cirino - ME,48.702.951/0001-39,RH,Recursos Humanos,Média,Câmara de Alves,PR,+55 11 2447-1462,psales@alves.br,Ativo
+249,Peixoto e Filhos,Pacheco,76.458.301/0001-25,Tecnologia,Softwares,Grande,da Luz,SP,+55 68 9025-7252,da-mataeloah@porto.br,Inativo
+250,da Rocha Ltda.,Moraes S.A.,21.947.568/0001-94,Financeiro,Serviços Financeiros,Média,Brito da Prata,ES,43 2028-4576,luan13@montenegro.com.br,Ativo
+251,Leão - ME,Camargo S.A.,07.528.613/0001-45,Transporte,Fretes,Média,Cavalcanti da Mata,SP,+55 18 1322-3423,emanuellima@barbosa.com.br,Ativo
+252,Sá,Aparecida,31.065.478/0001-23,Transporte,Fretes,Pequena,da Cunha,PR,+55 24 1401-1939,leorios@alves.com,Ativo
+253,Souza da Mota - EI,Fogaça,28.346.059/0001-55,Transporte,Fretes,Pequena,Moura,BA,+55 87 3428-0138,sfonseca@macedo.com,Ativo
+254,Garcia,Cunha,83.602.794/0001-90,Logística,Fretes,Grande,Monteiro,MG,45 4801-5716,maria-alice94@camara.edu.br,Ativo
+255,da Rocha,Correia,17.590.386/0001-31,Logística,Fretes,Grande,Moreira de Ribeiro,MG,+55 41 1266-9121,miguel53@campos.net,Ativo
+256,Silveira,da Mota,94.623.851/0001-34,Transporte,Fretes,Pequena,Casa Grande dos Dourados,SP,+55 47 1477-3201,azevedomelina@cavalcanti.gov.br,Ativo
+257,Cassiano,Pinto,91.854.360/0001-06,Tecnologia,Softwares,Grande,Ribeiro do Amparo,SP,91 8485-8800,ycampos@dias.com.br,Ativo
+258,Macedo,Andrade,02.451.379/0001-81,Tecnologia,Softwares,Grande,Silva das Flores,RJ,89 1978-8977,nataliaaraujo@da.br,Ativo
+259,Pimenta,Vargas,45.079.613/0001-02,Jurídico,Serviços Jurídicos,Pequena,Sousa Verde,MG,+55 17 5616-5565,ribeirosamuel@da.gov.br,Ativo
+260,Sales S/A,Camargo,52.048.739/0001-77,Energia,Energia,Grande,Nunes do Galho,SC,67 4079-0569,kduarte@mendonca.com.br,Ativo
+261,Fernandes Monteiro - EI,Cavalcante,94.531.602/0001-19,Jurídico,Serviços Jurídicos,Pequena,da Paz,SP,11 0496-3919,pastorbarbara@azevedo.gov.br,Ativo
+262,Lima,Ferreira Vieira S/A,48.935.720/0001-75,Transporte,Fretes,Grande,Guerra Paulista,RS,97 7820-8297,maria-helenada-mata@nunes.com.br,Ativo
+263,Moreira S.A.,Martins,23.956.781/0001-98,Marketing,Marketing,Pequena,Azevedo do Oeste,SP,65 4424-9363,cassianomatheus@da.br,Ativo
+264,Novais,Lima,03.271.965/0001-07,RH,Recursos Humanos,Média,Ramos,SP,+55 22 7001-5941,qfonseca@goncalves.com.br,Ativo
+265,da Costa Camargo - EI,Moreira e Filhos,98.430.157/0001-51,Cloud,Cloud,Grande,Pacheco das Flores,SP,+55 93 6321-2347,lda-cunha@mendonca.br,Ativo
+266,Dias - EI,Melo,34.279.680/0001-46,RH,Recursos Humanos,Pequena,Sousa,SP,+55 28 3486-4518,luisagomes@goncalves.org,Ativo
+267,Sá S.A.,Costela,27.568.301/0001-72,Logística,Fretes,Grande,Vasconcelos,SC,91 7656-1248,fogacalaura@marques.com.br,Ativo
+268,Teixeira S/A,Pires Macedo e Filhos,20.615.943/0001-36,Telefonia,Telefonia,Grande,Camargo,SP,+55 67 3829-6577,vicentecavalcanti@da.net,Inativo
+269,Leão Ltda.,Gonçalves Garcia - EI,30.845.617/0001-79,RH,Recursos Humanos,Média,Costa de da Luz,SC,+55 71 0696-9421,luigi91@silva.br,Ativo
+270,Rocha,Campos,39.862.571/0001-70,Financeiro,Serviços Financeiros,Grande,Lopes,SP,+55 84 9343-6262,da-rochavinicius@pinto.br,Ativo
+271,Barros,Melo S.A.,56.397.820/0001-13,Logística,Fretes,Média,Novais,SP,+55 32 0537-5990,da-cunhamirella@da.br,Ativo
+272,Cardoso,Pacheco S.A.,42.783.109/0001-92,Tecnologia,Softwares,Média,Casa Grande Paulista,RJ,+55 49 5027-4564,vinicius85@cavalcante.br,Ativo
+273,Teixeira,Novais Ribeiro e Filhos,70.318.645/0001-52,Transporte,Fretes,Média,da Luz de Castro,RJ,84 6170-7587,hmonteiro@campos.net,Ativo
+274,Cirino,Souza Moraes Ltda.,93.046.187/0001-45,Escritório,Materiais de Escritório,Pequena,Vargas,PR,93 1504-1659,duarteleandro@barros.com.br,Ativo
+275,Marques,Peixoto,05.984.326/0001-14,Cloud,Cloud,Grande,Cunha,RJ,+55 27 4501-8961,lda-cunha@vargas.com,Inativo
+276,Castro Gomes - ME,Ramos,21.436.985/0001-72,Tecnologia,Softwares,Média,Freitas,RS,97 3776-7499,wborges@freitas.gov.br,Ativo
+277,Lopes Pires - ME,Aparecida - EI,57.396.182/0001-89,Tecnologia,Softwares,Média,da Rocha,SP,84 6174-2243,kda-rocha@novaes.com,Ativo
+278,Moraes - ME,Brito,74.528.093/0001-68,Cloud,Cloud,Grande,Cavalcanti de Viana,SP,+55 75 6016-4597,zpinto@fernandes.com.br,Ativo
+279,Cunha Cirino S/A,Rocha,16.073.845/0001-47,Escritório,Materiais de Escritório,Pequena,Marques de Sales,RJ,63 9749-9564,cardosojoao-gabriel@correia.com.br,Ativo
+280,Sampaio S.A.,Costela - ME,23.675.410/0001-38,Logística,Fretes,Média,Vargas dos Dourados,SP,+55 64 7601-2277,calmeida@costa.com.br,Ativo
+281,Aragão,Albuquerque,16.873.420/0001-12,Financeiro,Serviços Financeiros,Grande,Guerra de Mendonça,RJ,97 9973-0806,davi-lucas46@camargo.br,Ativo
+282,Machado,Almeida,24.379.615/0001-39,Transporte,Fretes,Média,Pastor,RJ,37 9724-6657,oliverda-paz@rios.com,Ativo
+283,Costa Castro - EI,Brito,67.419.803/0001-56,Logística,Fretes,Média,da Luz da Praia,MG,+55 67 2801-5619,isaquenovais@mendonca.com.br,Ativo
+284,Vargas,Vargas - EI,42.150.396/0001-01,Tecnologia,Softwares,Média,Viana,SP,+55 46 8081-2135,anasantos@teixeira.edu.br,Ativo
+285,Siqueira,Cassiano e Filhos,59.201.346/0001-09,Tecnologia,Softwares,Grande,Melo,PR,38 4821-4565,kevinsa@viana.net,Ativo
+286,Lima Jesus - ME,Moreira,50.718.493/0001-78,Tecnologia,Softwares,Grande,Dias das Flores,MG,+55 69 6060-2908,larissa68@silveira.com.br,Ativo
+287,Ferreira,da Mota - EI,92.635.178/0001-27,Logística,Fretes,Grande,Viana das Flores,RJ,+55 82 4108-5628,paulo18@moreira.br,Ativo
+288,Almeida Alves - EI,da Costa,46.150.293/0001-94,Jurídico,Serviços Jurídicos,Pequena,Campos do Norte,RS,+55 53 7490-7539,clarada-rosa@rios.com.br,Ativo
+289,Silva Garcia - EI,Caldeira Duarte - EI,93.580.164/0001-16,RH,Recursos Humanos,Média,Borges,RJ,+55 32 6273-7158,jpastor@da.gov.br,Ativo
+290,Porto,Macedo,76.214.839/0001-94,Logística,Fretes,Média,Cardoso de Santos,SP,97 8137-7028,isaac96@campos.gov.br,Ativo
+291,Aparecida,Campos Freitas Ltda.,54.830.172/0001-11,Financeiro,Serviços Financeiros,Média,Aragão da Mata,SP,16 3270-1851,leaomaria-luisa@nunes.br,Ativo
+292,Viana,Melo,92.845.367/0001-24,Logística,Fretes,Média,Cassiano de Siqueira,RS,33 1996-6365,riosluisa@ramos.com,Inativo
+293,Santos Alves - EI,Novais,18.974.502/0001-89,Telefonia,Telefonia,Grande,Sá,MG,86 8018-2043,liviabarros@guerra.gov.br,Ativo
+294,Mendonça S/A,Lopes,26.084.931/0001-09,Marketing,Marketing,Média,Camargo,SP,+55 45 8242-2412,joana20@cirino.com,Ativo
+295,da Rosa - ME,Dias S.A.,65.430.817/0001-45,Logística,Fretes,Média,Monteiro,RJ,96 8614-0578,eazevedo@jesus.net,Ativo
+296,da Mata - EI,da Cruz - EI,24.630.815/0001-12,Tecnologia,Softwares,Média,Nogueira da Serra,SP,+55 95 8687-0079,lucas-gabriel00@da.gov.br,Ativo
+297,Rodrigues,Ferreira,38.401.765/0001-06,RH,Recursos Humanos,Pequena,Gonçalves,PR,+55 53 2846-3985,vicente74@ribeiro.net,Ativo
+298,Peixoto,Almeida,20.786.139/0001-10,Transporte,Fretes,Média,Teixeira de Gonçalves,SP,0900 118 0715,wpeixoto@cavalcanti.com.br,Ativo
+299,Campos - ME,Correia,70.358.246/0001-15,Logística,Fretes,Grande,Pimenta,RS,22 3375-0479,anthony-gabrielcosta@camargo.com.br,Ativo
+300,Nunes,Cavalcante,83.204.169/0001-90,Marketing,Marketing,Média,Nunes de Goiás,MG,99 4308-9487,limacaua@lopes.com.br,Ativo
+301,da Mota,Rodrigues - EI,79.540.186/0001-21,Cloud,Cloud,Grande,Nascimento dos Dourados,MG,28 0635-1903,pbarbosa@cavalcante.com,Ativo
+302,Alves - ME,Alves,95.410.367/0001-90,Logística,Fretes,Grande,Farias,SP,99 3199-7179,barrosdavi@garcia.com.br,Ativo
+303,Viana S.A.,Macedo S/A,46.105.897/0001-19,Cloud,Cloud,Grande,Guerra do Campo,RJ,65 3990-7676,fernandesbenjamim@moreira.br,Ativo
+304,Caldeira Caldeira S/A,Pastor S.A.,92.483.570/0001-06,Logística,Fretes,Grande,Carvalho,SP,+55 24 0249-6854,juanmelo@pereira.br,Ativo
+305,Freitas,Moreira - EI,20.346.871/0001-79,Logística,Fretes,Grande,Costa,PR,+55 83 1537-7959,ana-clara65@caldeira.br,Ativo
+306,Abreu Porto S.A.,Martins Pinto S.A.,37.568.914/0001-63,Tecnologia,Softwares,Média,Abreu,PR,45 0150-8124,ocorreia@aparecida.com,Ativo
+307,Costa da Paz S.A.,da Luz Silveira S.A.,58.316.097/0001-26,Transporte,Fretes,Pequena,Almeida,SP,+55 62 6153-4735,luigi89@silva.com,Ativo
+308,Casa Grande S.A.,Correia Nascimento - ME,59.681.072/0001-94,Cloud,Cloud,Grande,Vieira Grande,SP,33 3042-8973,vianamaria-isis@cavalcante.br,Ativo
+309,Monteiro,Cavalcanti,59.783.624/0001-75,Tecnologia,Softwares,Grande,Porto Verde,RJ,+55 21 3337-3634,kgarcia@freitas.com,Ativo
+310,Sá Barros Ltda.,Moreira,53.084.921/0001-46,Logística,Fretes,Média,Martins de Lopes,MG,64 5754-6027,viniciusramos@fogaca.org,Ativo
+311,Viana Ltda.,Brito Campos S/A,50.321.649/0001-82,Transporte,Fretes,Grande,Correia Grande,RJ,+55 99 0445-6690,grezende@goncalves.com.br,Inativo
+312,Melo da Conceição - EI,Silveira,75.129.340/0001-16,Tecnologia,Softwares,Média,Machado de Novais,SC,+55 18 5292-4075,rael66@teixeira.com.br,Ativo
+313,Duarte,Nunes S/A,29.547.631/0001-07,Tecnologia,Softwares,Grande,Gonçalves,SP,+55 33 8637-1597,francisco21@andrade.br,Ativo
+314,Cirino S.A.,Gomes Ltda.,39.457.086/0001-11,Escritório,Materiais de Escritório,Pequena,Moreira do Sul,RS,+55 71 5662-1286,esouza@costela.com,Ativo
+315,das Neves Lopes e Filhos,Castro,94.385.720/0001-66,Logística,Fretes,Grande,Casa Grande,SP,77 1693-8597,kmartins@sousa.org,Ativo
+316,Ferreira,Gonçalves,92.617.435/0001-06,Escritório,Materiais de Escritório,Pequena,Ribeiro da Serra,GO,+55 44 6032-4841,marinajesus@freitas.com.br,Ativo
+317,Montenegro Ltda.,Machado,24.380.756/0001-71,Marketing,Marketing,Média,Garcia de Fernandes,SP,62 3600-4125,dmendonca@barros.gov.br,Ativo
+318,Silva Macedo S.A.,da Mota,29.047.185/0001-71,Tecnologia,Softwares,Grande,Cavalcante de Minas,PR,+55 13 4275-2308,luisasampaio@porto.gov.br,Ativo
+319,Gomes e Filhos,Macedo,09.863.145/0001-90,Tecnologia,Softwares,Média,Costa,RJ,+55 43 0600-5313,rioslucas-gabriel@aparecida.com,Ativo
+320,Duarte,Pinto Costela - EI,69.178.025/0001-86,Escritório,Materiais de Escritório,Pequena,Albuquerque,RS,62 5063-7314,caio13@da.com.br,Ativo
+321,Caldeira,da Cunha Brito - EI,56.271.830/0001-08,Tecnologia,Softwares,Grande,Almeida Verde,RJ,77 6838-9030,das-nevesrenan@sa.net,Ativo
+322,Araújo S.A.,Monteiro,43.281.057/0001-19,Telefonia,Telefonia,Grande,Sousa de Farias,RJ,+55 61 4508-6403,caroline33@rios.com.br,Ativo
+323,Pereira Garcia - EI,Cirino,70.163.894/0001-16,Transporte,Fretes,Grande,Costela,SP,+55 54 1298-3381,dsilveira@cavalcante.com.br,Ativo
+324,da Cruz Lima S.A.,da Rosa da Paz - EI,73.468.021/0001-00,Tecnologia,Softwares,Grande,Cavalcante do Amparo,MG,74 6896-2706,wbarros@peixoto.edu.br,Ativo
+325,Novaes Siqueira S.A.,Garcia,74.923.850/0001-06,Transporte,Fretes,Pequena,Carvalho do Amparo,ES,+55 82 2300-8576,vgoncalves@gomes.br,Ativo
+326,Ramos,Jesus S/A,16.293.745/0001-26,Tecnologia,Softwares,Grande,Porto de Sales,SP,47 0663-3705,sampaiojuan@pereira.br,Ativo
+327,da Cunha da Cruz - EI,Albuquerque Camargo S/A,69.147.358/0001-48,Tecnologia,Softwares,Grande,Sales da Mata,RJ,94 8694-6119,joao-pedro43@sampaio.org,Ativo
+328,Cavalcante - ME,Brito S/A,68.952.310/0001-40,Financeiro,Serviços Financeiros,Grande,Cirino Grande,RJ,+55 82 7281-7932,dantesouza@teixeira.com.br,Ativo
+329,Macedo,Porto S.A.,14.930.257/0001-57,Logística,Fretes,Média,Pacheco,PE,+55 93 7710-0409,britootavio@garcia.edu.br,Ativo
+330,Mendonça,Sá,56.927.840/0001-59,Cloud,Cloud,Grande,Rios das Flores,RJ,49 9055-1076,benjamimpereira@moura.com.br,Ativo
+331,Freitas Machado - EI,Moraes,63.052.794/0001-57,Transporte,Fretes,Média,Rocha dos Dourados,MG,+55 92 9769-1567,siqueirahelena@pereira.net,Ativo
+332,Moreira Oliveira e Filhos,Cardoso - ME,14.793.052/0001-77,Cloud,Cloud,Grande,da Cruz,SP,+55 86 2116-0256,pedro-lucas47@rios.edu.br,Ativo
+333,Borges,Câmara,91.537.640/0001-90,Cloud,Cloud,Grande,da Luz,SP,+55 49 4111-5931,jose-miguel56@das.gov.br,Ativo
+334,Gomes Lima Ltda.,Rocha,28.307.651/0001-48,RH,Recursos Humanos,Pequena,da Rocha,SP,+55 88 7729-4209,ana-luiza81@santos.gov.br,Ativo
+335,Pires,Monteiro da Rocha e Filhos,60.517.942/0001-73,Tecnologia,Softwares,Média,Vasconcelos,SP,+55 74 7642-0865,erocha@sa.br,Ativo
+336,Barbosa,da Paz,38.601.274/0001-09,Cloud,Cloud,Grande,Marques da Serra,MG,+55 62 7742-3330,gustavo26@rocha.com.br,Ativo
+337,Araújo Brito Ltda.,Cavalcanti,01.543.879/0001-80,Logística,Fretes,Média,Campos,MG,+55 94 6749-2617,oda-mota@freitas.com,Ativo
+338,Camargo S/A,Mendonça e Filhos,83.046.591/0001-65,Tecnologia,Softwares,Grande,Vieira,MG,+55 75 6764-9215,silvastephany@guerra.br,Ativo
+339,Azevedo,Sá S.A.,12.804.376/0001-38,Transporte,Fretes,Média,Cardoso,SP,+55 84 2184-0118,emanuella82@ribeiro.com,Inativo
+340,da Rosa Aparecida - EI,Ribeiro,87.243.965/0001-93,Logística,Fretes,Média,Sales,SP,+55 45 0303-2432,elisada-mota@siqueira.com,Inativo
+341,da Luz,Rezende,26.709.315/0001-04,Tecnologia,Softwares,Média,Barbosa,RS,12 3598-9262,luara60@barbosa.edu.br,Ativo
+342,Rodrigues - EI,Azevedo,51.926.843/0001-54,Telefonia,Telefonia,Grande,Brito,MG,49 3611-2849,hbrito@sampaio.gov.br,Ativo
+343,Novaes,Pereira,10.273.965/0001-01,Cloud,Cloud,Grande,Mendes Verde,SP,+55 54 4082-2269,caue53@santos.br,Ativo
+344,Macedo Fogaça - ME,da Mota,68.325.091/0001-79,Marketing,Marketing,Média,Borges de Minas,PR,+55 37 3129-0148,balbuquerque@mendes.gov.br,Ativo
+345,Guerra S/A,Souza Abreu e Filhos,68.517.402/0001-00,Transporte,Fretes,Pequena,Cavalcante de Rocha,SP,0300 321 5285,limamaya@cavalcante.br,Ativo
+346,Fernandes e Filhos,Nogueira Vargas S/A,49.726.105/0001-11,Logística,Fretes,Média,Cunha da Mata,SP,97 0797-0509,tfarias@caldeira.com,Ativo
+347,Silveira,Guerra Fogaça S/A,16.790.483/0001-05,RH,Recursos Humanos,Média,Mendonça,GO,+55 12 2437-6545,icirino@caldeira.br,Ativo
+348,Castro,Fogaça Souza - ME,05.391.267/0001-70,Cloud,Cloud,Grande,Leão Alegre,RJ,+55 19 2374-1678,trodrigues@duarte.edu.br,Ativo
+349,Cardoso,Caldeira S/A,29.540.178/0001-07,Transporte,Fretes,Pequena,Lima do Sul,RJ,73 7447-1639,ninacirino@da.com.br,Ativo
+350,Sampaio,Rios Lima S.A.,71.284.650/0001-54,Tecnologia,Softwares,Grande,Guerra,RS,+55 21 4326-0931,garciajoana@sampaio.gov.br,Ativo
+351,Câmara Fernandes - ME,Araújo,86.027.941/0001-34,Transporte,Fretes,Média,Silva das Pedras,MG,+55 96 5020-0053,maria-julia49@lopes.org,Ativo
+352,Fonseca,da Rosa,19.054.826/0001-61,Financeiro,Serviços Financeiros,Grande,Souza Verde,SP,0500 953 4396,caldeirajose-pedro@aparecida.gov.br,Ativo
+353,Correia Santos - ME,Barbosa - EI,95.483.170/0001-80,Logística,Fretes,Grande,Correia,SC,67 8485-5716,mendeslarissa@cavalcante.org,Ativo
+354,da Rocha Aparecida - EI,Vieira e Filhos,36.754.809/0001-56,Energia,Energia,Grande,Sá de Moraes,RS,53 8669-4320,pedro-henriquepastor@vieira.br,Ativo
+355,da Rosa,da Rocha Santos Ltda.,81.290.463/0001-37,Transporte,Fretes,Média,Porto,RJ,+55 64 4240-3381,rezendececilia@duarte.com,Ativo
+356,Silveira,Jesus Pimenta Ltda.,50.862.197/0001-46,RH,Recursos Humanos,Média,Almeida da Prata,SP,+55 47 6498-3735,nicolas96@machado.com.br,Ativo
+357,Freitas,Mendes Borges - ME,27.961.538/0001-19,Tecnologia,Softwares,Média,Ramos,SC,16 0422-6931,diegolima@marques.com,Ativo
+358,Siqueira Sá S/A,Garcia - ME,01.965.784/0001-55,Logística,Fretes,Média,da Mata,MG,+55 63 9001-8513,maria-luizateixeira@castro.org,Ativo
+359,Mendes,da Cruz Araújo - EI,48.106.529/0001-10,Marketing,Marketing,Pequena,Casa Grande do Sul,MG,+55 89 0366-2543,trodrigues@mendonca.com,Ativo
+360,Caldeira da Paz Ltda.,Pimenta Ltda.,15.904.783/0001-05,Tecnologia,Softwares,Grande,Peixoto da Serra,SC,68 2494-5147,vinicius10@vasconcelos.br,Ativo
+361,Gomes Machado e Filhos,Azevedo,16.490.285/0001-26,Marketing,Marketing,Pequena,Fogaça Alegre,SP,92 6769-5236,fnovaes@nascimento.edu.br,Ativo
+362,Gomes Barros - EI,Moura,93.172.064/0001-50,Logística,Fretes,Grande,Novais do Amparo,SP,+55 61 1055-2472,nda-cruz@araujo.com,Ativo
+363,Garcia Siqueira S/A,Freitas,01.834.796/0001-40,Cloud,Cloud,Grande,Casa Grande de Minas,SP,+55 95 1096-2272,maria-isis65@viana.gov.br,Ativo
+364,da Paz S/A,Araújo Ramos S/A,92.803.547/0001-43,Escritório,Materiais de Escritório,Pequena,Oliveira do Galho,MG,24 3624-1862,isadorapinto@camara.com,Ativo
+365,Sales - ME,Dias,69.207.314/0001-66,Marketing,Marketing,Pequena,Caldeira,RJ,+55 37 5950-3428,azevedootavio@sa.net,Ativo
+366,Porto Andrade S.A.,Barros,90.786.251/0001-36,Logística,Fretes,Média,Fogaça,SP,16 6835-6521,joana81@alves.br,Ativo
+367,da Rocha S.A.,Rodrigues Martins S/A,13.865.942/0001-84,Escritório,Materiais de Escritório,Pequena,Machado Grande,SP,37 4596-0633,cassianomaysa@albuquerque.com.br,Ativo
+368,Novaes,Monteiro S/A,75.291.063/0001-43,Escritório,Materiais de Escritório,Pequena,Fogaça de Minas,RJ,+55 35 2747-4721,xaparecida@guerra.br,Ativo
+369,Macedo Fonseca - EI,Freitas,16.725.048/0001-05,Cloud,Cloud,Grande,Sampaio,SP,+55 13 2146-2961,hellenamartins@ferreira.br,Ativo
+370,Caldeira,Cirino e Filhos,16.893.207/0001-72,Telefonia,Telefonia,Média,Pereira do Amparo,SP,+55 86 7147-0827,paulodias@peixoto.com,Ativo
+371,Vieira,Melo,30.968.721/0001-50,Tecnologia,Softwares,Média,Barros,SP,+55 63 1461-4768,valentimcirino@borges.br,Ativo
+372,Cavalcante,Ferreira Leão - ME,78.253.960/0001-50,Logística,Fretes,Grande,Barbosa,SC,+55 64 5502-7275,vieirajoana@moreira.com.br,Ativo
+373,Machado S.A.,Porto,91.085.632/0001-50,RH,Recursos Humanos,Média,Peixoto,MG,49 3533-9055,da-rosaana-liz@sampaio.gov.br,Ativo
+374,Jesus,Fogaça,58.642.013/0001-44,Tecnologia,Softwares,Média,Freitas da Serra,SP,+55 68 8664-6491,caldeirafelipe@pimenta.com,Ativo
+375,Souza,Porto - ME,80.463.175/0001-74,Telefonia,Telefonia,Grande,Camargo do Oeste,SP,85 1576-6053,vitor-gabriel44@rocha.net,Ativo
+376,Leão S/A,Alves S.A.,58.921.430/0001-26,Transporte,Fretes,Pequena,Correia das Flores,RJ,+55 28 9626-2658,luizada-conceicao@santos.edu.br,Ativo
+377,Pires - EI,Teixeira,48.271.093/0001-15,Cloud,Cloud,Grande,Albuquerque Verde,RJ,+55 66 0981-9602,oporto@cirino.net,Ativo
+378,da Rosa Correia - EI,Silveira Vasconcelos - ME,40.981.673/0001-94,Financeiro,Serviços Financeiros,Média,Peixoto de Campos,SP,+55 47 2442-1175,heloisabrito@vieira.com,Ativo
+379,Barbosa,Pires,13.682.790/0001-84,Transporte,Fretes,Média,Albuquerque da Serra,PR,+55 19 1557-9980,rebecasousa@campos.net,Ativo
+380,Nascimento S/A,Cunha Fonseca S/A,30.516.879/0001-90,Transporte,Fretes,Grande,Mendes do Oeste,RJ,+55 43 5847-7686,theodorocavalcanti@rodrigues.br,Ativo
+381,Pacheco - EI,Cavalcante,37.698.421/0001-48,Jurídico,Serviços Jurídicos,Pequena,Pereira,SC,53 6395-5172,moraesthiago@da.gov.br,Ativo
+382,Gonçalves,Camargo S.A.,56.271.098/0001-76,Tecnologia,Softwares,Grande,Freitas Grande,RJ,28 1050-5379,ravi-lucca81@da.gov.br,Ativo
+383,Moura Cunha S/A,Silva,91.653.240/0001-40,Tecnologia,Softwares,Média,Aragão,SP,92 7046-1172,hadassa39@da.gov.br,Ativo
+384,Martins Ltda.,Guerra Andrade - EI,80.579.634/0001-80,Transporte,Fretes,Pequena,Silveira da Mata,RJ,14 5561-8579,goncalvesana-cecilia@monteiro.com.br,Ativo
+385,Freitas - EI,Alves S.A.,09.287.316/0001-80,Marketing,Marketing,Pequena,Correia,MG,47 8004-0104,da-luzbella@da.com.br,Ativo
+386,Carvalho Pacheco - ME,Cardoso Ltda.,26.750.419/0001-54,Cloud,Cloud,Grande,Ribeiro de Mendonça,SP,15 5731-4415,noahsales@barbosa.com,Ativo
+387,Albuquerque Rios S.A.,Gomes,37.128.465/0001-32,Transporte,Fretes,Pequena,Rezende de Cassiano,MG,95 1235-6798,isabellycorreia@da.com,Inativo
+388,Oliveira,Casa Grande - ME,19.307.826/0001-26,Tecnologia,Softwares,Média,Ribeiro de Moura,SP,79 5418-1563,isabellamontenegro@moraes.br,Ativo
+389,Macedo Ltda.,Brito,06.812.739/0001-84,Telefonia,Telefonia,Média,Moura do Amparo,RJ,98 6103-1310,oliveiravitor@azevedo.org,Ativo
+390,Pinto Sampaio e Filhos,Gonçalves,61.359.270/0001-88,Tecnologia,Softwares,Grande,Viana,MG,+55 84 5494-0128,tsousa@cavalcante.com,Ativo
+391,Cirino Farias - ME,Albuquerque Rios - ME,65.012.798/0001-37,Transporte,Fretes,Grande,Peixoto,MG,43 7907-3710,nunesamanda@moura.com.br,Ativo
+392,Vasconcelos Brito S/A,Sousa,57.892.463/0001-22,Transporte,Fretes,Pequena,da Cunha de Fonseca,SP,82 0545-8971,rafaela02@camara.gov.br,Inativo
+393,Fogaça Monteiro S/A,Oliveira Sousa e Filhos,65.380.172/0001-83,Tecnologia,Softwares,Grande,da Mota,RJ,79 8245-5696,ana-luiza30@pimenta.com,Ativo
+394,Vieira,Nunes,54.103.792/0001-59,Escritório,Materiais de Escritório,Pequena,Moreira,PR,18 9824-7414,marquesbruno@da.com,Ativo
+395,das Neves,Lopes Ltda.,09.412.568/0001-94,Logística,Fretes,Média,Casa Grande do Oeste,MG,71 9143-0753,zlima@da.gov.br,Inativo
+396,Cavalcanti,Rocha,52.381.794/0001-84,Logística,Fretes,Grande,Barros da Mata,RS,83 8266-1287,milena57@lima.br,Ativo
+397,Jesus,Alves,80.691.427/0001-12,Energia,Energia,Grande,Cardoso da Prata,PE,19 0626-0787,barrosdaniel@rezende.com,Ativo
+398,Peixoto,da Rocha - EI,75.098.462/0001-92,RH,Recursos Humanos,Média,Moreira,MG,+55 63 8723-2440,spinto@camargo.com,Ativo
+399,Moreira S/A,Costela Caldeira - ME,08.739.521/0001-77,Escritório,Materiais de Escritório,Pequena,Cirino de da Costa,GO,+55 99 9791-6202,rodrigocavalcante@melo.org,Ativo
+400,Pastor - ME,Rios,46.850.391/0001-34,Marketing,Marketing,Média,Alves,SC,16 7196-0940,waparecida@martins.org,Ativo
+401,Castro Ltda.,Ferreira Santos - EI,68.175.923/0001-18,Tecnologia,Softwares,Grande,Marques Grande,SC,15 4617-6792,jose-pedro59@pacheco.gov.br,Ativo
+402,Azevedo,Alves e Filhos,23.150.847/0001-58,Transporte,Fretes,Média,Vargas,MG,+55 93 1266-1094,andradediogo@teixeira.br,Ativo
+403,Cavalcanti Ltda.,Sampaio - ME,62.318.745/0001-50,Telefonia,Telefonia,Grande,Câmara do Oeste,MG,+55 68 6831-9013,carvalhoanthony@vasconcelos.br,Ativo
+404,Fernandes S.A.,Correia,37.524.810/0001-57,Logística,Fretes,Média,Lima de Pires,RJ,49 1912-8411,dda-conceicao@almeida.net,Ativo
+405,da Cunha,Santos,51.270.486/0001-19,Telefonia,Telefonia,Grande,Guerra do Norte,SP,+55 48 9740-0564,brunateixeira@carvalho.edu.br,Ativo
+406,Sá,da Costa - ME,10.583.462/0001-32,Tecnologia,Softwares,Média,Cardoso de da Mata,MG,+55 22 1078-3567,rafael00@vasconcelos.edu.br,Ativo
+407,Rodrigues,Novaes - ME,06.851.342/0001-00,Financeiro,Serviços Financeiros,Grande,Camargo,PR,74 1955-3560,raviborges@da.com.br,Ativo
+408,Albuquerque e Filhos,Araújo Barbosa S/A,27.980.643/0001-03,Escritório,Materiais de Escritório,Pequena,da Rocha,SC,+55 55 9671-1148,mayasantos@camara.br,Ativo
+409,Fonseca,Rezende,38.425.709/0001-01,Logística,Fretes,Grande,Jesus do Amparo,SP,15 1328-3483,freitasjoao-miguel@da.br,Ativo
+410,Camargo,Monteiro S/A,49.620.573/0001-07,Logística,Fretes,Média,Monteiro do Sul,RS,51 6703-3626,ribeiroana-laura@nogueira.com,Ativo
+411,da Luz,Sá Alves Ltda.,96.875.042/0001-45,Cloud,Cloud,Grande,Silveira da Mata,SP,0800 769 9842,vmartins@cardoso.com.br,Ativo
+412,Barros,Vargas Nogueira Ltda.,56.042.983/0001-83,Escritório,Materiais de Escritório,Pequena,Viana do Sul,MG,+55 53 4954-2770,dalbuquerque@fogaca.gov.br,Ativo
+413,Jesus Araújo - EI,da Mota - EI,85.137.249/0001-04,Tecnologia,Softwares,Média,Cardoso de da Conceição,RS,+55 73 2903-1028,upacheco@novaes.net,Ativo
+414,Silva Ltda.,Almeida,58.041.273/0001-64,Telefonia,Telefonia,Grande,Camargo de Moraes,SP,+55 37 3359-5616,joao-pedro05@farias.br,Ativo
+415,Melo,Pinto,02.598.163/0001-43,Telefonia,Telefonia,Média,Dias,MG,96 8953-6902,pteixeira@barbosa.gov.br,Ativo
+416,Nascimento,Moura S/A,97.826.150/0001-90,Transporte,Fretes,Pequena,da Cruz da Praia,SP,+55 92 7513-7651,mirella15@pereira.net,Ativo
+417,Viana,da Conceição,92.367.418/0001-50,Escritório,Materiais de Escritório,Pequena,Vieira da Mata,RJ,38 5116-6829,xpires@cirino.com,Ativo
+418,Leão Ltda.,Souza,12.063.794/0001-11,Marketing,Marketing,Pequena,Moraes,RJ,0500 665 2683,isaac55@silveira.com,Ativo
+419,Machado,Pires,76.483.192/0001-04,Tecnologia,Softwares,Média,Cassiano,RJ,+55 12 9957-6572,gael34@fernandes.com,Ativo
+420,da Paz,Gomes,52.809.137/0001-95,Cloud,Cloud,Grande,Oliveira Alegre,RS,+55 45 5421-4477,luccada-paz@pereira.com.br,Ativo
+421,da Conceição e Filhos,Casa Grande,13.204.695/0001-75,RH,Recursos Humanos,Média,Alves de Freitas,ES,+55 84 4967-8274,silvaisaque@lopes.br,Ativo
+422,Borges,da Mota Siqueira e Filhos,15.987.024/0001-53,Transporte,Fretes,Pequena,da Mota dos Dourados,SP,97 1506-1853,portoantony@carvalho.com.br,Ativo
+423,Rocha Costa Ltda.,Cassiano,72.981.506/0001-30,Tecnologia,Softwares,Média,Abreu,SP,73 1789-3206,gabrielly93@mendes.edu.br,Ativo
+424,da Rosa da Conceição Ltda.,Mendonça,65.720.184/0001-00,Logística,Fretes,Média,Machado Alegre,RS,+55 96 6127-5156,maria-sophiamendonca@rodrigues.net,Ativo
+425,da Rocha Ltda.,Viana Jesus S/A,85.492.371/0001-90,RH,Recursos Humanos,Pequena,Guerra Paulista,SC,+55 28 4735-0476,lucas-gabrielnascimento@vasconcelos.gov.br,Ativo
+426,Cardoso,Silveira S/A,61.524.079/0001-44,Marketing,Marketing,Média,Fonseca,PR,0900 328 6342,bianca63@albuquerque.com.br,Ativo
+427,Montenegro - ME,Aparecida,24.801.567/0001-25,Escritório,Materiais de Escritório,Pequena,Viana,RS,49 6241-1186,albuquerquevitoria@brito.com.br,Ativo
+428,Correia,Viana,56.028.317/0001-90,Tecnologia,Softwares,Média,Rezende Verde,RJ,85 6461-3684,sda-paz@garcia.com.br,Inativo
+429,Freitas,Machado S.A.,90.671.325/0001-99,Logística,Fretes,Média,Ramos,SP,27 5211-8237,enzocasa-grande@pimenta.com.br,Ativo
+430,Moreira,Araújo Vargas - ME,46.952.107/0001-30,Escritório,Materiais de Escritório,Pequena,Abreu Paulista,SP,+55 85 8787-5357,jmoraes@caldeira.com.br,Ativo
+431,Garcia S.A.,Castro - EI,12.370.569/0001-28,Tecnologia,Softwares,Grande,Pires,RS,0300 728 6604,lopesana-beatriz@moreira.br,Ativo
+432,Nunes,Casa Grande da Rocha - EI,35.496.128/0001-72,Telefonia,Telefonia,Média,Cavalcante,SP,0300 705 6227,abreuana-livia@costa.edu.br,Ativo
+433,Farias,Araújo - EI,72.185.493/0001-92,Escritório,Materiais de Escritório,Pequena,Correia,MG,14 4694-5964,eduardopastor@caldeira.org,Ativo
+434,da Luz Nunes S/A,Moreira Pastor e Filhos,65.498.730/0001-00,Escritório,Materiais de Escritório,Pequena,Abreu,SC,+55 92 3192-2270,eduardo02@lima.gov.br,Ativo
+435,Duarte,Montenegro,13.687.529/0001-77,Cloud,Cloud,Grande,Moura de Minas,ES,+55 86 2426-8774,novaisluara@cavalcanti.com,Ativo
+436,Martins,Siqueira,63.872.109/0001-39,Telefonia,Telefonia,Média,Fonseca de Moura,MG,+55 81 0945-1548,pereirayago@ramos.gov.br,Ativo
+437,Gonçalves,Sampaio e Filhos,49.087.361/0001-06,Tecnologia,Softwares,Média,Melo,RJ,+55 46 0509-2221,dcampos@porto.com.br,Ativo
+438,Dias S/A,Correia,90.567.214/0001-37,Tecnologia,Softwares,Média,Moreira do Sul,SC,63 6013-8241,liviaaparecida@pereira.net,Ativo
+439,Cavalcanti,das Neves Ltda.,85.123.406/0001-14,Tecnologia,Softwares,Grande,Borges de Camargo,SP,+55 43 2125-9020,evelynmarques@silveira.org,Ativo
+440,Souza Sá e Filhos,das Neves Aragão - ME,42.917.830/0001-28,Tecnologia,Softwares,Média,da Mata,MG,+55 83 2447-4175,cecilia87@andrade.com,Ativo
+441,Sampaio Lopes Ltda.,Costela,58.407.126/0001-65,Escritório,Materiais de Escritório,Pequena,da Luz de Andrade,PR,+55 49 8272-7955,lribeiro@duarte.com,Ativo
+442,Albuquerque,Leão Melo Ltda.,51.276.839/0001-98,Telefonia,Telefonia,Média,Sá,SP,+55 16 7979-9667,thiagosilveira@peixoto.br,Ativo
+443,Rocha,da Rosa,03.186.254/0001-34,Transporte,Fretes,Média,Castro,SC,97 2498-3922,caue14@ferreira.com,Ativo
+444,Abreu,Costa Cavalcanti Ltda.,41.286.307/0001-88,Marketing,Marketing,Média,Cassiano,MG,48 0725-1786,maria-juliarios@martins.com.br,Ativo
+445,Teixeira Brito - ME,Dias Teixeira S.A.,65.498.372/0001-35,Cloud,Cloud,Grande,Ferreira,PR,91 9039-2355,melissa09@barbosa.gov.br,Ativo
+446,Carvalho Monteiro S.A.,Cunha Ltda.,61.537.890/0001-60,Tecnologia,Softwares,Média,das Neves das Flores,SP,88 0462-2681,wbarros@rezende.com.br,Ativo
+447,Castro Ltda.,Oliveira Montenegro - ME,70.956.348/0001-32,Tecnologia,Softwares,Grande,Lima Paulista,SP,+55 49 9785-7585,vianaluiz-henrique@nascimento.com.br,Ativo
+448,Rocha,Cassiano S/A,54.386.790/0001-14,Transporte,Fretes,Média,da Paz de Aparecida,MG,+55 53 7750-9546,ana-carolina08@cavalcanti.org,Ativo
+449,Leão,Machado Ltda.,40.125.839/0001-70,Telefonia,Telefonia,Média,Barros,RS,0800 122 7645,nsales@siqueira.br,Ativo
+450,Barbosa Ltda.,Andrade,21.645.093/0001-81,Tecnologia,Softwares,Grande,Lima das Flores,RJ,+55 16 2416-1394,olivia83@freitas.br,Ativo
+451,Teixeira Lopes Ltda.,da Mota Montenegro e Filhos,06.257.891/0001-42,RH,Recursos Humanos,Média,Almeida,RJ,66 2447-9513,arthur-miguelsantos@camara.com,Ativo
+452,Siqueira,Pastor,65.934.021/0001-20,Tecnologia,Softwares,Média,Ferreira dos Dourados,RJ,+55 65 7738-2646,ribeiroemanuel@novais.br,Ativo
+453,Costela e Filhos,da Rosa,45.783.012/0001-78,Financeiro,Serviços Financeiros,Média,Pinto,MG,43 9660-4873,inascimento@pereira.com.br,Ativo
+454,Brito - ME,Cunha Camargo - EI,42.865.391/0001-57,Logística,Fretes,Média,Leão,SP,15 5515-8886,isismonteiro@da.com.br,Inativo
+455,Castro,Guerra da Paz S/A,85.791.032/0001-05,Logística,Fretes,Média,Leão das Pedras,PR,+55 79 0932-9981,ualmeida@cavalcante.br,Ativo
+456,Freitas S/A,Novaes,83.297.146/0001-78,Transporte,Fretes,Média,Duarte,SP,+55 55 4103-9773,yda-costa@martins.com,Ativo
+457,Castro,Martins Silveira S/A,09.674.358/0001-74,Telefonia,Telefonia,Média,da Luz da Prata,SP,+55 51 9807-7046,fonsecaisabelly@lima.com.br,Ativo
+458,Caldeira S.A.,Teixeira,91.273.680/0001-72,Escritório,Materiais de Escritório,Pequena,Costela de da Luz,SC,+55 44 5177-3454,yfarias@sampaio.org,Inativo
+459,Peixoto,Teixeira S.A.,28.401.973/0001-51,Telefonia,Telefonia,Média,das Neves da Serra,SP,24 7742-2294,oda-cunha@alves.org,Inativo
+460,Pacheco Albuquerque Ltda.,Silveira,89.634.127/0001-76,Tecnologia,Softwares,Média,Pastor,MG,94 5856-7287,maria-sophiagarcia@rios.br,Ativo
+461,das Neves Costela S.A.,da Mota Pereira e Filhos,13.586.402/0001-61,Logística,Fretes,Média,Sousa,BA,+55 83 5061-5814,araujomaite@da.com,Ativo
+462,da Conceição Sales e Filhos,Cavalcanti,04.895.163/0001-30,Tecnologia,Softwares,Grande,Araújo do Oeste,SP,+55 91 3997-7180,diogo37@macedo.br,Ativo
+463,Brito Nogueira - EI,Peixoto Mendonça Ltda.,90.678.312/0001-41,Escritório,Materiais de Escritório,Pequena,Abreu de da Cunha,SP,64 9472-5878,ana-clara48@fernandes.edu.br,Ativo
+464,Pires,Camargo,27.094.358/0001-87,Marketing,Marketing,Média,Azevedo,MG,71 4175-8231,paulodas-neves@dias.com.br,Ativo
+465,Caldeira,Pimenta,32.516.970/0001-30,RH,Recursos Humanos,Pequena,Duarte,RJ,98 7964-3474,joao-vitor45@souza.br,Ativo
+466,das Neves,Nunes,69.083.751/0001-15,Financeiro,Serviços Financeiros,Média,Marques,MG,14 0334-4505,yvieira@novais.edu.br,Ativo
+467,Cunha Pinto - EI,da Mota,19.382.740/0001-68,Logística,Fretes,Média,Sales do Amparo,MG,+55 96 4996-0105,stephany57@camargo.br,Ativo
+468,Souza Barbosa Ltda.,Cassiano,24.380.716/0001-20,Tecnologia,Softwares,Grande,Novais do Galho,RJ,18 0215-5732,maria-helena37@farias.net,Ativo
+469,da Cunha,Carvalho S/A,69.873.042/0001-33,Jurídico,Serviços Jurídicos,Média,Almeida Verde,RJ,73 0858-7495,sousadom@novais.edu.br,Ativo
+470,Moraes Borges - EI,Pimenta,31.672.945/0001-83,Jurídico,Serviços Jurídicos,Média,Rezende,PE,34 1295-7860,soliveira@pinto.com,Ativo
+471,Câmara Ltda.,Cassiano,43.598.127/0001-67,Transporte,Fretes,Pequena,Correia,ES,+55 64 3421-0890,valentinaferreira@duarte.net,Ativo
+472,Costa da Rosa S.A.,da Mata,39.501.867/0001-66,Financeiro,Serviços Financeiros,Grande,Macedo,SP,+55 85 6077-6336,borgesluiz-fernando@castro.com,Ativo
+473,Sousa,Souza,56.310.428/0001-95,Jurídico,Serviços Jurídicos,Pequena,Moraes do Campo,SP,81 0066-6155,davi-lucca64@sampaio.gov.br,Inativo
+474,Melo,da Mota e Filhos,50.261.983/0001-98,Escritório,Materiais de Escritório,Pequena,Carvalho,RS,85 0093-4596,larissacavalcanti@moreira.com.br,Ativo
+475,Fonseca Camargo S.A.,Monteiro S.A.,46.582.970/0001-43,Escritório,Materiais de Escritório,Pequena,Farias,SP,+55 18 7026-0869,levibrito@ferreira.com,Ativo
+476,Azevedo,Melo - ME,68.714.029/0001-79,Tecnologia,Softwares,Média,da Cunha de Cardoso,MG,32 8591-7793,pedro-lucasmoraes@casa.com,Ativo
+477,Silva - ME,Pimenta,13.829.647/0001-72,Tecnologia,Softwares,Média,Rios de Pastor,SC,99 8942-5652,souzahelena@vieira.com,Ativo
+478,Casa Grande e Filhos,Vieira S.A.,26.504.371/0001-02,Marketing,Marketing,Média,Pires,MG,63 7379-4871,olivia55@da.com.br,Ativo
+479,Ribeiro,Rios Ltda.,84.162.305/0001-90,Transporte,Fretes,Média,Brito,RJ,+55 91 7118-4254,jlopes@montenegro.br,Ativo
+480,Casa Grande Rodrigues S.A.,Costa e Filhos,58.246.907/0001-15,Cloud,Cloud,Grande,Nogueira de Goiás,PE,0500 252 1293,valentinapimenta@costa.org,Ativo
+481,Guerra Ltda.,Moreira,67.821.903/0001-04,Jurídico,Serviços Jurídicos,Média,Santos da Prata,SP,27 3991-0622,wcastro@goncalves.gov.br,Ativo
+482,Gonçalves,da Cruz Ferreira S/A,34.290.815/0001-74,Marketing,Marketing,Pequena,Casa Grande de Rocha,SP,14 5018-4819,qda-conceicao@da.com.br,Ativo
+483,Nogueira e Filhos,Cassiano,15.403.267/0001-05,Tecnologia,Softwares,Média,Lima de Pacheco,MG,+55 71 7438-1199,rodrigo76@araujo.gov.br,Ativo
+484,Vargas Ltda.,da Cunha,85.692.703/0001-80,Tecnologia,Softwares,Média,Silva,SP,89 3973-9641,mnovais@pereira.edu.br,Ativo
+485,Aparecida,Pastor e Filhos,19.867.235/0001-03,Jurídico,Serviços Jurídicos,Pequena,Ferreira,MG,74 7980-6603,beniciopires@brito.org,Ativo
+486,Alves,da Cunha,59.812.306/0001-95,Jurídico,Serviços Jurídicos,Pequena,Sampaio de Porto,MG,11 2388-5652,vborges@pimenta.edu.br,Ativo
+487,Dias das Neves S/A,Porto - ME,57.263.189/0001-22,Tecnologia,Softwares,Grande,Ferreira de Fernandes,RJ,74 5225-0139,natalia84@goncalves.com,Inativo
+488,Borges Borges e Filhos,da Luz,25.831.609/0001-33,Transporte,Fretes,Pequena,Pimenta Verde,RJ,+55 41 5370-3824,monteiropietro@da.gov.br,Ativo
+489,Casa Grande Albuquerque Ltda.,Almeida Pimenta - ME,76.391.482/0001-10,Escritório,Materiais de Escritório,Pequena,Souza Paulista,PR,46 4655-3585,salesjoao-felipe@sampaio.net,Ativo
+490,Brito Viana - EI,Nascimento,51.392.487/0001-36,Escritório,Materiais de Escritório,Pequena,Oliveira do Norte,RJ,82 9779-6120,pnovais@ferreira.com.br,Ativo
+491,Azevedo Rodrigues Ltda.,Silveira Ltda.,94.058.362/0001-87,Transporte,Fretes,Pequena,Gonçalves,SP,+55 87 7484-5398,xcasa-grande@abreu.gov.br,Ativo
+492,Silva Ltda.,Vasconcelos S/A,91.658.742/0001-64,Energia,Energia,Grande,Cirino,MG,+55 18 7151-1696,sgarcia@carvalho.com.br,Ativo
+493,Cirino,das Neves Ltda.,26.430.197/0001-92,Logística,Fretes,Média,da Conceição,SP,42 1571-8409,novaisdante@brito.com,Ativo
+494,Moura S/A,Duarte - ME,40.568.192/0001-51,Escritório,Materiais de Escritório,Pequena,Cirino de Nascimento,GO,+55 87 5129-5927,nataliacassiano@alves.gov.br,Ativo
+495,Nascimento S/A,da Rocha,15.246.908/0001-57,Tecnologia,Softwares,Grande,Pereira,RJ,+55 66 9578-6718,fernandesthales@casa.net,Ativo
+496,Correia,Aparecida,50.769.482/0001-17,Tecnologia,Softwares,Média,Ribeiro,MG,32 8998-8683,aurora27@da.br,Ativo
+497,Garcia,Mendonça S/A,71.543.698/0001-30,Tecnologia,Softwares,Média,Viana de Vargas,SC,17 0803-1499,ana-sophiasousa@nascimento.com,Ativo
+498,Gomes,Fogaça Nascimento S/A,68.247.019/0001-70,Escritório,Materiais de Escritório,Pequena,Cirino de Câmara,RJ,31 1373-9900,scostela@da.net,Ativo
+499,Cavalcanti,da Conceição,56.018.492/0001-05,Escritório,Materiais de Escritório,Pequena,Lima Verde,BA,27 3460-6664,mariahda-cunha@pires.br,Ativo
+500,Sampaio - ME,Ribeiro Sales S.A.,19.873.062/0001-36,Jurídico,Serviços Jurídicos,Média,Cavalcante Paulista,SP,61 4844-9411,fcosta@costa.com,Ativo

@@ -1,0 +1,16 @@
+USE financeflow_analytics;
+
+CREATE TABLE bancos (
+
+    id_banco INT AUTO_INCREMENT PRIMARY KEY,
+
+    codigo_banco VARCHAR(10) NOT NULL UNIQUE,
+
+    nome_banco VARCHAR(120) NOT NULL,
+
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    ON UPDATE CURRENT_TIMESTAMP
+
+);

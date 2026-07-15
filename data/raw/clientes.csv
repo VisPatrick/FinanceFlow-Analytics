@@ -1,0 +1,1001 @@
+﻿id_cliente,razao_social,nome_fantasia,cpf_cnpj,segmento,porte,cidade,estado,telefone,email,status
+1,Alves e Filhos,da Cruz,32.156.408/0001-43,Saúde,Média,Andrade do Sul,SP,+55 43 3389-0838,ccamara@abreu.com.br,Ativo
+2,Sampaio Lima Ltda.,Cassiano,35.109.627/0001-60,Tecnologia,Média,Aparecida dos Dourados,SP,0900 161 8495,davi-miguelaparecida@vargas.com.br,Ativo
+3,Brito Garcia Ltda.,Porto,52.981.604/0001-60,Comércio,Média,Nascimento,SP,+55 95 2764-8350,beniciodias@da.com,Ativo
+4,Nunes Silva Ltda.,Rezende Monteiro - ME,72.416.983/0001-52,Serviços,Média,Pacheco das Flores,SP,45 3287-1012,laviniapeixoto@gomes.gov.br,Ativo
+5,Moura,Novaes,01.465.298/0001-78,Comércio,Média,Castro dos Dourados,SP,+55 11 4828-1489,leandrofreitas@nogueira.com,Ativo
+6,Mendonça,Camargo Ltda.,43.019.752/0001-07,Governo,Média,Azevedo de Teixeira,SP,0800 227 8248,icunha@silva.gov.br,Ativo
+7,Macedo,Campos,39.120.476/0001-00,Construção,Média,Abreu,SP,+55 35 0310-5183,maria-vitoria38@silveira.br,Ativo
+8,Viana Melo - ME,Brito Brito e Filhos,65.937.048/0001-76,Indústria,Média,Siqueira Alegre,SP,+55 47 3338-7262,maria-eduarda31@novaes.com,Ativo
+9,Rezende - EI,Borges S.A.,26.731.804/0001-54,Indústria,Média,Abreu das Flores,SP,11 7468-7234,danilopacheco@souza.com,Ativo
+10,Pacheco - ME,Araújo Moraes S/A,21.857.309/0001-72,Comércio,Média,Pacheco,SP,+55 22 9169-9854,ana-sophiada-costa@goncalves.com,Ativo
+11,Marques,Sá,10.746.852/0001-86,Saúde,Média,Montenegro,SP,11 2513-5427,sarah08@ribeiro.com,Ativo
+12,da Luz Camargo S/A,da Mata da Paz - EI,35.986.271/0001-42,Saúde,Média,Borges,SP,68 4005-2427,anovais@barbosa.com,Ativo
+13,Freitas - EI,Lopes Cardoso S/A,45.021.879/0001-96,Serviços,Média,Pinto Grande,SP,+55 93 2260-2563,liam16@melo.net,Ativo
+14,Ferreira,Vieira,39.051.826/0001-15,Governo,Média,Vargas,SP,15 5868-5014,viniciusandrade@peixoto.br,Ativo
+15,Lopes,Gomes - EI,34.059.716/0001-86,Indústria,Média,Azevedo Alegre,SP,28 1484-6564,matheusleao@rocha.com.br,Ativo
+16,Pimenta Nunes Ltda.,Novaes,04.813.726/0001-02,Serviços,Média,Macedo de Rocha,SP,+55 86 8721-4895,saravy@camara.com.br,Ativo
+17,Casa Grande Alves S/A,Melo Pimenta S/A,76.358.941/0001-63,Saúde,Média,Casa Grande,SP,+55 12 1632-8708,joaquimmarques@martins.edu.br,Ativo
+18,Sá,Pimenta,86.715.349/0001-25,Serviços,Média,Porto,SP,14 8734-7143,bruna58@carvalho.net,Ativo
+19,Sales,Santos Cunha S/A,69.543.708/0001-95,Construção,Média,Gomes Verde,SP,+55 16 9670-5466,mariahcamara@lopes.br,Ativo
+20,Gomes Ltda.,Silveira,27.946.038/0001-08,Saúde,Média,Barros,SP,69 2720-4653,vduarte@da.com.br,Ativo
+21,da Cunha,Melo S/A,80.517.943/0001-25,Agronegócio,Média,Costa,SP,+55 16 9232-7193,qsampaio@cavalcante.gov.br,Ativo
+22,Vasconcelos S.A.,Caldeira,90.475.362/0001-21,Governo,Média,Barbosa,SP,+55 95 1491-9058,xribeiro@montenegro.br,Ativo
+23,Leão - ME,Lopes Ltda.,72.615.483/0001-40,Educação,Média,Martins de Lopes,SP,12 5314-7379,bfernandes@duarte.com,Ativo
+24,Cunha,da Luz,54.870.619/0001-86,Indústria,Média,Silveira,SP,64 7837-7701,pedro-miguel63@ribeiro.gov.br,Ativo
+25,Melo,Lima,85.973.241/0001-70,Tecnologia,Média,Campos,SP,+55 81 5182-3374,guilherme34@fonseca.com,Ativo
+26,da Mota Aparecida S/A,Sampaio,27.160.498/0001-06,Construção,Média,Macedo de Fernandes,SP,+55 77 0471-1671,cassianokaique@barros.net,Ativo
+27,Novais - ME,Vasconcelos Moreira - ME,79.468.325/0001-53,Financeiro,Média,Pimenta,SP,+55 45 3341-2328,castroandre@machado.com.br,Ativo
+28,da Rocha,da Conceição Ltda.,47.158.263/0001-97,Educação,Média,Nogueira,SP,+55 89 2421-0249,luna17@sampaio.br,Ativo
+29,Montenegro,Macedo,10.652.478/0001-50,Tecnologia,Média,da Conceição,SP,+55 16 4902-7874,luizaporto@borges.br,Ativo
+30,Jesus,Duarte,12.537.684/0001-44,Saúde,Média,Teixeira da Prata,SP,+55 21 7154-5168,ribeirovitoria@jesus.com,Ativo
+31,Moreira Fonseca - EI,Pires,70.324.165/0001-02,Financeiro,Média,Campos de Alves,SP,+55 94 2480-8613,martinsisaac@monteiro.edu.br,Ativo
+32,Leão,Melo,37.291.450/0001-90,Comércio,Média,Vargas das Pedras,SP,38 8404-4997,maitenascimento@ferreira.br,Ativo
+33,Marques,Correia,36.987.025/0001-78,Comércio,Média,Santos de Garcia,SP,53 2702-8951,hbrito@albuquerque.com.br,Ativo
+34,Jesus Rezende S.A.,Melo Ltda.,56.182.437/0001-48,Construção,Média,Nogueira de Andrade,SP,+55 34 3431-6117,ana-claraalves@duarte.org,Ativo
+35,Freitas,Casa Grande,38.645.170/0001-04,Comércio,Média,Pimenta,SP,51 9379-2374,qda-cunha@martins.gov.br,Ativo
+36,Barbosa Macedo Ltda.,Porto,64.792.138/0001-53,Financeiro,Média,da Costa,SP,51 9594-4064,nunescarlos-eduardo@da.com.br,Ativo
+37,Pereira Fogaça S.A.,Pinto da Cunha e Filhos,21.093.765/0001-93,Financeiro,Média,Borges,SP,19 5623-2858,lucas47@souza.com.br,Ativo
+38,Camargo,Barbosa,23.674.901/0001-64,Governo,Média,da Luz,SP,0900 175 4965,rocharavi-lucca@alves.gov.br,Ativo
+39,Pimenta,Ramos Azevedo e Filhos,74.601.985/0001-47,Educação,Média,Camargo de Brito,SP,+55 93 8267-5869,kamillyrezende@mendonca.br,Ativo
+40,Andrade,Cunha,79.362.058/0001-35,Indústria,Média,Araújo das Flores,SP,14 3171-3900,ryan29@azevedo.net,Ativo
+41,da Conceição Farias S.A.,da Mota S.A.,28.461.073/0001-08,Agronegócio,Média,Fogaça,SP,+55 93 9502-4026,souzadavi-lucas@machado.com.br,Ativo
+42,Moraes,Machado - EI,30.495.871/0001-94,Serviços,Média,Lima do Campo,SP,91 7115-9212,agatha56@marques.edu.br,Ativo
+43,Brito,Rezende e Filhos,83.691.725/0001-09,Comércio,Média,Leão do Campo,SP,28 6545-2711,borgesluana@souza.br,Ativo
+44,Novais Araújo - EI,Rios,16.587.309/0001-60,Construção,Média,Fogaça do Campo,SP,95 3273-1585,teixeiraagatha@lima.gov.br,Ativo
+45,Pereira e Filhos,Alves,24.896.017/0001-37,Comércio,Média,Azevedo Grande,SP,+55 18 1836-6752,ana-livia59@aragao.com,Ativo
+46,Rocha S/A,Macedo,67.832.104/0001-33,Serviços,Média,Camargo da Mata,SP,89 8403-6900,ana-juliacunha@teixeira.br,Ativo
+47,Abreu - ME,Cavalcanti,26.348.901/0001-62,Educação,Média,Lopes,SP,+55 15 7159-6966,ian60@cavalcante.com.br,Ativo
+48,Sales,Borges,61.374.908/0001-50,Governo,Média,Souza Alegre,SP,+55 88 5218-1883,clara23@casa.net,Ativo
+49,Pereira Cassiano e Filhos,Cavalcanti e Filhos,79.854.623/0001-81,Financeiro,Média,Cassiano dos Dourados,SP,+55 34 7744-9058,das-nevesmaria-eduarda@andrade.com,Ativo
+50,da Paz,Ramos S/A,98.634.501/0001-24,Governo,Média,Duarte,SP,86 8207-1518,brunoda-cruz@macedo.edu.br,Ativo
+51,Fonseca Freitas Ltda.,Jesus,50.982.631/0001-21,Saúde,Média,Silveira Grande,SP,35 1925-4629,das-nevesfernanda@cardoso.gov.br,Ativo
+52,Ramos e Filhos,Moraes,50.921.764/0001-98,Comércio,Média,Câmara,SP,+55 62 2141-8880,joao96@castro.com.br,Ativo
+53,Silveira Macedo S/A,Fonseca,37.465.912/0001-49,Indústria,Média,das Neves,SP,85 3597-7468,mcastro@da.br,Ativo
+54,Novaes,Silva - EI,14.967.238/0001-03,Saúde,Média,Lopes,SP,+55 43 3750-6068,ravy61@camara.com,Ativo
+55,Brito,Vieira,29.083.154/0001-76,Educação,Média,Barros,SP,+55 15 4328-9861,renan41@da.gov.br,Ativo
+56,Azevedo,Monteiro - EI,80.351.279/0001-97,Comércio,Média,da Costa Verde,SP,66 2185-1888,gomesmaria-isis@porto.br,Ativo
+57,Souza,Fogaça S/A,53.164.270/0001-02,Saúde,Média,Nogueira Alegre,SP,+55 73 7722-1704,caiovieira@aparecida.edu.br,Ativo
+58,Nogueira,da Cunha,03.429.675/0001-49,Comércio,Média,Lopes das Flores,SP,74 6527-7584,siqueiralais@lopes.com.br,Ativo
+59,Nogueira da Rocha Ltda.,Barros Ltda.,49.785.312/0001-47,Construção,Média,Ferreira de Machado,SP,+55 22 5964-0165,bentocasa-grande@andrade.com,Ativo
+60,da Costa e Filhos,Fonseca,60.253.741/0001-06,Educação,Média,Oliveira,SP,+55 62 8565-4310,melinamoreira@novais.com,Ativo
+61,Vasconcelos,Santos,73.458.106/0001-07,Agronegócio,Média,Machado,SP,+55 73 7155-1884,levi25@campos.net,Ativo
+62,Alves,Novaes,95.764.103/0001-34,Financeiro,Média,Gonçalves do Amparo,SP,0300 669 1251,rmartins@cardoso.com.br,Ativo
+63,Vargas Cardoso - ME,Campos - EI,24.917.653/0001-06,Tecnologia,Média,Barros Paulista,SP,+55 82 8424-9818,leandrocavalcante@nunes.com,Ativo
+64,Barros S/A,Rezende,36.095.428/0001-02,Financeiro,Média,Mendes de Goiás,SP,63 4710-2767,vcostela@dias.com.br,Ativo
+65,Guerra,Teixeira Freitas - EI,81.593.026/0001-92,Financeiro,Média,Casa Grande,SP,+55 44 0469-6325,mateus27@monteiro.org,Ativo
+66,Almeida,Gonçalves - EI,73.842.061/0001-70,Saúde,Média,Peixoto de Rezende,SP,85 4801-6245,cfonseca@aragao.gov.br,Ativo
+67,Fonseca Novaes Ltda.,Gomes - EI,78.469.503/0001-06,Educação,Média,Gonçalves,SP,48 5852-3986,aparecidabreno@silva.edu.br,Ativo
+68,Cassiano,Duarte Pimenta Ltda.,26.479.835/0001-60,Comércio,Média,Melo do Sul,SP,47 5169-4097,rafael09@cavalcante.edu.br,Ativo
+69,Casa Grande,Andrade Oliveira e Filhos,13.082.694/0001-03,Governo,Média,Jesus,SP,94 9702-8385,ymoura@cavalcanti.br,Ativo
+70,Nogueira,Rocha,47.312.950/0001-15,Tecnologia,Média,Vargas da Mata,SP,+55 85 7575-8441,wgoncalves@da.com.br,Ativo
+71,Ferreira - ME,Souza,73.864.250/0001-43,Serviços,Média,Pimenta,SP,+55 94 3083-3016,maria-julia12@novaes.br,Ativo
+72,Mendes,Sá da Paz Ltda.,40.159.783/0001-75,Saúde,Média,Cavalcanti do Norte,SP,61 7240-0499,fariasalice@ramos.edu.br,Ativo
+73,Carvalho,da Mata,31.587.924/0001-60,Tecnologia,Média,Albuquerque,SP,37 4932-9668,erick61@carvalho.net,Ativo
+74,da Luz - ME,Machado Sá Ltda.,54.029.617/0001-69,Agronegócio,Média,Martins,SP,24 2684-1459,pedro-lucascarvalho@cassiano.br,Ativo
+75,Leão,Sá,83.954.072/0001-03,Construção,Média,Barbosa Verde,SP,+55 48 0883-9822,raquel71@silva.com,Ativo
+76,Araújo,Cardoso,86.740.932/0001-96,Educação,Média,Silveira do Sul,SP,61 4039-1065,nogueiradante@melo.org,Ativo
+77,Cirino,Vargas Ramos e Filhos,65.937.802/0001-78,Serviços,Média,Rezende,SP,42 1286-8230,da-rosamaria-fernanda@nascimento.br,Ativo
+78,da Cruz Marques Ltda.,da Mota Correia e Filhos,10.648.975/0001-84,Saúde,Média,Peixoto,SP,+55 19 7903-0673,danielcarvalho@da.com.br,Ativo
+79,Oliveira,da Costa,42.378.509/0001-12,Financeiro,Média,Pires,SP,69 8705-6856,tcassiano@cirino.com.br,Ativo
+80,da Costa,da Rosa Santos S.A.,70.634.519/0001-07,Indústria,Média,da Cunha,SP,+55 84 5175-1830,gabriela99@barbosa.com.br,Ativo
+81,Mendes Costela Ltda.,Albuquerque,39.158.746/0001-63,Saúde,Média,Novaes,SP,32 4678-5445,gmartins@teixeira.com.br,Ativo
+82,Costela,Dias,60.351.827/0001-71,Indústria,Média,da Rocha Grande,SP,+55 82 5369-3785,mariana77@siqueira.com,Ativo
+83,Silveira Nogueira - ME,Nogueira Ramos S/A,80.165.947/0001-91,Financeiro,Média,Pires,SP,+55 92 1203-8750,fribeiro@abreu.edu.br,Ativo
+84,Albuquerque,Moura e Filhos,48.907.316/0001-98,Construção,Média,Moura,SP,+55 65 3398-4546,freitasjade@nunes.net,Ativo
+85,da Rosa Rodrigues S/A,Borges - ME,69.705.814/0001-28,Educação,Média,Lopes de Ramos,SP,34 9180-3397,caleb14@cavalcanti.com,Ativo
+86,Pastor Casa Grande e Filhos,Barbosa,42.397.681/0001-13,Comércio,Média,Vieira,SP,+55 38 8501-6315,uvasconcelos@porto.com.br,Ativo
+87,Mendonça,Fogaça Novaes - ME,62.904.815/0001-52,Saúde,Média,Barros,SP,12 2626-5511,das-neveslivia@teixeira.org,Ativo
+88,Cardoso S/A,Lopes Machado - EI,89.607.523/0001-04,Governo,Média,Peixoto,SP,33 6046-6183,gabriellycavalcante@da.br,Ativo
+89,Azevedo Cavalcante - ME,Leão,47.126.835/0001-56,Financeiro,Média,Marques,SP,+55 47 2406-5965,bfarias@da.com.br,Ativo
+90,Mendes Dias S.A.,Dias,47.328.651/0001-79,Saúde,Média,Nunes,SP,+55 83 9828-0737,davi-miguel67@porto.org,Ativo
+91,Silva Lima - ME,Machado - EI,76.840.253/0001-35,Agronegócio,Média,Ribeiro,SP,43 2909-6561,britovalentim@moraes.edu.br,Ativo
+92,Machado Freitas - ME,Vargas,98.270.351/0001-17,Construção,Média,Barros do Campo,SP,+55 63 5457-3875,cbrito@dias.com,Ativo
+93,Aparecida,Almeida Ltda.,12.349.657/0001-48,Agronegócio,Média,Martins de Goiás,SP,63 2266-0937,agomes@costela.com.br,Ativo
+94,Oliveira S/A,Fonseca Duarte S.A.,71.453.926/0001-80,Tecnologia,Média,Pimenta das Flores,SP,+55 49 5579-2499,rochajoao-felipe@campos.net,Ativo
+95,Camargo,Freitas Sales S.A.,86.941.735/0001-35,Educação,Média,Mendonça,SP,0900 282 7422,manuella90@albuquerque.br,Ativo
+96,Correia Gomes - EI,Jesus,76.931.048/0001-85,Tecnologia,Média,Andrade Paulista,SP,+55 89 8427-9788,oliveiraian@vasconcelos.edu.br,Ativo
+97,Nogueira,Teixeira e Filhos,78.390.125/0001-62,Saúde,Média,da Luz de Ferreira,SP,+55 42 7133-9596,joao-lucasviana@costela.br,Ativo
+98,Peixoto,Duarte Santos Ltda.,49.173.025/0001-86,Serviços,Média,Sampaio,SP,+55 55 3253-6729,kamilly67@porto.br,Ativo
+99,Sales,Marques,75.068.932/0001-75,Serviços,Média,Azevedo da Prata,SP,61 3637-4545,maria-vitoriaviana@rodrigues.com.br,Ativo
+100,Aparecida S/A,Almeida,12.730.698/0001-80,Educação,Média,Rezende,SP,22 2415-4152,goncalvesana-laura@lima.com.br,Ativo
+101,Abreu S.A.,Barbosa,23.706.951/0001-86,Governo,Média,Mendes,SP,+55 35 3611-1554,giovannavasconcelos@ramos.com,Ativo
+102,Pimenta e Filhos,Macedo Ferreira e Filhos,32.645.910/0001-18,Construção,Média,Carvalho,SP,+55 53 9656-5234,da-cruzalice@ribeiro.net,Ativo
+103,Souza Gonçalves Ltda.,Viana S.A.,76.193.402/0001-11,Governo,Média,Fonseca,SP,31 2696-5827,almeidadavi-luiz@da.com,Ativo
+104,Vieira - ME,Pires,86.953.017/0001-89,Construção,Média,das Neves,SP,+55 38 8328-5691,luiza30@borges.br,Ativo
+105,das Neves e Filhos,Campos Albuquerque e Filhos,20.937.458/0001-89,Financeiro,Média,Cardoso Paulista,SP,+55 51 0564-8149,monteiromaria-alice@araujo.br,Ativo
+106,Freitas Castro Ltda.,Oliveira e Filhos,13.076.954/0001-20,Saúde,Média,Gomes Grande,SP,+55 74 0863-5365,eduardo95@montenegro.com,Ativo
+107,Câmara Moreira S/A,Azevedo,74.820.935/0001-50,Tecnologia,Média,Costa da Mata,SP,22 9375-9738,kevinabreu@alves.net,Ativo
+108,Porto,Farias S/A,64.178.935/0001-45,Serviços,Média,Casa Grande,SP,15 1038-6571,montenegrojoao-felipe@barbosa.gov.br,Ativo
+109,Lopes e Filhos,da Costa da Rocha Ltda.,56.923.810/0001-74,Agronegócio,Média,Carvalho,SP,+55 47 2127-7561,oliver74@da.com.br,Ativo
+110,Borges S.A.,Santos,90.362.185/0001-77,Comércio,Média,Fogaça,SP,61 8044-2067,gabrielmartins@vieira.com,Ativo
+111,Araújo S.A.,Costa Guerra Ltda.,14.906.735/0001-93,Indústria,Média,Farias,SP,+55 53 0702-9667,garcialeticia@fogaca.org,Ativo
+112,Machado,Andrade Pimenta - EI,93.486.750/0001-04,Comércio,Média,da Mota,SP,53 2638-3806,maria-luiza87@nunes.edu.br,Ativo
+113,Gomes,Cirino,05.392.678/0001-80,Tecnologia,Média,Vargas Verde,SP,+55 92 2133-4803,lfogaca@da.com.br,Ativo
+114,Pastor,Santos e Filhos,52.367.480/0001-27,Tecnologia,Média,Andrade de Borges,SP,+55 31 3930-8705,jose-pedrofernandes@duarte.com,Ativo
+115,Vasconcelos Camargo - EI,Barbosa,56.128.970/0001-21,Construção,Média,Vieira do Amparo,SP,31 2895-3926,ana-beatriz22@sampaio.br,Ativo
+116,Cirino - EI,Pimenta,31.782.069/0001-48,Governo,Média,Cavalcante de Minas,SP,35 7043-3154,silveiraalexandre@gomes.com.br,Ativo
+117,Cavalcante,Monteiro,65.903.417/0001-00,Comércio,Média,Barbosa de Andrade,SP,19 0541-1526,domnovaes@fernandes.gov.br,Ativo
+118,Santos,Lopes e Filhos,26.908.715/0001-30,Construção,Média,Sampaio da Prata,SP,11 4431-0698,dcassiano@abreu.br,Ativo
+119,da Rocha e Filhos,Costa,10.395.286/0001-05,Construção,Média,das Neves,SP,61 7741-8625,lfreitas@aparecida.org,Ativo
+120,Martins,Câmara,40.265.897/0001-08,Governo,Média,Nogueira das Pedras,SP,+55 91 8068-6879,maria-laurada-rosa@goncalves.com,Ativo
+121,Campos Sá - ME,Cavalcante Cunha S.A.,20.685.319/0001-05,Agronegócio,Média,Peixoto,SP,+55 99 5116-8685,raquel70@camargo.br,Ativo
+122,Casa Grande Nunes - EI,Caldeira - EI,14.532.687/0001-10,Serviços,Média,Andrade de Cavalcanti,SP,14 6299-6065,carlos-eduardosouza@da.br,Ativo
+123,Fernandes Ltda.,da Mota,71.382.956/0001-43,Educação,Média,Pereira de Minas,SP,+55 79 7367-8508,davi-luccadas-neves@carvalho.com.br,Ativo
+124,Cavalcanti S.A.,Araújo da Cruz S/A,70.591.246/0001-60,Serviços,Média,Porto do Campo,SP,+55 18 3579-7279,catarina24@da.br,Ativo
+125,Castro - EI,Câmara Ramos S.A.,34.680.597/0001-84,Indústria,Média,Peixoto,SP,+55 13 3494-4665,nda-cunha@da.gov.br,Ativo
+126,Pacheco,Abreu - EI,58.429.037/0001-10,Comércio,Média,da Mota Alegre,SP,14 4432-8309,uribeiro@silveira.br,Ativo
+127,da Luz,Guerra,60.325.179/0001-89,Serviços,Média,Montenegro da Mata,SP,+55 71 8241-7248,brunarezende@camara.net,Ativo
+128,Leão,Freitas,49.760.352/0001-34,Educação,Média,Melo,SP,+55 81 8168-4602,murilofernandes@nunes.br,Ativo
+129,Dias Silva S.A.,Mendonça Ltda.,25.073.916/0001-00,Financeiro,Média,Mendonça,SP,+55 42 2966-6676,andradesophie@siqueira.br,Ativo
+130,Almeida Rocha S/A,Câmara Sales Ltda.,42.139.580/0001-42,Comércio,Média,Aparecida,SP,21 4789-8562,mariana53@guerra.net,Ativo
+131,Cunha Siqueira S/A,Campos Fonseca e Filhos,06.487.592/0001-02,Educação,Média,Ribeiro,SP,+55 47 0016-7618,maria-julia23@da.gov.br,Ativo
+132,Ribeiro - EI,Pinto,92.670.451/0001-54,Construção,Média,Viana,SP,+55 47 7393-4835,kda-rocha@novaes.net,Ativo
+133,Farias,Abreu Albuquerque e Filhos,19.780.452/0001-61,Tecnologia,Média,da Cunha,SP,+55 92 7447-0120,eloah56@brito.com,Ativo
+134,Ribeiro Ramos S.A.,Fogaça,74.126.908/0001-82,Agronegócio,Média,Marques Paulista,SP,53 7621-2021,epastor@cirino.gov.br,Ativo
+135,Vasconcelos,Pimenta,02.739.645/0001-76,Indústria,Média,da Luz,SP,28 0899-3588,lopestheo@ferreira.gov.br,Ativo
+136,Cassiano,Albuquerque e Filhos,28.763.104/0001-77,Educação,Média,da Costa Alegre,SP,15 0838-6631,zmacedo@borges.com.br,Ativo
+137,Machado,Campos,70.136.845/0001-94,Serviços,Média,Moraes da Prata,SP,+55 84 7550-3758,qsilva@silva.br,Ativo
+138,Brito e Filhos,Abreu Fernandes Ltda.,48.570.613/0001-90,Tecnologia,Média,Silva,SP,64 1493-3163,mviana@caldeira.com.br,Ativo
+139,Aparecida,Vargas - ME,78.230.459/0001-79,Serviços,Média,Pacheco do Amparo,SP,96 2922-1699,mirella66@da.org,Ativo
+140,Carvalho,Jesus Pereira e Filhos,84.576.910/0001-07,Comércio,Média,Pinto,SP,18 5228-8515,kpacheco@rocha.com.br,Ativo
+141,Lima,Moreira S/A,06.295.813/0001-32,Educação,Média,da Paz,SP,+55 97 2043-8057,pimentapietro@da.edu.br,Ativo
+142,Sales,Garcia - ME,65.078.214/0001-26,Serviços,Média,Câmara de Porto,SP,47 9893-3472,cirinoluiz-felipe@garcia.br,Ativo
+143,Novais,Cardoso,24.093.175/0001-59,Governo,Média,Peixoto do Norte,SP,22 7985-1583,raquelazevedo@leao.br,Ativo
+144,Ferreira S.A.,Ribeiro Farias Ltda.,54.368.972/0001-62,Saúde,Média,Camargo,SP,41 7399-3056,gomestheo@alves.edu.br,Ativo
+145,Moraes,Mendonça,04.328.957/0001-12,Tecnologia,Média,Pires,SP,+55 33 3361-3861,beniciomarques@andrade.com,Ativo
+146,Aragão S.A.,Novais,13.486.579/0001-96,Financeiro,Média,Almeida das Flores,SP,+55 51 8091-9015,da-rochaana-julia@da.br,Ativo
+147,Ribeiro,Melo S.A.,83.259.476/0001-79,Tecnologia,Média,da Rosa,SP,48 0882-1009,jnascimento@das.com.br,Ativo
+148,Cunha,Ramos,82.916.470/0001-64,Serviços,Média,Cirino,SP,+55 28 8781-4141,mariahfarias@cardoso.gov.br,Ativo
+149,Brito da Paz - EI,Correia Ltda.,79.548.216/0001-46,Serviços,Média,Dias das Pedras,SP,+55 71 0533-6452,maria-luiza77@vasconcelos.org,Ativo
+150,Novaes,Cavalcanti e Filhos,91.468.753/0001-81,Indústria,Média,Siqueira,SP,+55 37 0809-9693,novaesvicente@rezende.com.br,Ativo
+151,Fonseca Gonçalves S.A.,Carvalho,78.132.405/0001-70,Governo,Média,Pimenta,SP,+55 69 8272-2992,cfogaca@teixeira.com,Ativo
+152,Freitas,Aparecida Rios S.A.,85.637.042/0001-90,Financeiro,Média,Caldeira do Galho,SP,14 4989-2665,moreiratheodoro@camara.edu.br,Ativo
+153,Fogaça,Mendonça,70.231.589/0001-14,Agronegócio,Média,Cunha Grande,SP,+55 77 2591-3651,erocha@costela.gov.br,Ativo
+154,Ramos Jesus S/A,Aparecida Cardoso - EI,92.854.016/0001-80,Indústria,Média,da Luz,SP,+55 75 8699-0413,epereira@cavalcante.net,Ativo
+155,Peixoto,Vieira Pacheco S.A.,98.415.237/0001-38,Comércio,Média,da Conceição,SP,49 6210-3886,gaelcavalcanti@pimenta.gov.br,Ativo
+156,Viana - EI,Borges - ME,28.065.341/0001-64,Financeiro,Média,Sampaio,SP,0500 637 6599,limajoao-felipe@mendes.com.br,Ativo
+157,Barros da Paz - EI,da Cunha,30.846.751/0001-94,Educação,Média,Sales,SP,28 6512-6944,xnunes@rodrigues.br,Ativo
+158,Jesus Novaes - EI,Cavalcanti,58.726.493/0001-21,Saúde,Média,Sousa Grande,SP,+55 51 3721-3865,castroheloisa@borges.br,Ativo
+159,Borges,da Luz S.A.,51.093.624/0001-31,Indústria,Média,Vasconcelos,SP,+55 73 7703-8430,luccarocha@fonseca.gov.br,Ativo
+160,Castro S/A,Vasconcelos,65.934.102/0001-20,Saúde,Média,Borges,SP,16 8955-4393,kguerra@da.br,Ativo
+161,Novais S/A,Fernandes,18.476.239/0001-06,Governo,Média,Vargas de da Cruz,SP,37 7790-7141,yporto@rocha.com.br,Ativo
+162,Jesus,Moreira,80.412.935/0001-14,Comércio,Média,Barbosa da Prata,SP,+55 74 7553-9423,msousa@sousa.net,Ativo
+163,Costa da Cruz - EI,Cassiano,19.856.302/0001-94,Comércio,Média,Mendes,SP,48 9579-4728,isabella39@aragao.br,Ativo
+164,Montenegro Ltda.,Rodrigues,27.154.396/0001-88,Agronegócio,Média,Albuquerque,SP,+55 85 6915-5942,renan47@fonseca.com,Ativo
+165,Lima,Leão Sampaio Ltda.,56.431.792/0001-03,Comércio,Média,Brito,SP,13 3866-3227,cavalcantilaura@carvalho.com.br,Ativo
+166,Viana,da Rosa,48.037.156/0001-73,Serviços,Média,Melo do Campo,SP,79 5455-8845,jesusjoaquim@rocha.gov.br,Ativo
+167,Oliveira Oliveira e Filhos,Vasconcelos da Paz Ltda.,58.769.301/0001-64,Tecnologia,Média,Martins Grande,SP,+55 69 5699-6112,rafael55@santos.org,Ativo
+168,da Mata,Vasconcelos,58.731.906/0001-66,Tecnologia,Média,Ribeiro,SP,+55 97 1326-1117,alvesisabella@caldeira.gov.br,Ativo
+169,Barros Rezende - ME,da Conceição,34.751.680/0001-05,Agronegócio,Média,Ribeiro,SP,44 5778-4872,maria-alicepires@moura.gov.br,Ativo
+170,Ferreira,Nogueira,31.726.950/0001-21,Serviços,Média,Albuquerque do Sul,SP,99 2547-8077,antony64@vieira.br,Ativo
+171,Jesus Novais - ME,da Cruz,26.819.035/0001-40,Tecnologia,Média,Moreira,SP,13 4846-3122,henry79@da.com.br,Ativo
+172,Correia,Almeida,20.817.945/0001-08,Educação,Média,Siqueira de Albuquerque,SP,+55 92 1207-3564,dfreitas@farias.com.br,Ativo
+173,Araújo da Mata - ME,Nogueira - ME,23.468.079/0001-85,Serviços,Média,Gomes,SP,75 3037-1837,trodrigues@castro.gov.br,Ativo
+174,Souza - EI,da Cunha - ME,43.507.168/0001-09,Governo,Média,Duarte do Sul,SP,+55 69 4916-3009,msales@freitas.net,Ativo
+175,Monteiro Borges e Filhos,Teixeira,09.571.483/0001-59,Construção,Média,da Conceição de Dias,SP,41 7306-5240,csantos@nogueira.com.br,Ativo
+176,Correia,Nogueira Ferreira Ltda.,74.208.135/0001-83,Saúde,Média,Nogueira da Praia,SP,81 0862-0959,aurorasilveira@ribeiro.com.br,Ativo
+177,Correia,Vargas,82.493.605/0001-26,Serviços,Média,Aparecida,SP,+55 55 2031-7310,fribeiro@aragao.br,Ativo
+178,Pereira Silva S/A,Costela e Filhos,71.965.023/0001-89,Saúde,Média,Freitas do Norte,SP,12 8014-1381,silveiraravi@correia.net,Ativo
+179,Nunes Pires S.A.,Souza,15.786.304/0001-01,Educação,Média,Novaes,SP,62 8528-9755,esther66@pereira.net,Ativo
+180,Garcia Vargas - EI,Fonseca,79.605.823/0001-09,Construção,Média,Moreira,SP,+55 61 4043-3504,gabrielandrade@fogaca.com,Ativo
+181,da Luz Fonseca - EI,da Conceição da Cunha Ltda.,16.350.278/0001-29,Financeiro,Média,Sales de Sampaio,SP,+55 44 9409-6105,luara61@souza.com,Ativo
+182,Aragão,Moura,05.274.189/0001-24,Agronegócio,Média,Machado Verde,SP,95 1364-6225,melocarlos-eduardo@da.com,Ativo
+183,Montenegro,Vasconcelos,29.741.368/0001-92,Serviços,Média,Novais,SP,0300 331 4659,camargojulia@fonseca.br,Ativo
+184,Duarte Ferreira - EI,Vargas Ltda.,25.741.306/0001-20,Agronegócio,Média,Rodrigues,SP,48 2110-3924,fernandeshenry@machado.br,Ativo
+185,Farias S.A.,Costela Nogueira - EI,48.795.106/0001-55,Comércio,Média,da Cunha,SP,+55 71 0439-4070,gomesvitor-hugo@caldeira.com,Ativo
+186,Rezende,da Conceição,68.123.405/0001-50,Saúde,Média,Montenegro,SP,82 8003-8457,ksouza@ferreira.br,Ativo
+187,Pires,da Costa,84.052.376/0001-30,Saúde,Média,Câmara Grande,SP,38 6216-8936,leandrolima@pereira.br,Ativo
+188,Nogueira,Costela Rezende S.A.,98.361.257/0001-73,Comércio,Média,Rezende,SP,+55 67 5188-1252,teixeiraantonella@jesus.org,Ativo
+189,Souza,Cassiano,31.280.479/0001-90,Financeiro,Média,Peixoto,SP,+55 92 3051-7289,psilva@cirino.com.br,Ativo
+190,Mendonça,Carvalho,23.807.691/0001-35,Indústria,Média,Souza,SP,+55 83 3127-9757,leticiaguerra@pereira.com.br,Ativo
+191,Silveira,Gonçalves,98.047.365/0001-76,Governo,Média,Moreira,SP,0900 608 6803,lunna64@martins.com,Ativo
+192,da Rocha,Sales - EI,27.805.463/0001-87,Serviços,Média,Gonçalves,SP,65 5702-7937,da-cunhaayla@silva.com,Ativo
+193,Santos - ME,Barros,86.234.905/0001-41,Saúde,Média,Nunes Grande,SP,+55 68 2206-4474,isaaccardoso@abreu.com,Ativo
+194,Monteiro,Nogueira,07.314.856/0001-80,Governo,Média,Barros de Peixoto,SP,+55 12 3849-8302,danielrezende@andrade.com,Ativo
+195,Rios - EI,Farias,10.937.526/0001-56,Saúde,Média,Marques,SP,45 0145-5616,da-rochamaria-julia@campos.br,Ativo
+196,Moura,Sampaio Costela - EI,01.835.427/0001-72,Indústria,Média,da Luz do Galho,SP,43 2997-8772,amandacorreia@campos.br,Ativo
+197,Sousa S.A.,Jesus,05.847.192/0001-90,Comércio,Média,Sales,SP,16 4144-8850,rodriguesbrenda@goncalves.com.br,Ativo
+198,Cavalcanti S.A.,Fernandes,79.051.362/0001-61,Indústria,Média,Nascimento de Farias,SP,83 6084-9588,costelabianca@azevedo.com,Ativo
+199,Alves,Garcia,82.614.093/0001-09,Saúde,Média,Santos do Norte,SP,13 6173-5743,luiz-fernando15@vasconcelos.com,Ativo
+200,Montenegro,Mendes - EI,23.587.491/0001-14,Comércio,Média,Vargas,SP,+55 45 8230-7681,das-nevescaio@farias.com,Ativo
+201,Moreira e Filhos,Almeida,94.321.568/0001-58,Indústria,Média,Vargas dos Dourados,SP,+55 51 4224-1098,costelavitoria@novaes.br,Ativo
+202,Casa Grande,Oliveira,32.184.690/0001-72,Financeiro,Média,Alves,SP,85 0160-1662,wpimenta@farias.com.br,Ativo
+203,Silva Teixeira e Filhos,Sá - ME,92.165.307/0001-60,Comércio,Média,Rodrigues dos Dourados,SP,85 3329-4562,aylla77@azevedo.com,Ativo
+204,Mendes,Cavalcante,45.290.381/0001-29,Serviços,Média,Vieira,SP,22 8769-6393,maria-luisagomes@fernandes.com.br,Ativo
+205,Viana,Nunes,58.319.074/0001-75,Saúde,Média,Duarte de Novais,SP,+55 44 7246-1919,fduarte@borges.com.br,Ativo
+206,Pacheco Sá e Filhos,Sá S.A.,27.438.560/0001-89,Educação,Média,Rodrigues,SP,31 4946-5190,scardoso@freitas.com,Ativo
+207,Santos - EI,Camargo,40.375.962/0001-40,Agronegócio,Média,Silva das Flores,SP,63 6683-2723,afonseca@da.com,Ativo
+208,Barbosa e Filhos,Casa Grande e Filhos,76.201.349/0001-53,Saúde,Média,Pinto da Serra,SP,81 8687-6532,apereira@siqueira.net,Ativo
+209,Jesus,Andrade,07.594.368/0001-74,Serviços,Média,Martins do Galho,SP,+55 38 8913-7189,caue58@melo.edu.br,Ativo
+210,Oliveira,Leão,54.810.723/0001-85,Tecnologia,Média,Araújo do Amparo,SP,+55 71 9049-0471,mirellabarbosa@da.com,Ativo
+211,da Mota,Albuquerque,12.853.796/0001-04,Governo,Média,Mendonça,SP,+55 75 8051-2927,yvargas@ribeiro.gov.br,Ativo
+212,Costela Oliveira e Filhos,Aragão,41.083.596/0001-18,Governo,Média,Souza de Sá,SP,0800 366 7428,salbuquerque@garcia.gov.br,Ativo
+213,Moura,Brito - EI,56.428.901/0001-33,Agronegócio,Média,Martins de Goiás,SP,+55 81 8525-8001,jesusgael-henrique@rodrigues.br,Ativo
+214,Silveira da Paz Ltda.,Andrade Alves - EI,10.345.867/0001-32,Saúde,Média,Garcia,SP,+55 77 1244-7174,qsales@da.com,Ativo
+215,da Mota S/A,Gomes,50.462.138/0001-80,Agronegócio,Média,Costa de Pimenta,SP,55 2712-8639,macedovalentim@andrade.com,Ativo
+216,Vasconcelos,Almeida,72.095.386/0001-73,Construção,Média,Gonçalves Verde,SP,+55 11 8776-6183,gomesmaria-luisa@nunes.br,Ativo
+217,Rodrigues,Guerra,01.542.938/0001-04,Saúde,Média,Cavalcanti,SP,+55 22 6346-1571,msousa@andrade.com.br,Ativo
+218,Mendonça Gomes S/A,Monteiro,87.092.653/0001-26,Comércio,Média,Guerra,SP,+55 51 3878-2931,sousajoao-miguel@rezende.com,Ativo
+219,Pinto,da Cruz e Filhos,20.958.761/0001-68,Comércio,Média,Pastor,SP,+55 33 1179-9313,zfernandes@duarte.com,Ativo
+220,Duarte Vieira S.A.,Pastor S.A.,51.827.396/0001-86,Construção,Média,Novaes da Serra,SP,74 3902-1962,mendoncaenrico@abreu.com,Ativo
+221,Leão,Sales,23.957.481/0001-23,Financeiro,Média,Cavalcanti,SP,+55 21 9279-1456,novaisravy@campos.gov.br,Ativo
+222,Teixeira,Martins Vargas e Filhos,34.017.698/0001-70,Construção,Média,Castro,SP,+55 24 0543-6459,gaparecida@nascimento.com,Ativo
+223,Mendonça - EI,Barbosa S.A.,75.618.290/0001-30,Construção,Média,da Conceição do Campo,SP,+55 93 6363-1797,lopesjoao-vitor@pimenta.br,Ativo
+224,Carvalho,Silveira,35.412.608/0001-08,Agronegócio,Média,da Mota,SP,+55 61 1776-2534,luigioliveira@borges.br,Ativo
+225,Pastor Melo - ME,Albuquerque,63.827.419/0001-31,Indústria,Média,Oliveira,SP,+55 12 6007-8068,zmendes@machado.net,Ativo
+226,Novais S/A,Cunha,25.418.076/0001-62,Comércio,Média,Castro dos Dourados,SP,+55 17 7726-2570,gomesbrenda@da.com.br,Ativo
+227,Sampaio,Viana Rodrigues S/A,95.048.273/0001-12,Indústria,Média,Fonseca dos Dourados,SP,+55 22 5528-1832,rhavi81@sousa.com.br,Ativo
+228,Sá Souza S.A.,Fogaça,48.620.571/0001-55,Construção,Média,Mendonça de Montenegro,SP,0300 178 8479,davi-lucca37@barros.com,Ativo
+229,Barbosa,Cavalcante Ltda.,12.796.405/0001-67,Financeiro,Média,Rodrigues da Prata,SP,+55 55 7567-0431,da-conceicaoraquel@jesus.gov.br,Ativo
+230,Rezende,Mendonça,98.732.416/0001-07,Comércio,Média,Vieira,SP,+55 99 3754-0254,ncavalcante@silva.com,Ativo
+231,Santos Sales e Filhos,Castro da Costa S/A,05.237.819/0001-90,Saúde,Média,Rios,SP,31 5257-8284,alvesjade@vargas.com,Ativo
+232,Dias,Abreu Sousa - EI,85.432.719/0001-54,Saúde,Média,Fernandes de Sales,SP,+55 48 7028-1406,maitefogaca@duarte.gov.br,Ativo
+233,Pacheco Moura S.A.,Costa,01.756.934/0001-10,Saúde,Média,Dias de Pereira,SP,96 0562-6565,da-pazcatarina@das.br,Ativo
+234,Cunha e Filhos,Sousa,67.415.380/0001-04,Serviços,Média,Casa Grande,SP,+55 85 4785-1961,jesusyago@cavalcanti.edu.br,Ativo
+235,Santos,Costa Cirino - ME,48.702.951/0001-39,Agronegócio,Média,Câmara de Alves,SP,+55 11 2447-1462,psales@alves.br,Ativo
+236,Peixoto e Filhos,Pacheco,76.458.301/0001-25,Tecnologia,Média,da Luz,SP,+55 68 9025-7252,da-mataeloah@porto.br,Ativo
+237,da Rocha Ltda.,Moraes S.A.,21.947.568/0001-94,Construção,Média,Brito da Prata,SP,43 2028-4576,luan13@montenegro.com.br,Ativo
+238,Leão - ME,Camargo S.A.,07.528.613/0001-45,Tecnologia,Média,Cavalcanti da Mata,SP,+55 18 1322-3423,emanuellima@barbosa.com.br,Ativo
+239,Sá,Aparecida,31.065.478/0001-23,Educação,Média,da Cunha,SP,+55 24 1401-1939,leorios@alves.com,Ativo
+240,Souza da Mota - EI,Fogaça,28.346.059/0001-55,Agronegócio,Média,Moura,SP,+55 87 3428-0138,sfonseca@macedo.com,Ativo
+241,Garcia,Cunha,83.602.794/0001-90,Saúde,Média,Monteiro,SP,45 4801-5716,maria-alice94@camara.edu.br,Ativo
+242,da Rocha,Correia,17.590.386/0001-31,Comércio,Média,Moreira de Ribeiro,SP,+55 41 1266-9121,miguel53@campos.net,Ativo
+243,Silveira,da Mota,94.623.851/0001-34,Agronegócio,Média,Casa Grande dos Dourados,SP,+55 47 1477-3201,azevedomelina@cavalcanti.gov.br,Ativo
+244,Cassiano,Pinto,91.854.360/0001-06,Serviços,Média,Ribeiro do Amparo,SP,91 8485-8800,ycampos@dias.com.br,Ativo
+245,Macedo,Andrade,02.451.379/0001-81,Comércio,Média,Silva das Flores,SP,89 1978-8977,nataliaaraujo@da.br,Ativo
+246,Pimenta,Vargas,45.079.613/0001-02,Indústria,Média,Sousa Verde,SP,+55 17 5616-5565,ribeirosamuel@da.gov.br,Ativo
+247,Sales S/A,Camargo,52.048.739/0001-77,Serviços,Média,Nunes do Galho,SP,67 4079-0569,kduarte@mendonca.com.br,Ativo
+248,Fernandes Monteiro - EI,Cavalcante,94.531.602/0001-19,Indústria,Média,da Paz,SP,11 0496-3919,pastorbarbara@azevedo.gov.br,Ativo
+249,Lima,Ferreira Vieira S/A,48.935.720/0001-75,Comércio,Média,Guerra Paulista,SP,97 7820-8297,maria-helenada-mata@nunes.com.br,Ativo
+250,Moreira S.A.,Martins,23.956.781/0001-98,Saúde,Média,Azevedo do Oeste,SP,65 4424-9363,cassianomatheus@da.br,Ativo
+251,Novais,Lima,03.271.965/0001-07,Tecnologia,Média,Ramos,SP,+55 22 7001-5941,qfonseca@goncalves.com.br,Ativo
+252,da Costa Camargo - EI,Moreira e Filhos,98.430.157/0001-51,Construção,Média,Pacheco das Flores,SP,+55 93 6321-2347,lda-cunha@mendonca.br,Ativo
+253,Dias - EI,Melo,34.279.680/0001-46,Agronegócio,Média,Sousa,SP,+55 28 3486-4518,luisagomes@goncalves.org,Ativo
+254,Sá S.A.,Costela,27.568.301/0001-72,Agronegócio,Média,Vasconcelos,SP,91 7656-1248,fogacalaura@marques.com.br,Ativo
+255,Teixeira S/A,Pires Macedo e Filhos,20.615.943/0001-36,Saúde,Média,Camargo,SP,+55 67 3829-6577,vicentecavalcanti@da.net,Ativo
+256,Leão Ltda.,Gonçalves Garcia - EI,30.845.617/0001-79,Construção,Média,Costa de da Luz,SP,+55 71 0696-9421,luigi91@silva.br,Ativo
+257,Rocha,Campos,39.862.571/0001-70,Indústria,Média,Lopes,SP,+55 84 9343-6262,da-rochavinicius@pinto.br,Ativo
+258,Barros,Melo S.A.,56.397.820/0001-13,Tecnologia,Média,Novais,SP,+55 32 0537-5990,da-cunhamirella@da.br,Ativo
+259,Cardoso,Pacheco S.A.,42.783.109/0001-92,Construção,Média,Casa Grande Paulista,SP,+55 49 5027-4564,vinicius85@cavalcante.br,Ativo
+260,Teixeira,Novais Ribeiro e Filhos,70.318.645/0001-52,Indústria,Média,da Luz de Castro,SP,84 6170-7587,hmonteiro@campos.net,Ativo
+261,Cirino,Souza Moraes Ltda.,93.046.187/0001-45,Construção,Média,Vargas,SP,93 1504-1659,duarteleandro@barros.com.br,Ativo
+262,Marques,Peixoto,05.984.326/0001-14,Educação,Média,Cunha,SP,+55 27 4501-8961,lda-cunha@vargas.com,Ativo
+263,Castro Gomes - ME,Ramos,21.436.985/0001-72,Agronegócio,Média,Freitas,SP,97 3776-7499,wborges@freitas.gov.br,Ativo
+264,Lopes Pires - ME,Aparecida - EI,57.396.182/0001-89,Educação,Média,da Rocha,SP,84 6174-2243,kda-rocha@novaes.com,Ativo
+265,Moraes - ME,Brito,74.528.093/0001-68,Construção,Média,Cavalcanti de Viana,SP,+55 75 6016-4597,zpinto@fernandes.com.br,Ativo
+266,Cunha Cirino S/A,Rocha,16.073.845/0001-47,Serviços,Média,Marques de Sales,SP,63 9749-9564,cardosojoao-gabriel@correia.com.br,Ativo
+267,Sampaio S.A.,Costela - ME,23.675.410/0001-38,Agronegócio,Média,Vargas dos Dourados,SP,+55 64 7601-2277,calmeida@costa.com.br,Ativo
+268,Aragão,Albuquerque,16.873.420/0001-12,Tecnologia,Média,Guerra de Mendonça,SP,97 9973-0806,davi-lucas46@camargo.br,Ativo
+269,Machado,Almeida,24.379.615/0001-39,Saúde,Média,Pastor,SP,37 9724-6657,oliverda-paz@rios.com,Ativo
+270,Costa Castro - EI,Brito,67.419.803/0001-56,Educação,Média,da Luz da Praia,SP,+55 67 2801-5619,isaquenovais@mendonca.com.br,Ativo
+271,Vargas,Vargas - EI,42.150.396/0001-01,Saúde,Média,Viana,SP,+55 46 8081-2135,anasantos@teixeira.edu.br,Ativo
+272,Siqueira,Cassiano e Filhos,59.201.346/0001-09,Indústria,Média,Melo,SP,38 4821-4565,kevinsa@viana.net,Ativo
+273,Lima Jesus - ME,Moreira,50.718.493/0001-78,Governo,Média,Dias das Flores,SP,+55 69 6060-2908,larissa68@silveira.com.br,Ativo
+274,Ferreira,da Mota - EI,92.635.178/0001-27,Serviços,Média,Viana das Flores,SP,+55 82 4108-5628,paulo18@moreira.br,Ativo
+275,Almeida Alves - EI,da Costa,46.150.293/0001-94,Indústria,Média,Campos do Norte,SP,+55 53 7490-7539,clarada-rosa@rios.com.br,Ativo
+276,Silva Garcia - EI,Caldeira Duarte - EI,93.580.164/0001-16,Financeiro,Média,Borges,SP,+55 32 6273-7158,jpastor@da.gov.br,Ativo
+277,Porto,Macedo,76.214.839/0001-94,Indústria,Média,Cardoso de Santos,SP,97 8137-7028,isaac96@campos.gov.br,Ativo
+278,Aparecida,Campos Freitas Ltda.,54.830.172/0001-11,Indústria,Média,Aragão da Mata,SP,16 3270-1851,leaomaria-luisa@nunes.br,Ativo
+279,Viana,Melo,92.845.367/0001-24,Governo,Média,Cassiano de Siqueira,SP,33 1996-6365,riosluisa@ramos.com,Ativo
+280,Santos Alves - EI,Novais,18.974.502/0001-89,Agronegócio,Média,Sá,SP,86 8018-2043,liviabarros@guerra.gov.br,Ativo
+281,Mendonça S/A,Lopes,26.084.931/0001-09,Serviços,Média,Camargo,SP,+55 45 8242-2412,joana20@cirino.com,Ativo
+282,da Rosa - ME,Dias S.A.,65.430.817/0001-45,Serviços,Média,Monteiro,SP,96 8614-0578,eazevedo@jesus.net,Ativo
+283,da Mata - EI,da Cruz - EI,24.630.815/0001-12,Tecnologia,Média,Nogueira da Serra,SP,+55 95 8687-0079,lucas-gabriel00@da.gov.br,Ativo
+284,Rodrigues,Ferreira,38.401.765/0001-06,Indústria,Média,Gonçalves,SP,+55 53 2846-3985,vicente74@ribeiro.net,Ativo
+285,Peixoto,Almeida,20.786.139/0001-10,Serviços,Média,Teixeira de Gonçalves,SP,0900 118 0715,wpeixoto@cavalcanti.com.br,Ativo
+286,Campos - ME,Correia,70.358.246/0001-15,Comércio,Média,Pimenta,SP,22 3375-0479,anthony-gabrielcosta@camargo.com.br,Ativo
+287,Nunes,Cavalcante,83.204.169/0001-90,Tecnologia,Média,Nunes de Goiás,SP,99 4308-9487,limacaua@lopes.com.br,Ativo
+288,da Mota,Rodrigues - EI,79.540.186/0001-21,Comércio,Média,Nascimento dos Dourados,SP,28 0635-1903,pbarbosa@cavalcante.com,Ativo
+289,Alves - ME,Alves,95.410.367/0001-90,Governo,Média,Farias,SP,99 3199-7179,barrosdavi@garcia.com.br,Ativo
+290,Viana S.A.,Macedo S/A,46.105.897/0001-19,Comércio,Média,Guerra do Campo,SP,65 3990-7676,fernandesbenjamim@moreira.br,Ativo
+291,Caldeira Caldeira S/A,Pastor S.A.,92.483.570/0001-06,Saúde,Média,Carvalho,SP,+55 24 0249-6854,juanmelo@pereira.br,Ativo
+292,Freitas,Moreira - EI,20.346.871/0001-79,Construção,Média,Costa,SP,+55 83 1537-7959,ana-clara65@caldeira.br,Ativo
+293,Abreu Porto S.A.,Martins Pinto S.A.,37.568.914/0001-63,Comércio,Média,Abreu,SP,45 0150-8124,ocorreia@aparecida.com,Ativo
+294,Costa da Paz S.A.,da Luz Silveira S.A.,58.316.097/0001-26,Governo,Média,Almeida,SP,+55 62 6153-4735,luigi89@silva.com,Ativo
+295,Casa Grande S.A.,Correia Nascimento - ME,59.681.072/0001-94,Saúde,Média,Vieira Grande,SP,33 3042-8973,vianamaria-isis@cavalcante.br,Ativo
+296,Monteiro,Cavalcanti,59.783.624/0001-75,Governo,Média,Porto Verde,SP,+55 21 3337-3634,kgarcia@freitas.com,Ativo
+297,Sá Barros Ltda.,Moreira,53.084.921/0001-46,Governo,Média,Martins de Lopes,SP,64 5754-6027,viniciusramos@fogaca.org,Ativo
+298,Viana Ltda.,Brito Campos S/A,50.321.649/0001-82,Indústria,Média,Correia Grande,SP,+55 99 0445-6690,grezende@goncalves.com.br,Ativo
+299,Melo da Conceição - EI,Silveira,75.129.340/0001-16,Governo,Média,Machado de Novais,SP,+55 18 5292-4075,rael66@teixeira.com.br,Ativo
+300,Duarte,Nunes S/A,29.547.631/0001-07,Comércio,Média,Gonçalves,SP,+55 33 8637-1597,francisco21@andrade.br,Ativo
+301,Cirino S.A.,Gomes Ltda.,39.457.086/0001-11,Construção,Média,Moreira do Sul,SP,+55 71 5662-1286,esouza@costela.com,Ativo
+302,das Neves Lopes e Filhos,Castro,94.385.720/0001-66,Governo,Média,Casa Grande,SP,77 1693-8597,kmartins@sousa.org,Ativo
+303,Ferreira,Gonçalves,92.617.435/0001-06,Governo,Média,Ribeiro da Serra,SP,+55 44 6032-4841,marinajesus@freitas.com.br,Ativo
+304,Montenegro Ltda.,Machado,24.380.756/0001-71,Serviços,Média,Garcia de Fernandes,SP,62 3600-4125,dmendonca@barros.gov.br,Ativo
+305,Silva Macedo S.A.,da Mota,29.047.185/0001-71,Financeiro,Média,Cavalcante de Minas,SP,+55 13 4275-2308,luisasampaio@porto.gov.br,Ativo
+306,Gomes e Filhos,Macedo,09.863.145/0001-90,Educação,Média,Costa,SP,+55 43 0600-5313,rioslucas-gabriel@aparecida.com,Ativo
+307,Duarte,Pinto Costela - EI,69.178.025/0001-86,Saúde,Média,Albuquerque,SP,62 5063-7314,caio13@da.com.br,Ativo
+308,Caldeira,da Cunha Brito - EI,56.271.830/0001-08,Financeiro,Média,Almeida Verde,SP,77 6838-9030,das-nevesrenan@sa.net,Ativo
+309,Araújo S.A.,Monteiro,43.281.057/0001-19,Saúde,Média,Sousa de Farias,SP,+55 61 4508-6403,caroline33@rios.com.br,Ativo
+310,Pereira Garcia - EI,Cirino,70.163.894/0001-16,Educação,Média,Costela,SP,+55 54 1298-3381,dsilveira@cavalcante.com.br,Ativo
+311,da Cruz Lima S.A.,da Rosa da Paz - EI,73.468.021/0001-00,Construção,Média,Cavalcante do Amparo,SP,74 6896-2706,wbarros@peixoto.edu.br,Ativo
+312,Novaes Siqueira S.A.,Garcia,74.923.850/0001-06,Tecnologia,Média,Carvalho do Amparo,SP,+55 82 2300-8576,vgoncalves@gomes.br,Ativo
+313,Ramos,Jesus S/A,16.293.745/0001-26,Educação,Média,Porto de Sales,SP,47 0663-3705,sampaiojuan@pereira.br,Ativo
+314,da Cunha da Cruz - EI,Albuquerque Camargo S/A,69.147.358/0001-48,Agronegócio,Média,Sales da Mata,SP,94 8694-6119,joao-pedro43@sampaio.org,Ativo
+315,Cavalcante - ME,Brito S/A,68.952.310/0001-40,Financeiro,Média,Cirino Grande,SP,+55 82 7281-7932,dantesouza@teixeira.com.br,Ativo
+316,Macedo,Porto S.A.,14.930.257/0001-57,Comércio,Média,Pacheco,SP,+55 93 7710-0409,britootavio@garcia.edu.br,Ativo
+317,Mendonça,Sá,56.927.840/0001-59,Indústria,Média,Rios das Flores,SP,49 9055-1076,benjamimpereira@moura.com.br,Ativo
+318,Freitas Machado - EI,Moraes,63.052.794/0001-57,Agronegócio,Média,Rocha dos Dourados,SP,+55 92 9769-1567,siqueirahelena@pereira.net,Ativo
+319,Moreira Oliveira e Filhos,Cardoso - ME,14.793.052/0001-77,Governo,Média,da Cruz,SP,+55 86 2116-0256,pedro-lucas47@rios.edu.br,Ativo
+320,Borges,Câmara,91.537.640/0001-90,Governo,Média,da Luz,SP,+55 49 4111-5931,jose-miguel56@das.gov.br,Ativo
+321,Gomes Lima Ltda.,Rocha,28.307.651/0001-48,Comércio,Média,da Rocha,SP,+55 88 7729-4209,ana-luiza81@santos.gov.br,Ativo
+322,Pires,Monteiro da Rocha e Filhos,60.517.942/0001-73,Comércio,Média,Vasconcelos,SP,+55 74 7642-0865,erocha@sa.br,Ativo
+323,Barbosa,da Paz,38.601.274/0001-09,Serviços,Média,Marques da Serra,SP,+55 62 7742-3330,gustavo26@rocha.com.br,Ativo
+324,Araújo Brito Ltda.,Cavalcanti,01.543.879/0001-80,Saúde,Média,Campos,SP,+55 94 6749-2617,oda-mota@freitas.com,Ativo
+325,Camargo S/A,Mendonça e Filhos,83.046.591/0001-65,Serviços,Média,Vieira,SP,+55 75 6764-9215,silvastephany@guerra.br,Ativo
+326,Azevedo,Sá S.A.,12.804.376/0001-38,Educação,Média,Cardoso,SP,+55 84 2184-0118,emanuella82@ribeiro.com,Ativo
+327,da Rosa Aparecida - EI,Ribeiro,87.243.965/0001-93,Tecnologia,Média,Sales,SP,+55 45 0303-2432,elisada-mota@siqueira.com,Ativo
+328,da Luz,Rezende,26.709.315/0001-04,Financeiro,Média,Barbosa,SP,12 3598-9262,luara60@barbosa.edu.br,Ativo
+329,Rodrigues - EI,Azevedo,51.926.843/0001-54,Comércio,Média,Brito,SP,49 3611-2849,hbrito@sampaio.gov.br,Ativo
+330,Novaes,Pereira,10.273.965/0001-01,Saúde,Média,Mendes Verde,SP,+55 54 4082-2269,caue53@santos.br,Ativo
+331,Macedo Fogaça - ME,da Mota,68.325.091/0001-79,Financeiro,Média,Borges de Minas,SP,+55 37 3129-0148,balbuquerque@mendes.gov.br,Ativo
+332,Guerra S/A,Souza Abreu e Filhos,68.517.402/0001-00,Educação,Média,Cavalcante de Rocha,SP,0300 321 5285,limamaya@cavalcante.br,Ativo
+333,Fernandes e Filhos,Nogueira Vargas S/A,49.726.105/0001-11,Tecnologia,Média,Cunha da Mata,SP,97 0797-0509,tfarias@caldeira.com,Ativo
+334,Silveira,Guerra Fogaça S/A,16.790.483/0001-05,Agronegócio,Média,Mendonça,SP,+55 12 2437-6545,icirino@caldeira.br,Ativo
+335,Castro,Fogaça Souza - ME,05.391.267/0001-70,Serviços,Média,Leão Alegre,SP,+55 19 2374-1678,trodrigues@duarte.edu.br,Ativo
+336,Cardoso,Caldeira S/A,29.540.178/0001-07,Educação,Média,Lima do Sul,SP,73 7447-1639,ninacirino@da.com.br,Ativo
+337,Sampaio,Rios Lima S.A.,71.284.650/0001-54,Governo,Média,Guerra,SP,+55 21 4326-0931,garciajoana@sampaio.gov.br,Ativo
+338,Câmara Fernandes - ME,Araújo,86.027.941/0001-34,Serviços,Média,Silva das Pedras,SP,+55 96 5020-0053,maria-julia49@lopes.org,Ativo
+339,Fonseca,da Rosa,19.054.826/0001-61,Indústria,Média,Souza Verde,SP,0500 953 4396,caldeirajose-pedro@aparecida.gov.br,Ativo
+340,Correia Santos - ME,Barbosa - EI,95.483.170/0001-80,Serviços,Média,Correia,SP,67 8485-5716,mendeslarissa@cavalcante.org,Ativo
+341,da Rocha Aparecida - EI,Vieira e Filhos,36.754.809/0001-56,Educação,Média,Sá de Moraes,SP,53 8669-4320,pedro-henriquepastor@vieira.br,Ativo
+342,da Rosa,da Rocha Santos Ltda.,81.290.463/0001-37,Comércio,Média,Porto,SP,+55 64 4240-3381,rezendececilia@duarte.com,Ativo
+343,Silveira,Jesus Pimenta Ltda.,50.862.197/0001-46,Tecnologia,Média,Almeida da Prata,SP,+55 47 6498-3735,nicolas96@machado.com.br,Ativo
+344,Freitas,Mendes Borges - ME,27.961.538/0001-19,Educação,Média,Ramos,SP,16 0422-6931,diegolima@marques.com,Ativo
+345,Siqueira Sá S/A,Garcia - ME,01.965.784/0001-55,Comércio,Média,da Mata,SP,+55 63 9001-8513,maria-luizateixeira@castro.org,Ativo
+346,Mendes,da Cruz Araújo - EI,48.106.529/0001-10,Comércio,Média,Casa Grande do Sul,SP,+55 89 0366-2543,trodrigues@mendonca.com,Ativo
+347,Caldeira da Paz Ltda.,Pimenta Ltda.,15.904.783/0001-05,Serviços,Média,Peixoto da Serra,SP,68 2494-5147,vinicius10@vasconcelos.br,Ativo
+348,Gomes Machado e Filhos,Azevedo,16.490.285/0001-26,Tecnologia,Média,Fogaça Alegre,SP,92 6769-5236,fnovaes@nascimento.edu.br,Ativo
+349,Gomes Barros - EI,Moura,93.172.064/0001-50,Educação,Média,Novais do Amparo,SP,+55 61 1055-2472,nda-cruz@araujo.com,Ativo
+350,Garcia Siqueira S/A,Freitas,01.834.796/0001-40,Educação,Média,Casa Grande de Minas,SP,+55 95 1096-2272,maria-isis65@viana.gov.br,Ativo
+351,da Paz S/A,Araújo Ramos S/A,92.803.547/0001-43,Governo,Média,Oliveira do Galho,SP,24 3624-1862,isadorapinto@camara.com,Ativo
+352,Sales - ME,Dias,69.207.314/0001-66,Saúde,Média,Caldeira,SP,+55 37 5950-3428,azevedootavio@sa.net,Ativo
+353,Porto Andrade S.A.,Barros,90.786.251/0001-36,Financeiro,Média,Fogaça,SP,16 6835-6521,joana81@alves.br,Ativo
+354,da Rocha S.A.,Rodrigues Martins S/A,13.865.942/0001-84,Saúde,Média,Machado Grande,SP,37 4596-0633,cassianomaysa@albuquerque.com.br,Ativo
+355,Novaes,Monteiro S/A,75.291.063/0001-43,Educação,Média,Fogaça de Minas,SP,+55 35 2747-4721,xaparecida@guerra.br,Ativo
+356,Macedo Fonseca - EI,Freitas,16.725.048/0001-05,Serviços,Média,Sampaio,SP,+55 13 2146-2961,hellenamartins@ferreira.br,Ativo
+357,Caldeira,Cirino e Filhos,16.893.207/0001-72,Agronegócio,Média,Pereira do Amparo,SP,+55 86 7147-0827,paulodias@peixoto.com,Ativo
+358,Vieira,Melo,30.968.721/0001-50,Educação,Média,Barros,SP,+55 63 1461-4768,valentimcirino@borges.br,Ativo
+359,Cavalcante,Ferreira Leão - ME,78.253.960/0001-50,Indústria,Média,Barbosa,SP,+55 64 5502-7275,vieirajoana@moreira.com.br,Ativo
+360,Machado S.A.,Porto,91.085.632/0001-50,Comércio,Média,Peixoto,SP,49 3533-9055,da-rosaana-liz@sampaio.gov.br,Ativo
+361,Jesus,Fogaça,58.642.013/0001-44,Construção,Média,Freitas da Serra,SP,+55 68 8664-6491,caldeirafelipe@pimenta.com,Ativo
+362,Souza,Porto - ME,80.463.175/0001-74,Educação,Média,Camargo do Oeste,SP,85 1576-6053,vitor-gabriel44@rocha.net,Ativo
+363,Leão S/A,Alves S.A.,58.921.430/0001-26,Indústria,Média,Correia das Flores,SP,+55 28 9626-2658,luizada-conceicao@santos.edu.br,Ativo
+364,Pires - EI,Teixeira,48.271.093/0001-15,Indústria,Média,Albuquerque Verde,SP,+55 66 0981-9602,oporto@cirino.net,Ativo
+365,da Rosa Correia - EI,Silveira Vasconcelos - ME,40.981.673/0001-94,Financeiro,Média,Peixoto de Campos,SP,+55 47 2442-1175,heloisabrito@vieira.com,Ativo
+366,Barbosa,Pires,13.682.790/0001-84,Tecnologia,Média,Albuquerque da Serra,SP,+55 19 1557-9980,rebecasousa@campos.net,Ativo
+367,Nascimento S/A,Cunha Fonseca S/A,30.516.879/0001-90,Educação,Média,Mendes do Oeste,SP,+55 43 5847-7686,theodorocavalcanti@rodrigues.br,Ativo
+368,Pacheco - EI,Cavalcante,37.698.421/0001-48,Tecnologia,Média,Pereira,SP,53 6395-5172,moraesthiago@da.gov.br,Ativo
+369,Gonçalves,Camargo S.A.,56.271.098/0001-76,Agronegócio,Média,Freitas Grande,SP,28 1050-5379,ravi-lucca81@da.gov.br,Ativo
+370,Moura Cunha S/A,Silva,91.653.240/0001-40,Serviços,Média,Aragão,SP,92 7046-1172,hadassa39@da.gov.br,Ativo
+371,Martins Ltda.,Guerra Andrade - EI,80.579.634/0001-80,Construção,Média,Silveira da Mata,SP,14 5561-8579,goncalvesana-cecilia@monteiro.com.br,Ativo
+372,Freitas - EI,Alves S.A.,09.287.316/0001-80,Serviços,Média,Correia,SP,47 8004-0104,da-luzbella@da.com.br,Ativo
+373,Carvalho Pacheco - ME,Cardoso Ltda.,26.750.419/0001-54,Indústria,Média,Ribeiro de Mendonça,SP,15 5731-4415,noahsales@barbosa.com,Ativo
+374,Albuquerque Rios S.A.,Gomes,37.128.465/0001-32,Comércio,Média,Rezende de Cassiano,SP,95 1235-6798,isabellycorreia@da.com,Ativo
+375,Oliveira,Casa Grande - ME,19.307.826/0001-26,Comércio,Média,Ribeiro de Moura,SP,79 5418-1563,isabellamontenegro@moraes.br,Ativo
+376,Macedo Ltda.,Brito,06.812.739/0001-84,Tecnologia,Média,Moura do Amparo,SP,98 6103-1310,oliveiravitor@azevedo.org,Ativo
+377,Pinto Sampaio e Filhos,Gonçalves,61.359.270/0001-88,Serviços,Média,Viana,SP,+55 84 5494-0128,tsousa@cavalcante.com,Ativo
+378,Cirino Farias - ME,Albuquerque Rios - ME,65.012.798/0001-37,Indústria,Média,Peixoto,SP,43 7907-3710,nunesamanda@moura.com.br,Ativo
+379,Vasconcelos Brito S/A,Sousa,57.892.463/0001-22,Financeiro,Média,da Cunha de Fonseca,SP,82 0545-8971,rafaela02@camara.gov.br,Ativo
+380,Fogaça Monteiro S/A,Oliveira Sousa e Filhos,65.380.172/0001-83,Governo,Média,da Mota,SP,79 8245-5696,ana-luiza30@pimenta.com,Ativo
+381,Vieira,Nunes,54.103.792/0001-59,Serviços,Média,Moreira,SP,18 9824-7414,marquesbruno@da.com,Ativo
+382,das Neves,Lopes Ltda.,09.412.568/0001-94,Tecnologia,Média,Casa Grande do Oeste,SP,71 9143-0753,zlima@da.gov.br,Ativo
+383,Cavalcanti,Rocha,52.381.794/0001-84,Construção,Média,Barros da Mata,SP,83 8266-1287,milena57@lima.br,Ativo
+384,Jesus,Alves,80.691.427/0001-12,Tecnologia,Média,Cardoso da Prata,SP,19 0626-0787,barrosdaniel@rezende.com,Ativo
+385,Peixoto,da Rocha - EI,75.098.462/0001-92,Indústria,Média,Moreira,SP,+55 63 8723-2440,spinto@camargo.com,Ativo
+386,Moreira S/A,Costela Caldeira - ME,08.739.521/0001-77,Educação,Média,Cirino de da Costa,SP,+55 99 9791-6202,rodrigocavalcante@melo.org,Ativo
+387,Pastor - ME,Rios,46.850.391/0001-34,Financeiro,Média,Alves,SP,16 7196-0940,waparecida@martins.org,Ativo
+388,Castro Ltda.,Ferreira Santos - EI,68.175.923/0001-18,Indústria,Média,Marques Grande,SP,15 4617-6792,jose-pedro59@pacheco.gov.br,Ativo
+389,Azevedo,Alves e Filhos,23.150.847/0001-58,Financeiro,Média,Vargas,SP,+55 93 1266-1094,andradediogo@teixeira.br,Ativo
+390,Cavalcanti Ltda.,Sampaio - ME,62.318.745/0001-50,Saúde,Média,Câmara do Oeste,SP,+55 68 6831-9013,carvalhoanthony@vasconcelos.br,Ativo
+391,Fernandes S.A.,Correia,37.524.810/0001-57,Saúde,Média,Lima de Pires,SP,49 1912-8411,dda-conceicao@almeida.net,Ativo
+392,da Cunha,Santos,51.270.486/0001-19,Comércio,Média,Guerra do Norte,SP,+55 48 9740-0564,brunateixeira@carvalho.edu.br,Ativo
+393,Sá,da Costa - ME,10.583.462/0001-32,Financeiro,Média,Cardoso de da Mata,SP,+55 22 1078-3567,rafael00@vasconcelos.edu.br,Ativo
+394,Rodrigues,Novaes - ME,06.851.342/0001-00,Serviços,Média,Camargo,SP,74 1955-3560,raviborges@da.com.br,Ativo
+395,Albuquerque e Filhos,Araújo Barbosa S/A,27.980.643/0001-03,Construção,Média,da Rocha,SP,+55 55 9671-1148,mayasantos@camara.br,Ativo
+396,Fonseca,Rezende,38.425.709/0001-01,Governo,Média,Jesus do Amparo,SP,15 1328-3483,freitasjoao-miguel@da.br,Ativo
+397,Camargo,Monteiro S/A,49.620.573/0001-07,Tecnologia,Média,Monteiro do Sul,SP,51 6703-3626,ribeiroana-laura@nogueira.com,Ativo
+398,da Luz,Sá Alves Ltda.,96.875.042/0001-45,Saúde,Média,Silveira da Mata,SP,0800 769 9842,vmartins@cardoso.com.br,Ativo
+399,Barros,Vargas Nogueira Ltda.,56.042.983/0001-83,Tecnologia,Média,Viana do Sul,SP,+55 53 4954-2770,dalbuquerque@fogaca.gov.br,Ativo
+400,Jesus Araújo - EI,da Mota - EI,85.137.249/0001-04,Tecnologia,Média,Cardoso de da Conceição,SP,+55 73 2903-1028,upacheco@novaes.net,Ativo
+401,Silva Ltda.,Almeida,58.041.273/0001-64,Construção,Média,Camargo de Moraes,SP,+55 37 3359-5616,joao-pedro05@farias.br,Ativo
+402,Melo,Pinto,02.598.163/0001-43,Indústria,Média,Dias,SP,96 8953-6902,pteixeira@barbosa.gov.br,Ativo
+403,Nascimento,Moura S/A,97.826.150/0001-90,Tecnologia,Média,da Cruz da Praia,SP,+55 92 7513-7651,mirella15@pereira.net,Ativo
+404,Viana,da Conceição,92.367.418/0001-50,Financeiro,Média,Vieira da Mata,SP,38 5116-6829,xpires@cirino.com,Ativo
+405,Leão Ltda.,Souza,12.063.794/0001-11,Construção,Média,Moraes,SP,0500 665 2683,isaac55@silveira.com,Ativo
+406,Machado,Pires,76.483.192/0001-04,Saúde,Média,Cassiano,SP,+55 12 9957-6572,gael34@fernandes.com,Ativo
+407,da Paz,Gomes,52.809.137/0001-95,Educação,Média,Oliveira Alegre,SP,+55 45 5421-4477,luccada-paz@pereira.com.br,Ativo
+408,da Conceição e Filhos,Casa Grande,13.204.695/0001-75,Tecnologia,Média,Alves de Freitas,SP,+55 84 4967-8274,silvaisaque@lopes.br,Ativo
+409,Borges,da Mota Siqueira e Filhos,15.987.024/0001-53,Comércio,Média,da Mota dos Dourados,SP,97 1506-1853,portoantony@carvalho.com.br,Ativo
+410,Rocha Costa Ltda.,Cassiano,72.981.506/0001-30,Construção,Média,Abreu,SP,73 1789-3206,gabrielly93@mendes.edu.br,Ativo
+411,da Rosa da Conceição Ltda.,Mendonça,65.720.184/0001-00,Indústria,Média,Machado Alegre,SP,+55 96 6127-5156,maria-sophiamendonca@rodrigues.net,Ativo
+412,da Rocha Ltda.,Viana Jesus S/A,85.492.371/0001-90,Agronegócio,Média,Guerra Paulista,SP,+55 28 4735-0476,lucas-gabrielnascimento@vasconcelos.gov.br,Ativo
+413,Cardoso,Silveira S/A,61.524.079/0001-44,Saúde,Média,Fonseca,SP,0900 328 6342,bianca63@albuquerque.com.br,Ativo
+414,Montenegro - ME,Aparecida,24.801.567/0001-25,Saúde,Média,Viana,SP,49 6241-1186,albuquerquevitoria@brito.com.br,Ativo
+415,Correia,Viana,56.028.317/0001-90,Agronegócio,Média,Rezende Verde,SP,85 6461-3684,sda-paz@garcia.com.br,Ativo
+416,Freitas,Machado S.A.,90.671.325/0001-99,Financeiro,Média,Ramos,SP,27 5211-8237,enzocasa-grande@pimenta.com.br,Ativo
+417,Moreira,Araújo Vargas - ME,46.952.107/0001-30,Educação,Média,Abreu Paulista,SP,+55 85 8787-5357,jmoraes@caldeira.com.br,Ativo
+418,Garcia S.A.,Castro - EI,12.370.569/0001-28,Saúde,Média,Pires,SP,0300 728 6604,lopesana-beatriz@moreira.br,Ativo
+419,Nunes,Casa Grande da Rocha - EI,35.496.128/0001-72,Saúde,Média,Cavalcante,SP,0300 705 6227,abreuana-livia@costa.edu.br,Ativo
+420,Farias,Araújo - EI,72.185.493/0001-92,Indústria,Média,Correia,SP,14 4694-5964,eduardopastor@caldeira.org,Ativo
+421,da Luz Nunes S/A,Moreira Pastor e Filhos,65.498.730/0001-00,Saúde,Média,Abreu,SP,+55 92 3192-2270,eduardo02@lima.gov.br,Ativo
+422,Duarte,Montenegro,13.687.529/0001-77,Construção,Média,Moura de Minas,SP,+55 86 2426-8774,novaisluara@cavalcanti.com,Ativo
+423,Martins,Siqueira,63.872.109/0001-39,Financeiro,Média,Fonseca de Moura,SP,+55 81 0945-1548,pereirayago@ramos.gov.br,Ativo
+424,Gonçalves,Sampaio e Filhos,49.087.361/0001-06,Educação,Média,Melo,SP,+55 46 0509-2221,dcampos@porto.com.br,Ativo
+425,Dias S/A,Correia,90.567.214/0001-37,Comércio,Média,Moreira do Sul,SP,63 6013-8241,liviaaparecida@pereira.net,Ativo
+426,Cavalcanti,das Neves Ltda.,85.123.406/0001-14,Educação,Média,Borges de Camargo,SP,+55 43 2125-9020,evelynmarques@silveira.org,Ativo
+427,Souza Sá e Filhos,das Neves Aragão - ME,42.917.830/0001-28,Financeiro,Média,da Mata,SP,+55 83 2447-4175,cecilia87@andrade.com,Ativo
+428,Sampaio Lopes Ltda.,Costela,58.407.126/0001-65,Serviços,Média,da Luz de Andrade,SP,+55 49 8272-7955,lribeiro@duarte.com,Ativo
+429,Albuquerque,Leão Melo Ltda.,51.276.839/0001-98,Construção,Média,Sá,SP,+55 16 7979-9667,thiagosilveira@peixoto.br,Ativo
+430,Rocha,da Rosa,03.186.254/0001-34,Serviços,Média,Castro,SP,97 2498-3922,caue14@ferreira.com,Ativo
+431,Abreu,Costa Cavalcanti Ltda.,41.286.307/0001-88,Financeiro,Média,Cassiano,SP,48 0725-1786,maria-juliarios@martins.com.br,Ativo
+432,Teixeira Brito - ME,Dias Teixeira S.A.,65.498.372/0001-35,Indústria,Média,Ferreira,SP,91 9039-2355,melissa09@barbosa.gov.br,Ativo
+433,Carvalho Monteiro S.A.,Cunha Ltda.,61.537.890/0001-60,Comércio,Média,das Neves das Flores,SP,88 0462-2681,wbarros@rezende.com.br,Ativo
+434,Castro Ltda.,Oliveira Montenegro - ME,70.956.348/0001-32,Educação,Média,Lima Paulista,SP,+55 49 9785-7585,vianaluiz-henrique@nascimento.com.br,Ativo
+435,Rocha,Cassiano S/A,54.386.790/0001-14,Tecnologia,Média,da Paz de Aparecida,SP,+55 53 7750-9546,ana-carolina08@cavalcanti.org,Ativo
+436,Leão,Machado Ltda.,40.125.839/0001-70,Governo,Média,Barros,SP,0800 122 7645,nsales@siqueira.br,Ativo
+437,Barbosa Ltda.,Andrade,21.645.093/0001-81,Educação,Média,Lima das Flores,SP,+55 16 2416-1394,olivia83@freitas.br,Ativo
+438,Teixeira Lopes Ltda.,da Mota Montenegro e Filhos,06.257.891/0001-42,Indústria,Média,Almeida,SP,66 2447-9513,arthur-miguelsantos@camara.com,Ativo
+439,Siqueira,Pastor,65.934.021/0001-20,Comércio,Média,Ferreira dos Dourados,SP,+55 65 7738-2646,ribeiroemanuel@novais.br,Ativo
+440,Costela e Filhos,da Rosa,45.783.012/0001-78,Governo,Média,Pinto,SP,43 9660-4873,inascimento@pereira.com.br,Ativo
+441,Brito - ME,Cunha Camargo - EI,42.865.391/0001-57,Construção,Média,Leão,SP,15 5515-8886,isismonteiro@da.com.br,Ativo
+442,Castro,Guerra da Paz S/A,85.791.032/0001-05,Financeiro,Média,Leão das Pedras,SP,+55 79 0932-9981,ualmeida@cavalcante.br,Ativo
+443,Freitas S/A,Novaes,83.297.146/0001-78,Financeiro,Média,Duarte,SP,+55 55 4103-9773,yda-costa@martins.com,Ativo
+444,Castro,Martins Silveira S/A,09.674.358/0001-74,Construção,Média,da Luz da Prata,SP,+55 51 9807-7046,fonsecaisabelly@lima.com.br,Ativo
+445,Caldeira S.A.,Teixeira,91.273.680/0001-72,Governo,Média,Costela de da Luz,SP,+55 44 5177-3454,yfarias@sampaio.org,Ativo
+446,Peixoto,Teixeira S.A.,28.401.973/0001-51,Serviços,Média,das Neves da Serra,SP,24 7742-2294,oda-cunha@alves.org,Ativo
+447,Pacheco Albuquerque Ltda.,Silveira,89.634.127/0001-76,Comércio,Média,Pastor,SP,94 5856-7287,maria-sophiagarcia@rios.br,Ativo
+448,das Neves Costela S.A.,da Mota Pereira e Filhos,13.586.402/0001-61,Construção,Média,Sousa,SP,+55 83 5061-5814,araujomaite@da.com,Ativo
+449,da Conceição Sales e Filhos,Cavalcanti,04.895.163/0001-30,Governo,Média,Araújo do Oeste,SP,+55 91 3997-7180,diogo37@macedo.br,Ativo
+450,Brito Nogueira - EI,Peixoto Mendonça Ltda.,90.678.312/0001-41,Saúde,Média,Abreu de da Cunha,SP,64 9472-5878,ana-clara48@fernandes.edu.br,Ativo
+451,Pires,Camargo,27.094.358/0001-87,Educação,Média,Azevedo,SP,71 4175-8231,paulodas-neves@dias.com.br,Ativo
+452,Caldeira,Pimenta,32.516.970/0001-30,Indústria,Média,Duarte,SP,98 7964-3474,joao-vitor45@souza.br,Ativo
+453,das Neves,Nunes,69.083.751/0001-15,Construção,Média,Marques,SP,14 0334-4505,yvieira@novais.edu.br,Ativo
+454,Cunha Pinto - EI,da Mota,19.382.740/0001-68,Indústria,Média,Sales do Amparo,SP,+55 96 4996-0105,stephany57@camargo.br,Ativo
+455,Souza Barbosa Ltda.,Cassiano,24.380.716/0001-20,Serviços,Média,Novais do Galho,SP,18 0215-5732,maria-helena37@farias.net,Ativo
+456,da Cunha,Carvalho S/A,69.873.042/0001-33,Serviços,Média,Almeida Verde,SP,73 0858-7495,sousadom@novais.edu.br,Ativo
+457,Moraes Borges - EI,Pimenta,31.672.945/0001-83,Saúde,Média,Rezende,SP,34 1295-7860,soliveira@pinto.com,Ativo
+458,Câmara Ltda.,Cassiano,43.598.127/0001-67,Financeiro,Média,Correia,SP,+55 64 3421-0890,valentinaferreira@duarte.net,Ativo
+459,Costa da Rosa S.A.,da Mata,39.501.867/0001-66,Construção,Média,Macedo,SP,+55 85 6077-6336,borgesluiz-fernando@castro.com,Ativo
+460,Sousa,Souza,56.310.428/0001-95,Comércio,Média,Moraes do Campo,SP,81 0066-6155,davi-lucca64@sampaio.gov.br,Ativo
+461,Melo,da Mota e Filhos,50.261.983/0001-98,Financeiro,Média,Carvalho,SP,85 0093-4596,larissacavalcanti@moreira.com.br,Ativo
+462,Fonseca Camargo S.A.,Monteiro S.A.,46.582.970/0001-43,Governo,Média,Farias,SP,+55 18 7026-0869,levibrito@ferreira.com,Ativo
+463,Azevedo,Melo - ME,68.714.029/0001-79,Financeiro,Média,da Cunha de Cardoso,SP,32 8591-7793,pedro-lucasmoraes@casa.com,Ativo
+464,Silva - ME,Pimenta,13.829.647/0001-72,Comércio,Média,Rios de Pastor,SP,99 8942-5652,souzahelena@vieira.com,Ativo
+465,Casa Grande e Filhos,Vieira S.A.,26.504.371/0001-02,Educação,Média,Pires,SP,63 7379-4871,olivia55@da.com.br,Ativo
+466,Ribeiro,Rios Ltda.,84.162.305/0001-90,Serviços,Média,Brito,SP,+55 91 7118-4254,jlopes@montenegro.br,Ativo
+467,Casa Grande Rodrigues S.A.,Costa e Filhos,58.246.907/0001-15,Educação,Média,Nogueira de Goiás,SP,0500 252 1293,valentinapimenta@costa.org,Ativo
+468,Guerra Ltda.,Moreira,67.821.903/0001-04,Construção,Média,Santos da Prata,SP,27 3991-0622,wcastro@goncalves.gov.br,Ativo
+469,Gonçalves,da Cruz Ferreira S/A,34.290.815/0001-74,Financeiro,Média,Casa Grande de Rocha,SP,14 5018-4819,qda-conceicao@da.com.br,Ativo
+470,Nogueira e Filhos,Cassiano,15.403.267/0001-05,Construção,Média,Lima de Pacheco,SP,+55 71 7438-1199,rodrigo76@araujo.gov.br,Ativo
+471,Vargas Ltda.,da Cunha,85.692.703/0001-80,Educação,Média,Silva,SP,89 3973-9641,mnovais@pereira.edu.br,Ativo
+472,Aparecida,Pastor e Filhos,19.867.235/0001-03,Serviços,Média,Ferreira,SP,74 7980-6603,beniciopires@brito.org,Ativo
+473,Alves,da Cunha,59.812.306/0001-95,Tecnologia,Média,Sampaio de Porto,SP,11 2388-5652,vborges@pimenta.edu.br,Ativo
+474,Dias das Neves S/A,Porto - ME,57.263.189/0001-22,Saúde,Média,Ferreira de Fernandes,SP,74 5225-0139,natalia84@goncalves.com,Ativo
+475,Borges Borges e Filhos,da Luz,25.831.609/0001-33,Construção,Média,Pimenta Verde,SP,+55 41 5370-3824,monteiropietro@da.gov.br,Ativo
+476,Casa Grande Albuquerque Ltda.,Almeida Pimenta - ME,76.391.482/0001-10,Construção,Média,Souza Paulista,SP,46 4655-3585,salesjoao-felipe@sampaio.net,Ativo
+477,Brito Viana - EI,Nascimento,51.392.487/0001-36,Tecnologia,Média,Oliveira do Norte,SP,82 9779-6120,pnovais@ferreira.com.br,Ativo
+478,Azevedo Rodrigues Ltda.,Silveira Ltda.,94.058.362/0001-87,Governo,Média,Gonçalves,SP,+55 87 7484-5398,xcasa-grande@abreu.gov.br,Ativo
+479,Silva Ltda.,Vasconcelos S/A,91.658.742/0001-64,Governo,Média,Cirino,SP,+55 18 7151-1696,sgarcia@carvalho.com.br,Ativo
+480,Cirino,das Neves Ltda.,26.430.197/0001-92,Educação,Média,da Conceição,SP,42 1571-8409,novaisdante@brito.com,Ativo
+481,Moura S/A,Duarte - ME,40.568.192/0001-51,Construção,Média,Cirino de Nascimento,SP,+55 87 5129-5927,nataliacassiano@alves.gov.br,Ativo
+482,Nascimento S/A,da Rocha,15.246.908/0001-57,Serviços,Média,Pereira,SP,+55 66 9578-6718,fernandesthales@casa.net,Ativo
+483,Correia,Aparecida,50.769.482/0001-17,Indústria,Média,Ribeiro,SP,32 8998-8683,aurora27@da.br,Ativo
+484,Garcia,Mendonça S/A,71.543.698/0001-30,Educação,Média,Viana de Vargas,SP,17 0803-1499,ana-sophiasousa@nascimento.com,Ativo
+485,Gomes,Fogaça Nascimento S/A,68.247.019/0001-70,Educação,Média,Cirino de Câmara,SP,31 1373-9900,scostela@da.net,Ativo
+486,Cavalcanti,da Conceição,56.018.492/0001-05,Saúde,Média,Lima Verde,SP,27 3460-6664,mariahda-cunha@pires.br,Ativo
+487,Sampaio - ME,Ribeiro Sales S.A.,19.873.062/0001-36,Construção,Média,Cavalcante Paulista,SP,61 4844-9411,fcosta@costa.com,Ativo
+488,Melo - ME,Camargo S.A.,06.295.813/0001-32,Governo,Média,Macedo Grande,SP,75 9083-3509,cassianocarolina@cavalcanti.br,Ativo
+489,Costa,Gonçalves - ME,24.176.593/0001-00,Governo,Média,Alves de Macedo,SP,+55 34 3984-8228,danilo11@moreira.edu.br,Ativo
+490,Pinto e Filhos,Silveira Duarte Ltda.,02.157.934/0001-67,Financeiro,Média,Gomes,SP,+55 51 3098-1079,rda-paz@machado.com.br,Ativo
+491,Rodrigues Mendonça - EI,Ferreira,79.234.810/0001-62,Agronegócio,Média,Porto da Serra,SP,54 4250-6420,tjesus@guerra.br,Ativo
+492,Guerra Leão - ME,Siqueira,79.632.548/0001-04,Agronegócio,Média,Carvalho do Galho,SP,+55 84 3339-3957,pfreitas@cunha.br,Ativo
+493,Melo Caldeira - EI,da Rosa,96.018.254/0001-06,Agronegócio,Média,Moreira das Pedras,SP,+55 75 7036-9249,isadoraoliveira@cassiano.br,Ativo
+494,Sousa Cardoso - ME,Pimenta,98.057.643/0001-76,Saúde,Média,Aragão,SP,34 1553-2341,ana-vitoria97@fernandes.com.br,Ativo
+495,da Rocha da Rosa S/A,Cassiano Castro - ME,18.694.532/0001-31,Serviços,Média,Sales de Goiás,SP,+55 49 2710-2676,xcavalcante@pastor.com.br,Ativo
+496,Macedo,Machado Almeida - ME,95.802.614/0001-01,Agronegócio,Média,Rocha das Flores,SP,+55 65 1354-1597,pintolara@fonseca.edu.br,Ativo
+497,Moreira,Mendonça Ltda.,20.359.671/0001-50,Tecnologia,Média,Aparecida Paulista,SP,82 1580-2909,da-rosagabrielly@melo.com,Ativo
+498,Sampaio,Farias,58.639.217/0001-26,Comércio,Média,Novaes do Oeste,SP,91 4417-1581,cardosoheitor@barbosa.com,Ativo
+499,Oliveira da Costa S/A,Albuquerque e Filhos,05.174.328/0001-48,Educação,Média,Pimenta,SP,+55 53 0231-2110,rvieira@costela.com,Ativo
+500,Duarte,Melo Costa e Filhos,72.985.401/0001-59,Serviços,Média,Montenegro,SP,+55 12 1234-2893,sampaiodom@cirino.com,Ativo
+501,Porto,Peixoto,68.413.275/0001-90,Governo,Média,Moura,SP,+55 12 4421-0175,pintolorena@rocha.br,Ativo
+502,Souza e Filhos,Dias - EI,51.492.367/0001-00,Financeiro,Média,Freitas de Monteiro,SP,21 7583-3920,julia77@vieira.com.br,Ativo
+503,Martins,Machado,29.630.184/0001-55,Comércio,Média,Guerra,SP,46 0622-9231,goncalvesmaria-julia@da.com,Ativo
+504,Gonçalves,da Rosa Novaes Ltda.,39.745.861/0001-34,Saúde,Média,Mendonça,SP,+55 32 5115-7942,rafaelamonteiro@leao.org,Ativo
+505,Fernandes Pires Ltda.,Pimenta,12.485.693/0001-39,Educação,Média,Azevedo de Almeida,SP,77 5633-5357,carolina95@cardoso.gov.br,Ativo
+506,Santos Pastor - EI,da Cruz Mendonça - EI,70.548.312/0001-10,Saúde,Média,Barros do Galho,SP,91 7941-7634,emanuellavasconcelos@melo.net,Ativo
+507,Duarte Ltda.,Novais,24.539.817/0001-09,Saúde,Média,Peixoto,SP,+55 51 4038-8436,asampaio@da.net,Ativo
+508,da Rocha Alves S/A,Barros,57.239.618/0001-26,Tecnologia,Média,Teixeira de Dias,SP,+55 47 4743-9742,aylaalmeida@aragao.edu.br,Ativo
+509,Freitas,Dias Silveira - ME,80.652.314/0001-08,Indústria,Média,Ramos,SP,16 5990-8027,azevedojoao-lucas@caldeira.com.br,Ativo
+510,Borges Sá Ltda.,Fernandes,16.580.342/0001-68,Indústria,Média,Moura,SP,66 6281-3721,rafael30@aragao.com.br,Ativo
+511,Mendes Aparecida S/A,Teixeira da Conceição S.A.,28.593.706/0001-23,Saúde,Média,Monteiro do Sul,SP,66 8103-9033,wabreu@pacheco.edu.br,Ativo
+512,Gonçalves Cunha S.A.,Pires e Filhos,94.872.630/0001-08,Agronegócio,Média,Sá,SP,+55 98 5354-6147,machadoolivia@costela.com,Ativo
+513,Aparecida - ME,Souza S.A.,34.982.570/0001-46,Governo,Média,Nunes,SP,+55 97 3804-0325,melinasilveira@silveira.br,Ativo
+514,Gonçalves,Mendonça Mendes - EI,94.308.657/0001-64,Comércio,Média,Albuquerque,SP,14 0476-9210,pedro36@barbosa.org,Ativo
+515,Rezende,da Rosa S/A,14.273.906/0001-94,Agronegócio,Média,Melo,SP,+55 73 0113-7984,augusto97@siqueira.com,Ativo
+516,Azevedo Gonçalves e Filhos,Alves,07.683.519/0001-60,Construção,Média,Ribeiro,SP,+55 33 4473-4043,manuelaabreu@nunes.edu.br,Ativo
+517,Vieira,Silva Souza S/A,45.192.368/0001-37,Governo,Média,Freitas,SP,48 8825-5629,dfreitas@vargas.org,Ativo
+518,Rocha Sá - ME,Fonseca,61.482.539/0001-19,Saúde,Média,Aparecida,SP,38 8295-8292,isabelabarros@camargo.edu.br,Ativo
+519,Moreira S/A,da Cunha - EI,23.580.946/0001-70,Construção,Média,Moreira das Flores,SP,+55 88 9561-3723,vieiramirella@monteiro.com,Ativo
+520,da Costa,da Rosa,38.167.049/0001-06,Agronegócio,Média,Campos do Oeste,SP,+55 77 1147-1656,sampaioana-clara@gomes.br,Ativo
+521,da Rosa Lima - EI,Porto,90.783.246/0001-70,Construção,Média,Sampaio do Amparo,SP,53 8169-9570,fandrade@melo.edu.br,Ativo
+522,Barros S.A.,Marques - ME,53.702.986/0001-08,Saúde,Média,Brito do Sul,SP,+55 54 9087-1827,hellena80@pacheco.com,Ativo
+523,Cavalcanti,da Rocha,20.479.385/0001-29,Tecnologia,Média,Barbosa,SP,+55 82 7730-6260,luiz-otavio35@da.com.br,Ativo
+524,Sampaio,Brito S.A.,29.036.857/0001-43,Indústria,Média,Porto da Prata,SP,+55 47 6704-6861,borgesvinicius@melo.br,Ativo
+525,Carvalho Campos S/A,Borges Oliveira S.A.,37.542.908/0001-37,Comércio,Média,Pacheco,SP,65 1803-3242,xalbuquerque@moraes.com,Ativo
+526,Pacheco,da Rosa S.A.,53.761.984/0001-90,Construção,Média,Cunha de Brito,SP,+55 73 6881-2282,mendesolivia@nunes.net,Ativo
+527,Pires,Câmara,46.083.721/0001-03,Saúde,Média,Correia,SP,48 6793-2798,wramos@da.org,Ativo
+528,Vargas,Lopes - EI,06.149.758/0001-72,Tecnologia,Média,Gonçalves Paulista,SP,83 5489-5478,wgomes@melo.com.br,Ativo
+529,Fernandes,da Cunha e Filhos,49.876.125/0001-79,Serviços,Média,Nunes,SP,+55 79 5435-8644,qrios@vargas.com.br,Ativo
+530,Correia,Silva,89.513.460/0001-27,Agronegócio,Média,Porto de Goiás,SP,+55 84 9527-5367,maria-clara85@da.org,Ativo
+531,Garcia - EI,Abreu,13.486.725/0001-83,Indústria,Média,Costa Paulista,SP,+55 28 6791-7665,carvalholuiz-miguel@fonseca.com,Ativo
+532,da Mota S/A,Cardoso,16.305.487/0001-50,Serviços,Média,Fernandes,SP,14 4633-3999,daniela32@novaes.br,Ativo
+533,Cavalcante Gomes S.A.,Castro S/A,94.706.135/0001-10,Saúde,Média,Marques,SP,+55 69 2341-0346,nmachado@brito.com.br,Ativo
+534,Macedo,Sousa Gomes - EI,60.415.372/0001-00,Comércio,Média,Duarte do Sul,SP,93 8967-9352,peixotogabriela@viana.net,Ativo
+535,Fogaça,da Mota,34.978.602/0001-30,Agronegócio,Média,Ramos,SP,+55 33 7069-5560,ulopes@lima.com,Ativo
+536,da Cunha,da Conceição,45.931.872/0001-01,Tecnologia,Média,Andrade,SP,51 5031-2198,da-cunhaemanuel@machado.com,Ativo
+537,Casa Grande,da Mota,23.691.408/0001-52,Agronegócio,Média,Pinto,SP,+55 28 9248-7623,costaeduardo@vargas.org,Ativo
+538,Nascimento Campos - ME,Silveira,29.810.763/0001-80,Serviços,Média,Montenegro,SP,95 0622-0722,emillyoliveira@martins.net,Ativo
+539,Cavalcanti,Silva S.A.,20.137.895/0001-18,Serviços,Média,Rocha de Sá,SP,61 8868-7859,qsa@cavalcante.edu.br,Ativo
+540,Cardoso,Costela S/A,95.407.381/0001-34,Governo,Média,Freitas do Sul,SP,28 7303-6279,ana-juliagoncalves@casa.br,Ativo
+541,Mendonça,Martins,75.391.604/0001-05,Financeiro,Média,Porto,SP,+55 45 4505-7661,daniela88@aparecida.com.br,Ativo
+542,Azevedo,Farias,34.206.175/0001-71,Agronegócio,Média,Moraes,SP,+55 87 8507-6597,beatriz45@moreira.com,Ativo
+543,Teixeira,Lopes,80.173.254/0001-40,Governo,Média,Casa Grande Grande,SP,+55 82 1964-6300,apollo23@nunes.net,Ativo
+544,Cassiano,Novaes,94.306.158/0001-38,Serviços,Média,Viana de Azevedo,SP,+55 88 7271-1759,maria-isis49@pires.gov.br,Ativo
+545,Moura,Rios Rodrigues e Filhos,98.467.150/0001-04,Construção,Média,Mendes Paulista,SP,34 8476-0944,casa-grandepietro@da.com,Ativo
+546,Jesus,Leão,95.401.832/0001-26,Serviços,Média,Vasconcelos,SP,28 0666-2670,ester14@mendonca.gov.br,Ativo
+547,Guerra Lopes S.A.,da Cruz,92.514.830/0001-55,Agronegócio,Média,Barros,SP,+55 41 0286-7120,meloluiz-gustavo@carvalho.com.br,Ativo
+548,Rocha,Rios,91.082.573/0001-67,Tecnologia,Média,Aparecida,SP,+55 11 3267-1494,pimentaalice@azevedo.com.br,Ativo
+549,Castro,Monteiro - EI,34.092.168/0001-96,Agronegócio,Média,Moraes da Mata,SP,19 6634-5337,leonardoandrade@araujo.com,Ativo
+550,Caldeira Machado S.A.,Silveira Barbosa Ltda.,59.387.640/0001-49,Agronegócio,Média,Santos do Oeste,SP,86 0526-3510,da-cunhaheloisa@monteiro.br,Ativo
+551,Machado,Duarte Souza e Filhos,65.201.739/0001-07,Educação,Média,Farias de Casa Grande,SP,+55 22 2389-7432,xandrade@pires.com.br,Ativo
+552,Pimenta,Fernandes,01.764.859/0001-30,Saúde,Média,Rodrigues do Galho,SP,14 8689-9936,marquesagatha@nascimento.com.br,Ativo
+553,Aparecida,Farias,06.138.574/0001-07,Educação,Média,Machado,SP,11 4039-4640,brunocamara@da.br,Ativo
+554,Lopes S/A,da Mota - EI,86.045.271/0001-89,Serviços,Média,Nascimento,SP,17 1368-5283,rodriguesliz@farias.net,Ativo
+555,Almeida,Cardoso e Filhos,42.958.317/0001-85,Agronegócio,Média,Siqueira,SP,+55 68 5144-8811,joaquimabreu@azevedo.com,Ativo
+556,Teixeira - ME,Campos,89.740.325/0001-14,Saúde,Média,Viana de Minas,SP,43 2638-4091,castrojoao-vitor@castro.edu.br,Ativo
+557,Mendes Sá e Filhos,Alves,56.804.317/0001-35,Educação,Média,Pinto,SP,88 9137-8765,miguel00@correia.com,Ativo
+558,Almeida,Rezende,56.023.714/0001-70,Agronegócio,Média,Pastor,SP,+55 61 7788-5190,samuel48@da.com,Ativo
+559,Araújo Ltda.,Sampaio da Luz - ME,24.563.098/0001-53,Comércio,Média,das Neves de Sousa,SP,21 6004-5212,fonsecaian@da.br,Ativo
+560,Cirino - EI,Pacheco Barros S.A.,04.867.592/0001-02,Educação,Média,Novaes da Mata,SP,+55 45 6046-1540,davi-miguelbrito@caldeira.com,Ativo
+561,Fonseca,Nogueira,14.286.905/0001-84,Saúde,Média,Cirino,SP,+55 46 0732-2836,rodriguesrebeca@oliveira.com.br,Ativo
+562,Monteiro Novaes S.A.,Lopes S.A.,96.384.250/0001-41,Educação,Média,Pastor das Pedras,SP,17 4391-6497,camargojade@souza.com,Ativo
+563,Ramos Pacheco S/A,Cardoso Silva S/A,39.057.816/0001-97,Financeiro,Média,Camargo Verde,SP,+55 11 3106-1537,juansilveira@freitas.br,Ativo
+564,Ribeiro,Macedo,32.978.146/0001-00,Financeiro,Média,da Mota de Lopes,SP,+55 27 4067-2007,nicolas61@casa.org,Ativo
+565,Cavalcanti,Vargas,07.143.265/0001-98,Serviços,Média,Machado,SP,+55 83 4764-2737,arthur-gabrielvasconcelos@ramos.net,Ativo
+566,Camargo da Mata e Filhos,Moreira,41.965.723/0001-02,Comércio,Média,Almeida de Minas,SP,+55 47 3443-8998,maysamoura@cassiano.br,Ativo
+567,Nunes,Abreu,73.205.981/0001-87,Tecnologia,Média,Pastor do Oeste,SP,62 9995-1679,samuelduarte@fernandes.br,Ativo
+568,Nascimento Farias - ME,Lopes Novais S/A,19.283.065/0001-10,Tecnologia,Média,Nascimento de Minas,SP,+55 46 8723-3351,da-cunhaantonio@campos.org,Ativo
+569,Costela,Fernandes S.A.,91.862.470/0001-10,Saúde,Média,Sales de da Mota,SP,+55 69 0736-5118,agathaabreu@sampaio.br,Ativo
+570,Sá,Novais,20.154.896/0001-70,Construção,Média,Castro,SP,+55 92 0233-3247,ribeiromanuella@pinto.com,Ativo
+571,Fonseca Pires Ltda.,Cassiano,12.730.985/0001-90,Tecnologia,Média,Rodrigues,SP,67 1123-1261,sda-conceicao@da.com.br,Ativo
+572,Machado,Peixoto Nascimento e Filhos,93.781.465/0001-08,Saúde,Média,da Luz do Oeste,SP,+55 16 3646-8719,vieirajose@da.com.br,Ativo
+573,Novais - ME,Rezende,92.041.657/0001-15,Comércio,Média,Aragão,SP,96 9813-8815,da-luzvicente@novaes.com,Ativo
+574,Aparecida Lima - ME,Carvalho Vieira S.A.,18.243.057/0001-87,Construção,Média,Sousa,SP,32 7245-0000,silveirabento@duarte.com.br,Ativo
+575,Barros e Filhos,Mendes Brito - ME,85.069.472/0001-53,Construção,Média,Fogaça,SP,28 6184-4421,valentinamendes@mendonca.edu.br,Ativo
+576,Cassiano S.A.,Montenegro,90.536.871/0001-17,Financeiro,Média,Aparecida,SP,+55 27 0436-5515,sofia26@nunes.com,Ativo
+577,Jesus Cassiano Ltda.,Duarte Freitas e Filhos,05.461.732/0001-00,Serviços,Média,Novaes,SP,+55 22 7063-3699,wpinto@vargas.com.br,Ativo
+578,Cardoso Azevedo S/A,Aragão,16.487.059/0001-96,Agronegócio,Média,Ramos da Serra,SP,86 7383-6381,pda-mata@rocha.com.br,Ativo
+579,Pinto,Silveira,28.439.106/0001-05,Construção,Média,Sá Grande,SP,47 8631-4417,gomesana@castro.br,Ativo
+580,Sá,Aparecida,26.358.947/0001-62,Indústria,Média,da Rocha,SP,+55 81 0176-4644,vargasrael@freitas.edu.br,Ativo
+581,da Mota Farias e Filhos,Martins Pimenta e Filhos,05.928.764/0001-65,Saúde,Média,Cunha,SP,+55 85 5384-9516,joao-miguelcaldeira@brito.gov.br,Ativo
+582,Moura,Silveira,18.049.572/0001-20,Construção,Média,Monteiro,SP,+55 87 2653-0601,samirella@teixeira.br,Ativo
+583,Brito,Montenegro,68.071.593/0001-10,Construção,Média,Farias,SP,66 1829-8036,maria-julia74@peixoto.com,Ativo
+584,Abreu,Gonçalves Freitas - EI,52.078.463/0001-70,Governo,Média,Caldeira da Prata,SP,18 3368-7509,joanacorreia@silveira.gov.br,Ativo
+585,Barbosa da Costa - ME,Farias,56.102.894/0001-85,Indústria,Média,Souza do Norte,SP,46 0537-6660,camargojose-miguel@vasconcelos.com.br,Ativo
+586,Aparecida S.A.,Moreira S.A.,56.840.937/0001-20,Governo,Média,Barbosa de Duarte,SP,+55 86 1234-5506,luizaoliveira@mendonca.com.br,Ativo
+587,Lima,Pinto Costela - EI,49.071.268/0001-03,Construção,Média,Vasconcelos de Correia,SP,38 4378-8260,ravi-luccaramos@pimenta.com.br,Ativo
+588,Aragão S/A,Machado,09.546.821/0001-00,Agronegócio,Média,Almeida,SP,79 4926-9996,qvasconcelos@novaes.gov.br,Ativo
+589,Borges,Casa Grande,85.694.173/0001-00,Indústria,Média,da Rocha,SP,+55 16 8499-3231,pietroda-rocha@vasconcelos.gov.br,Ativo
+590,Jesus - EI,Novais - ME,26.138.054/0001-01,Financeiro,Média,das Neves,SP,+55 91 8935-9538,arthur-gabrielda-paz@ferreira.gov.br,Ativo
+591,Casa Grande e Filhos,Fernandes,08.234.716/0001-65,Educação,Média,Borges da Prata,SP,51 9656-1308,glima@vargas.br,Ativo
+592,Sá,da Cunha S.A.,46.219.753/0001-93,Construção,Média,Alves,SP,+55 69 7300-8696,dazevedo@teixeira.edu.br,Ativo
+593,Barbosa Barros e Filhos,Pimenta Farias S/A,01.649.725/0001-78,Construção,Média,Pires de Minas,SP,32 0762-8397,jpires@siqueira.net,Ativo
+594,da Mata,Monteiro - ME,74.610.392/0001-47,Serviços,Média,Teixeira das Pedras,SP,+55 55 9250-8177,karagao@vargas.com,Ativo
+595,Moura,Azevedo,39.871.056/0001-57,Serviços,Média,Silva da Serra,SP,+55 83 5617-8170,lucasrocha@barros.com,Ativo
+596,Garcia S/A,Sá Lima S.A.,85.236.471/0001-56,Governo,Média,Correia,SP,+55 87 7184-4490,aylaaragao@goncalves.com,Ativo
+597,Lopes Ltda.,Aragão,37.952.081/0001-30,Saúde,Média,Casa Grande,SP,83 7822-1021,ipastor@caldeira.org,Ativo
+598,Cavalcante,Sousa,79.368.140/0001-77,Agronegócio,Média,Nogueira,SP,31 6053-9707,rguerra@marques.com.br,Ativo
+599,Guerra - ME,Guerra Moreira S.A.,05.934.172/0001-56,Saúde,Média,Cirino,SP,+55 89 5521-6505,rcaldeira@guerra.gov.br,Ativo
+600,Siqueira Barbosa - EI,Barbosa Oliveira S.A.,56.784.029/0001-66,Educação,Média,Pinto da Prata,SP,17 8022-0509,vitorialopes@montenegro.org,Ativo
+601,da Rosa Pereira Ltda.,Ramos S/A,45.789.630/0001-25,Construção,Média,Borges de Fogaça,SP,+55 74 3867-6738,benjamimpimenta@da.br,Ativo
+602,Pimenta S/A,Monteiro,98.734.162/0001-58,Agronegócio,Média,Silva de Cassiano,SP,+55 55 5893-7085,guerramarcelo@freitas.org,Ativo
+603,Ribeiro Ltda.,Garcia,95.740.863/0001-01,Indústria,Média,Nogueira da Serra,SP,38 5442-8679,icosta@pimenta.org,Ativo
+604,Porto da Cruz e Filhos,Rodrigues Nascimento e Filhos,94.671.508/0001-65,Construção,Média,Cavalcante Paulista,SP,+55 38 5285-7256,luigiguerra@sales.edu.br,Ativo
+605,Caldeira,Montenegro Caldeira - EI,65.807.321/0001-48,Financeiro,Média,Almeida Alegre,SP,89 4430-3491,camargomaria-luisa@cavalcante.com,Ativo
+606,Moreira Santos Ltda.,da Mata Vieira S/A,15.372.089/0001-94,Construção,Média,Caldeira de Duarte,SP,33 3132-5936,hsiqueira@da.br,Ativo
+607,Aparecida,Pinto Ltda.,21.460.597/0001-27,Tecnologia,Média,Gomes de Pimenta,SP,0500 198 7809,maria-lizabreu@fonseca.com,Ativo
+608,Moraes Moura - EI,Guerra,29.543.701/0001-59,Agronegócio,Média,Vieira dos Dourados,SP,0900 744 2275,alana85@fonseca.com.br,Ativo
+609,Viana,Cavalcanti,82.470.531/0001-02,Tecnologia,Média,Carvalho,SP,+55 12 0024-5393,da-costajoao@duarte.com,Ativo
+610,Abreu Duarte Ltda.,Andrade,83.645.107/0001-14,Governo,Média,da Paz do Galho,SP,0300 966 9972,osales@machado.gov.br,Ativo
+611,Silveira,Ramos,62.018.493/0001-44,Serviços,Média,Costela de Minas,SP,0300 328 1231,murilopereira@ramos.org,Ativo
+612,Araújo - ME,Borges - EI,36.491.587/0001-26,Indústria,Média,Nascimento,SP,+55 69 7681-7225,umartins@souza.br,Ativo
+613,Mendes,Garcia Cassiano - EI,05.249.631/0001-62,Construção,Média,Siqueira,SP,+55 46 6082-7172,marquespedro@macedo.com.br,Ativo
+614,Nunes Rezende - EI,Alves Duarte S.A.,29.357.108/0001-18,Governo,Média,Duarte Verde,SP,+55 37 4388-2325,samuel98@dias.org,Ativo
+615,Campos,Silveira,79.318.260/0001-60,Governo,Média,da Luz Paulista,SP,93 9127-9970,luiz-fernandomacedo@castro.br,Ativo
+616,Rios Peixoto - ME,Silveira,13.752.940/0001-89,Indústria,Média,Alves,SP,+55 45 2560-8320,da-luzmariana@moreira.edu.br,Ativo
+617,Ferreira,Sales Sousa e Filhos,58.916.430/0001-38,Comércio,Média,Costa,SP,+55 15 4436-1995,marquesdavi-luiz@castro.net,Ativo
+618,Almeida S.A.,Vasconcelos Siqueira - EI,50.127.364/0001-05,Construção,Média,Araújo,SP,+55 82 0967-1397,pereiraian@goncalves.com,Ativo
+619,Camargo Costela S.A.,Rodrigues e Filhos,76.985.103/0001-10,Tecnologia,Média,Camargo,SP,+55 48 6612-2019,machadojoao-gabriel@ribeiro.com.br,Ativo
+620,da Cruz,Pinto Souza e Filhos,30.471.965/0001-23,Agronegócio,Média,Nascimento,SP,+55 14 2748-1242,borgesalice@vieira.gov.br,Ativo
+621,Pires,Fernandes Albuquerque - EI,52.847.310/0001-40,Tecnologia,Média,Sampaio,SP,46 5610-3995,maysaalmeida@da.com,Ativo
+622,da Mota Correia - ME,Novaes,58.932.140/0001-88,Indústria,Média,Barbosa Grande,SP,+55 17 2706-1592,jda-conceicao@da.com,Ativo
+623,Peixoto Pinto S/A,Silveira,16.874.035/0001-90,Educação,Média,Cardoso,SP,16 8155-4203,benicio30@almeida.br,Ativo
+624,Monteiro,Freitas,64.123.897/0001-23,Construção,Média,Lima da Serra,SP,+55 96 4712-4760,aparecidadante@viana.com,Ativo
+625,Costela S/A,Novaes,31.792.064/0001-04,Financeiro,Média,Moreira do Norte,SP,+55 14 8157-1290,fernandesdavi@barros.net,Ativo
+626,Jesus - ME,da Cruz S/A,73.506.248/0001-00,Saúde,Média,Mendonça da Mata,SP,+55 83 6213-0096,cecilianascimento@machado.br,Ativo
+627,Peixoto,Monteiro,03.149.276/0001-24,Agronegócio,Média,Pereira,SP,63 2746-6621,davi-lucas83@sampaio.com,Ativo
+628,da Mata - ME,Lima,14.578.063/0001-34,Financeiro,Média,Machado,SP,89 7140-0493,silvavitor-hugo@dias.gov.br,Ativo
+629,Dias S.A.,da Cunha - EI,98.064.231/0001-63,Financeiro,Média,Porto de Câmara,SP,+55 33 3797-1669,gustavo66@cassiano.br,Ativo
+630,Aragão,Mendes,94.316.270/0001-50,Construção,Média,Sousa,SP,97 9949-9197,azevedovinicius@lopes.com,Ativo
+631,Martins Aragão - EI,Nogueira,21.830.759/0001-71,Educação,Média,Brito da Prata,SP,+55 41 3599-8989,hcasa-grande@macedo.com.br,Ativo
+632,Ribeiro,Barbosa - EI,64.871.509/0001-92,Construção,Média,Moreira do Galho,SP,+55 92 9785-7082,alvesvalentim@leao.br,Ativo
+633,Rios,Cirino S.A.,61.473.095/0001-55,Educação,Média,Rocha de Pastor,SP,13 2968-8276,orios@da.gov.br,Ativo
+634,da Conceição,da Luz S/A,96.123.058/0001-00,Comércio,Média,Cavalcanti,SP,89 4883-5651,zpacheco@cirino.org,Ativo
+635,Pereira - ME,Pimenta,69.352.470/0001-10,Agronegócio,Média,Machado do Galho,SP,27 2170-2851,kcasa-grande@pacheco.com.br,Ativo
+636,Pires Jesus Ltda.,Abreu Montenegro - EI,34.685.712/0001-03,Indústria,Média,Lopes,SP,+55 62 4672-8799,limaaugusto@borges.com,Ativo
+637,Camargo Pastor e Filhos,Fogaça Ribeiro - EI,23.601.589/0001-89,Serviços,Média,Abreu Alegre,SP,+55 77 3045-8816,augusto25@sa.org,Ativo
+638,Casa Grande,Campos,91.625.087/0001-48,Indústria,Média,da Mota do Sul,SP,66 6177-1824,nogueiravitoria@guerra.com.br,Ativo
+639,Brito da Mata S/A,da Mata,68.197.253/0001-30,Financeiro,Média,da Luz da Prata,SP,68 9893-9698,gdas-neves@nunes.org,Ativo
+640,Duarte Ltda.,Dias,01.847.659/0001-40,Saúde,Média,Fonseca de da Cruz,SP,51 0511-7160,stephanysa@costela.br,Ativo
+641,da Cruz,Santos,21.496.708/0001-55,Comércio,Média,Abreu de Aragão,SP,+55 17 9942-4894,calebeda-rocha@garcia.gov.br,Ativo
+642,Viana,Lopes,76.023.819/0001-36,Indústria,Média,Dias das Pedras,SP,46 7758-0974,pedro-miguel38@lima.net,Ativo
+643,da Luz,Garcia,29.685.703/0001-82,Indústria,Média,Pires Alegre,SP,41 3006-2212,ana-beatrizcirino@lima.br,Ativo
+644,das Neves,Carvalho,51.607.983/0001-60,Saúde,Média,Borges,SP,48 8488-6008,caldeiramaria-julia@mendes.com.br,Ativo
+645,Novais,Costa Barros S.A.,95.760.238/0001-21,Saúde,Média,Vieira Paulista,SP,+55 69 6121-2038,raul75@lopes.gov.br,Ativo
+646,Sá,Martins - EI,52.984.160/0001-16,Indústria,Média,Rios,SP,+55 92 8545-4006,ana-laura54@fernandes.com.br,Ativo
+647,Costa Barbosa S/A,Correia Cassiano e Filhos,74.958.031/0001-96,Governo,Média,Teixeira do Oeste,SP,+55 95 4272-0388,krodrigues@melo.com.br,Ativo
+648,Rezende - EI,Azevedo - EI,63.029.174/0001-05,Tecnologia,Média,Duarte,SP,94 2493-5340,sampaiogustavo-henrique@silva.br,Ativo
+649,Montenegro,Moraes,16.592.743/0001-38,Saúde,Média,da Luz Paulista,SP,69 0838-5179,manuellasantos@albuquerque.gov.br,Ativo
+650,da Costa,Casa Grande - EI,78.469.352/0001-88,Tecnologia,Média,Teixeira,SP,+55 32 4579-2714,irodrigues@garcia.net,Ativo
+651,Borges e Filhos,Santos,42.916.758/0001-14,Agronegócio,Média,Castro de Moreira,SP,+55 93 3912-1870,kcastro@cavalcanti.com,Ativo
+652,Cavalcante Casa Grande S/A,Camargo S/A,23.906.581/0001-20,Comércio,Média,Garcia do Campo,SP,+55 24 0898-7610,da-rochamarcos-vinicius@gomes.com.br,Ativo
+653,da Paz S/A,Novaes da Rocha Ltda.,31.069.254/0001-90,Governo,Média,Correia,SP,28 4695-1003,marquesisis@abreu.br,Ativo
+654,Macedo,Farias S/A,06.853.729/0001-97,Saúde,Média,Albuquerque,SP,55 5411-3407,guilherme69@vargas.gov.br,Ativo
+655,Aparecida,Freitas - EI,36.841.259/0001-02,Agronegócio,Média,Castro das Flores,SP,82 0838-6888,melosarah@viana.gov.br,Ativo
+656,Fonseca S/A,Pastor,62.530.491/0001-30,Educação,Média,Sales,SP,+55 93 2012-6578,gabriellyalbuquerque@barros.edu.br,Ativo
+657,Teixeira - EI,Carvalho,17.524.609/0001-62,Financeiro,Média,Marques de da Rocha,SP,+55 43 2746-9211,alanaborges@carvalho.br,Ativo
+658,Cavalcanti,Casa Grande Pereira - ME,58.130.247/0001-02,Tecnologia,Média,Caldeira,SP,41 4570-5682,oliveirajoao-miguel@fonseca.com.br,Ativo
+659,Siqueira S/A,Pires - ME,35.620.918/0001-18,Governo,Média,da Mota,SP,85 2828-9540,borgesmaria-vitoria@castro.com.br,Ativo
+660,da Costa,Carvalho - ME,16.503.849/0001-18,Governo,Média,Borges,SP,+55 49 9509-2711,marcelo61@souza.net,Ativo
+661,Aragão,Costa Aparecida S/A,71.642.098/0001-29,Comércio,Média,Sampaio de Minas,SP,95 9485-4329,ljesus@jesus.gov.br,Ativo
+662,da Mota,Vargas,16.945.873/0001-07,Tecnologia,Média,das Neves,SP,0900 131 0450,claricevasconcelos@camara.gov.br,Ativo
+663,Azevedo Martins Ltda.,Viana Vieira e Filhos,57.481.293/0001-93,Educação,Média,Guerra,SP,13 8606-7398,theodoroda-rosa@novaes.br,Ativo
+664,Garcia Pires Ltda.,Carvalho,80.529.341/0001-98,Comércio,Média,Gonçalves,SP,45 7955-1562,luiz-otaviosiqueira@peixoto.edu.br,Ativo
+665,Vargas,Caldeira,07.459.863/0001-70,Governo,Média,Barros,SP,+55 45 7861-9025,livia60@cavalcante.br,Ativo
+666,da Conceição,da Mata,12.075.943/0001-62,Indústria,Média,Viana Verde,SP,44 0026-0151,paulo25@macedo.gov.br,Ativo
+667,Andrade,da Paz,07.163.845/0001-47,Educação,Média,Fogaça,SP,46 0310-0649,ana-juliavargas@costela.gov.br,Ativo
+668,Abreu Ltda.,Cardoso,03.694.527/0001-51,Governo,Média,Nogueira,SP,21 9135-9928,cecilia35@casa.com,Ativo
+669,Gomes,Andrade S/A,67.058.342/0001-33,Construção,Média,Barbosa,SP,54 7740-3784,pedro-henriqueribeiro@nunes.gov.br,Ativo
+670,Câmara,Abreu - ME,79.681.240/0001-59,Construção,Média,Castro,SP,42 0173-6542,scirino@marques.org,Ativo
+671,Pacheco Araújo e Filhos,Ribeiro Oliveira e Filhos,23.896.047/0001-80,Saúde,Média,Oliveira,SP,+55 22 6053-0886,ryan02@borges.br,Ativo
+672,Câmara,Pimenta Abreu Ltda.,57.964.831/0001-09,Comércio,Média,Borges,SP,+55 71 9964-2603,larissarios@albuquerque.br,Ativo
+673,Fogaça,Barbosa da Cunha - ME,70.283.641/0001-86,Governo,Média,Câmara,SP,+55 12 2362-1921,sabrina18@silveira.com,Ativo
+674,Nunes,Lopes S/A,18.694.253/0001-78,Saúde,Média,Siqueira,SP,28 9772-1688,santoscarlos-eduardo@da.br,Ativo
+675,Azevedo Novaes - ME,Moraes Pacheco - ME,28.496.075/0001-24,Comércio,Média,Cavalcante,SP,87 2002-8394,raulcarvalho@araujo.org,Ativo
+676,Mendonça,Rezende,32.109.874/0001-78,Educação,Média,Rocha,SP,+55 54 0203-0423,jose-pedrosilva@monteiro.br,Ativo
+677,Sampaio Caldeira S.A.,Silva,30.248.975/0001-02,Governo,Média,da Cunha das Flores,SP,+55 82 0059-3777,isabella91@cardoso.gov.br,Ativo
+678,Rezende S.A.,Leão e Filhos,17.438.092/0001-99,Comércio,Média,Campos,SP,+55 18 4384-1966,kevinnunes@costa.br,Ativo
+679,Albuquerque,Fonseca - ME,85.673.901/0001-05,Governo,Média,Sampaio,SP,55 2198-6550,allana44@macedo.br,Ativo
+680,Rodrigues das Neves - EI,Silva Câmara - EI,65.028.437/0001-89,Indústria,Média,Correia de Cardoso,SP,+55 71 6261-1424,julianarios@sousa.edu.br,Ativo
+681,da Mata,Brito Rocha - EI,80.745.692/0001-36,Financeiro,Média,Casa Grande de Goiás,SP,27 1996-4338,rhavi24@cirino.br,Ativo
+682,Fonseca - EI,Câmara da Cruz Ltda.,30.986.271/0001-29,Serviços,Média,Freitas,SP,12 5769-4757,tpastor@silveira.com.br,Ativo
+683,Costa,da Costa,65.792.348/0001-04,Construção,Média,Azevedo das Pedras,SP,+55 85 4212-5450,oliveirabrenda@moraes.com,Ativo
+684,Cirino,Peixoto,25.843.791/0001-42,Financeiro,Média,Camargo,SP,+55 94 0742-3591,luiz-miguel61@aragao.gov.br,Ativo
+685,Rezende,da Cruz Vieira S.A.,61.492.587/0001-98,Comércio,Média,Machado,SP,65 3731-0081,wmoura@casa.br,Ativo
+686,Borges,Dias,23.567.918/0001-12,Serviços,Média,da Luz de da Mata,SP,93 0173-2086,juan37@machado.com,Ativo
+687,Guerra,Jesus,39.706.254/0001-65,Financeiro,Média,Teixeira,SP,44 2781-0558,andradebenicio@mendes.com.br,Ativo
+688,Azevedo das Neves S.A.,Martins,31.604.285/0001-01,Indústria,Média,Vargas,SP,+55 87 6817-2031,gabrielapinto@ferreira.com.br,Ativo
+689,Moreira Vasconcelos - ME,Silveira Alves - EI,27.391.648/0001-92,Construção,Média,da Costa,SP,+55 64 2273-9389,alexandreda-paz@melo.com.br,Ativo
+690,Viana Fogaça S.A.,da Conceição Lima - ME,18.503.764/0001-65,Agronegócio,Média,Aparecida de Moraes,SP,+55 77 6971-8236,britoarthur@campos.com,Ativo
+691,Brito,Ramos,83.250.947/0001-88,Comércio,Média,Nascimento Paulista,SP,63 7357-4223,leandrocasa-grande@silva.gov.br,Ativo
+692,Sá - EI,da Cunha,25.986.147/0001-23,Construção,Média,Guerra do Norte,SP,49 2953-5063,eda-cruz@nascimento.org,Ativo
+693,Rodrigues,da Mota,13.085.294/0001-43,Financeiro,Média,Vargas do Campo,SP,32 2013-6260,isabelly39@ribeiro.br,Ativo
+694,Azevedo,Siqueira,47.026.583/0001-93,Agronegócio,Média,Freitas,SP,+55 42 6411-9556,arthur-gabriel91@pastor.net,Ativo
+695,Machado,Fogaça,20.768.154/0001-35,Tecnologia,Média,Lopes,SP,+55 67 0197-1212,diogo39@sa.gov.br,Ativo
+696,Martins,Guerra,08.719.634/0001-00,Construção,Média,da Conceição de Barros,SP,+55 77 2760-7598,irezende@fogaca.net,Ativo
+697,Pires Rodrigues - EI,Costa,19.627.805/0001-98,Tecnologia,Média,Cirino de Goiás,SP,+55 53 2021-9150,maria-vitoria64@nunes.gov.br,Ativo
+698,da Paz,Abreu,09.234.651/0001-10,Serviços,Média,Nogueira das Pedras,SP,93 6497-9741,ycosta@lima.com.br,Ativo
+699,da Cunha Ltda.,Almeida - ME,35.871.960/0001-01,Educação,Média,da Mata Verde,SP,69 9277-1195,gabriellycamara@costela.com,Ativo
+700,Pastor,Silveira,02.589.143/0001-06,Governo,Média,Rocha do Oeste,SP,69 4315-9489,isabel54@ribeiro.br,Ativo
+701,da Rosa Farias Ltda.,Souza,34.860.251/0001-68,Serviços,Média,Sá,SP,+55 95 4497-4394,bda-luz@casa.gov.br,Ativo
+702,Montenegro,Cardoso,97.345.620/0001-02,Agronegócio,Média,Castro,SP,+55 46 0972-0217,mendesbeatriz@moreira.br,Ativo
+703,da Paz Pires e Filhos,Freitas,57.261.094/0001-70,Agronegócio,Média,da Rosa,SP,15 9646-1293,alvesjoao-miguel@caldeira.com,Ativo
+704,Costela e Filhos,Farias,65.912.483/0001-46,Construção,Média,Abreu de Novais,SP,71 1993-1458,marcos-vinicius45@gomes.net,Ativo
+705,Barbosa S.A.,Aragão,34.219.680/0001-50,Governo,Média,Correia,SP,27 7424-6310,ravi79@montenegro.com.br,Ativo
+706,Viana,Andrade - EI,52.437.018/0001-59,Educação,Média,Ramos,SP,89 7417-4304,antonellaaraujo@da.com,Ativo
+707,Castro Novais - EI,Lima,65.237.140/0001-23,Financeiro,Média,Moreira,SP,+55 66 9302-0256,cunhanicolas@da.net,Ativo
+708,da Cunha Jesus - ME,Azevedo,16.720.345/0001-50,Saúde,Média,Pimenta de Pimenta,SP,41 5302-4530,cavalcantiravi@mendonca.com,Ativo
+709,Alves Cunha Ltda.,Aparecida Cardoso - EI,47.169.058/0001-27,Comércio,Média,Castro,SP,+55 55 4050-7648,xsiqueira@melo.gov.br,Ativo
+710,Duarte,Jesus,12.403.897/0001-83,Educação,Média,Cassiano de Viana,SP,85 2581-2259,pachecocaroline@goncalves.com.br,Ativo
+711,Silva,Montenegro,23.715.689/0001-36,Agronegócio,Média,Vieira,SP,+55 77 1211-0187,da-costacecilia@souza.gov.br,Ativo
+712,Rios S/A,Aragão,74.065.183/0001-60,Saúde,Média,Pastor,SP,+55 97 5295-1712,joao-miguelmonteiro@souza.org,Ativo
+713,Câmara Novais - ME,Castro Almeida Ltda.,42.803.157/0001-03,Agronegócio,Média,Rodrigues Paulista,SP,51 3308-3344,luisa04@moraes.gov.br,Ativo
+714,Albuquerque,Martins,02.968.435/0001-50,Governo,Média,Barbosa Alegre,SP,+55 79 7749-2663,anna-lizleao@da.br,Ativo
+715,Dias,Castro Fogaça - EI,20.683.975/0001-79,Governo,Média,Alves,SP,47 9229-4115,ccunha@pastor.com.br,Ativo
+716,da Conceição,da Cruz,72.614.890/0001-32,Construção,Média,Garcia de Minas,SP,35 4980-8513,heitorcamara@aparecida.gov.br,Ativo
+717,Santos Castro S/A,Cavalcanti S.A.,12.985.604/0001-13,Financeiro,Média,Nascimento Grande,SP,73 8687-6401,mourabeatriz@novais.edu.br,Ativo
+718,Gomes Ltda.,Sá,20.863.154/0001-14,Indústria,Média,da Cruz de Dias,SP,99 5664-6419,isilveira@da.com,Ativo
+719,Silva Lopes S.A.,Barbosa Correia S.A.,04.192.753/0001-05,Agronegócio,Média,Vieira,SP,+55 48 4789-1179,wcassiano@pastor.gov.br,Ativo
+720,Oliveira,Rezende S.A.,83.154.069/0001-05,Financeiro,Média,Lima das Pedras,SP,+55 16 2000-5328,mathias86@brito.gov.br,Ativo
+721,Duarte S.A.,da Cruz,83.024.196/0001-81,Tecnologia,Média,Ribeiro,SP,+55 32 0768-6276,rafaelcavalcanti@montenegro.gov.br,Ativo
+722,Cunha Mendes - ME,Montenegro Ltda.,18.693.504/0001-08,Agronegócio,Média,Novaes da Mata,SP,+55 47 0132-8233,gael-henriquerocha@ferreira.com.br,Ativo
+723,Moura - ME,Santos,06.738.941/0001-03,Saúde,Média,Pacheco da Serra,SP,+55 12 8814-3192,cpereira@camargo.br,Ativo
+724,Fogaça - EI,Pacheco,83.425.916/0001-10,Financeiro,Média,Silva,SP,+55 65 6656-8629,gabriel25@costela.org,Ativo
+725,Fernandes Duarte S.A.,Rios,60.752.184/0001-78,Educação,Média,Pires do Amparo,SP,+55 63 9669-4179,bmendonca@novaes.br,Ativo
+726,Rodrigues,da Cunha,85.432.019/0001-60,Financeiro,Média,Camargo das Pedras,SP,83 3478-5369,garciaana@da.br,Ativo
+727,Vieira - EI,Ribeiro Porto - EI,60.518.793/0001-67,Educação,Média,Marques,SP,+55 22 6648-9008,vitor-hugonascimento@fogaca.edu.br,Ativo
+728,Vargas S.A.,Novais - EI,98.365.021/0001-05,Governo,Média,Rios da Prata,SP,+55 93 9974-1856,arthurcassiano@viana.br,Ativo
+729,Aragão S/A,Aparecida Rocha Ltda.,69.148.270/0001-40,Educação,Média,Gomes da Mata,SP,+55 44 8493-7846,dnunes@silveira.com,Ativo
+730,Moura - ME,Leão Ramos S/A,01.372.946/0001-41,Serviços,Média,da Rocha da Mata,SP,+55 97 2990-6745,znovais@cavalcante.org,Ativo
+731,Garcia S.A.,Camargo Duarte Ltda.,96.712.380/0001-66,Indústria,Média,Campos,SP,+55 13 5334-7047,maria-luiza64@rodrigues.com.br,Ativo
+732,Freitas,Peixoto Lopes Ltda.,21.348.905/0001-27,Serviços,Média,Carvalho,SP,17 5531-2900,isabelcardoso@borges.com.br,Ativo
+733,da Costa,Porto Martins - ME,26.475.819/0001-07,Saúde,Média,Novais Alegre,SP,32 8522-9425,ana-sophiabrito@camargo.edu.br,Ativo
+734,Mendonça,Pimenta,17.902.648/0001-56,Comércio,Média,Peixoto de Minas,SP,+55 99 7744-7353,joao-miguel47@camargo.com.br,Ativo
+735,Campos,Pacheco,47.326.910/0001-22,Saúde,Média,da Conceição do Amparo,SP,96 8033-1836,vianadavi-miguel@da.gov.br,Ativo
+736,Lima Andrade - EI,Montenegro,82.197.340/0001-19,Construção,Média,da Paz,SP,73 2515-2174,qduarte@duarte.br,Ativo
+737,Brito - EI,Fogaça - ME,73.428.506/0001-70,Agronegócio,Média,Macedo de Souza,SP,49 2969-1433,lcarvalho@garcia.gov.br,Ativo
+738,da Luz,Aragão,90.876.421/0001-73,Serviços,Média,Oliveira,SP,+55 15 8352-1189,hribeiro@da.com,Ativo
+739,Gomes,Sousa,89.475.632/0001-15,Saúde,Média,Macedo da Serra,SP,47 7595-8281,cavalcantijoao-pedro@macedo.gov.br,Ativo
+740,Siqueira,Carvalho Ltda.,89.354.701/0001-32,Agronegócio,Média,Farias,SP,0500 445 1436,kteixeira@moreira.com,Ativo
+741,Cirino e Filhos,Porto Alves S.A.,89.563.407/0001-30,Agronegócio,Média,Pimenta,SP,91 8145-9009,gustavo-henriquemacedo@oliveira.com,Ativo
+742,Dias,Novais Lima - ME,93.862.057/0001-80,Agronegócio,Média,Sá,SP,83 0532-6011,emanuelalbuquerque@nascimento.br,Ativo
+743,Carvalho,Ferreira,13.604.728/0001-74,Indústria,Média,Montenegro,SP,+55 53 0450-2437,isadoraazevedo@sampaio.com.br,Ativo
+744,Costela,Sá,62.701.834/0001-81,Comércio,Média,Costela,SP,43 3900-5856,fonsecaana@rios.net,Ativo
+745,Rezende Ltda.,Garcia,37.286.041/0001-04,Educação,Média,da Cruz das Flores,SP,+55 22 2837-7270,yasminpeixoto@vargas.gov.br,Ativo
+746,Jesus,Fernandes S.A.,42.138.509/0001-45,Saúde,Média,Barbosa do Norte,SP,+55 46 9753-5846,bryan51@correia.edu.br,Ativo
+747,Carvalho - ME,Albuquerque da Luz S.A.,76.391.405/0001-60,Construção,Média,Rocha Paulista,SP,81 1893-9530,zoliveira@leao.br,Ativo
+748,Sales,Nunes S.A.,28.476.391/0001-34,Saúde,Média,Camargo de Goiás,SP,34 8727-1743,ramoslais@viana.com.br,Ativo
+749,da Mata,Costa Ltda.,38.149.756/0001-70,Educação,Média,Moraes de Goiás,SP,+55 92 3647-7041,antonypereira@pinto.br,Ativo
+750,Moraes Porto - ME,Cirino - EI,26.978.104/0001-69,Governo,Média,Rezende,SP,+55 71 3190-5772,da-mataalana@almeida.com.br,Ativo
+751,Sales,Brito,93.276.108/0001-92,Financeiro,Média,Silva de Pimenta,SP,27 1224-8709,vcassiano@da.com.br,Ativo
+752,Costela,Cavalcanti Freitas S/A,74.219.053/0001-34,Agronegócio,Média,Cavalcanti,SP,67 1189-0034,bmoura@sales.net,Ativo
+753,Melo S/A,Nogueira Guerra - ME,20.968.574/0001-65,Serviços,Média,Leão Grande,SP,+55 34 9536-8900,maria-flor79@alves.com,Ativo
+754,Monteiro S.A.,Farias Nunes S/A,07.348.916/0001-86,Serviços,Média,Cavalcante de Castro,SP,+55 43 1386-9087,rezendeheloisa@casa.com,Ativo
+755,Alves Ltda.,Santos,46.130.972/0001-00,Financeiro,Média,Melo,SP,+55 12 7443-6023,ana-beatriz22@casa.com,Ativo
+756,Albuquerque,Fernandes Cirino S.A.,94.175.026/0001-14,Construção,Média,Melo de Cirino,SP,49 9032-6551,jose-pedromelo@barros.gov.br,Ativo
+757,Pereira,Silveira,80.276.549/0001-42,Serviços,Média,Andrade Grande,SP,+55 47 1915-8912,znogueira@siqueira.gov.br,Ativo
+758,da Cunha,Novais,68.917.340/0001-15,Financeiro,Média,Montenegro,SP,0300 447 4083,jribeiro@nunes.gov.br,Ativo
+759,Mendonça Ltda.,Barros Lopes Ltda.,09.645.713/0001-87,Financeiro,Média,Costa,SP,33 3484-8647,montenegrolevi@camara.edu.br,Ativo
+760,Dias,Lopes,29.017.648/0001-52,Agronegócio,Média,Rodrigues de Souza,SP,+55 64 0550-3300,almeidaagatha@da.com.br,Ativo
+761,Souza,Marques,31.074.569/0001-25,Educação,Média,Campos das Flores,SP,+55 11 0916-9232,dcosta@sousa.com.br,Ativo
+762,Gomes S/A,da Rosa,81.632.790/0001-20,Educação,Média,Almeida,SP,97 4336-1137,britorebeca@dias.gov.br,Ativo
+763,Sales,Farias,82.410.693/0001-55,Educação,Média,Azevedo,SP,45 3534-6607,fernanda99@da.gov.br,Ativo
+764,Guerra,Macedo,20.184.793/0001-53,Saúde,Média,Carvalho,SP,+55 43 8223-8794,cassianoheloisa@andrade.edu.br,Ativo
+765,Monteiro Ltda.,Carvalho,73.591.820/0001-79,Comércio,Média,Ferreira,SP,81 0041-2918,biancacaldeira@rodrigues.com,Ativo
+766,Viana Pires Ltda.,Nunes,04.697.532/0001-80,Saúde,Média,Câmara,SP,+55 31 4660-0128,rebecacasa-grande@borges.com,Ativo
+767,Silveira e Filhos,Costa Cardoso - EI,61.508.923/0001-43,Financeiro,Média,Albuquerque do Amparo,SP,69 6534-4604,joao-pedromacedo@camara.com.br,Ativo
+768,Gomes,Caldeira - EI,15.302.798/0001-01,Comércio,Média,Mendonça Grande,SP,+55 99 3586-1768,luandias@souza.com,Ativo
+769,Rios,Gonçalves Machado S/A,86.953.270/0001-32,Serviços,Média,da Mota,SP,+55 37 9768-7849,maria-julia71@pacheco.net,Ativo
+770,Albuquerque,Jesus S/A,84.721.593/0001-75,Tecnologia,Média,Costela da Mata,SP,+55 28 4668-2121,luana49@castro.br,Ativo
+771,Oliveira,Almeida Guerra e Filhos,49.160.538/0001-52,Saúde,Média,Moura,SP,+55 64 7306-3435,melissa82@moura.org,Ativo
+772,Nascimento,Guerra - ME,40.568.793/0001-64,Saúde,Média,Castro,SP,47 4341-2301,taragao@abreu.com.br,Ativo
+773,Monteiro Casa Grande S/A,Aragão,03.295.167/0001-15,Agronegócio,Média,Novaes de Pastor,SP,+55 27 1140-0347,da-costaheitor@souza.com,Ativo
+774,Teixeira,Aparecida,16.287.405/0001-92,Educação,Média,Brito Verde,SP,16 7855-0113,ofernandes@moura.com,Ativo
+775,Almeida - ME,Novais Moura e Filhos,78.031.692/0001-22,Governo,Média,Martins,SP,+55 48 6160-8819,icassiano@rocha.gov.br,Ativo
+776,da Cunha,Mendonça,18.372.904/0001-03,Serviços,Média,Novais do Campo,SP,+55 12 2480-8557,albuquerquelucca@rios.com.br,Ativo
+777,Correia,Cunha Gonçalves S.A.,21.640.379/0001-74,Governo,Média,Marques Paulista,SP,61 7067-5169,da-cruzemanuella@borges.com.br,Ativo
+778,Jesus Ltda.,Gomes Barbosa S/A,70.312.854/0001-99,Educação,Média,Cunha do Campo,SP,0900 392 4848,camarabenicio@da.com.br,Ativo
+779,Peixoto,Albuquerque Ltda.,30.287.691/0001-17,Comércio,Média,Teixeira da Prata,SP,54 4633-9534,borgesandre@almeida.com.br,Ativo
+780,Teixeira Ltda.,Leão,42.796.301/0001-13,Saúde,Média,da Cruz de Novaes,SP,37 5128-1775,carvalhoravi-lucca@teixeira.gov.br,Ativo
+781,Montenegro,Fernandes Ltda.,42.675.039/0001-59,Educação,Média,Siqueira,SP,53 0244-6546,jmartins@fogaca.br,Ativo
+782,Alves - ME,Araújo Montenegro - ME,15.672.394/0001-00,Saúde,Média,Cunha,SP,+55 45 7543-8027,diogo48@santos.br,Ativo
+783,Gomes Aragão S.A.,Farias da Luz - ME,86.231.470/0001-81,Financeiro,Média,Leão de Lima,SP,+55 97 2076-3271,camilacostela@melo.br,Ativo
+784,Fogaça Pereira S.A.,Moura Lopes e Filhos,87.035.926/0001-09,Tecnologia,Média,Pastor de Goiás,SP,+55 74 0553-4050,maria-juliacosta@souza.com,Ativo
+785,Peixoto,Lima,40.517.236/0001-14,Educação,Média,Sousa,SP,86 8977-5542,lbarbosa@da.org,Ativo
+786,Cirino Mendes S.A.,Souza,27.310.649/0001-65,Indústria,Média,Mendes,SP,+55 46 1175-7691,bcaldeira@araujo.com,Ativo
+787,Camargo,da Mata,86.302.194/0001-03,Serviços,Média,Costela,SP,+55 74 2026-9801,leo64@barbosa.com,Ativo
+788,Nogueira,Barbosa - ME,70.368.914/0001-95,Tecnologia,Média,Fernandes,SP,+55 13 0493-3267,thiagoda-mota@oliveira.net,Ativo
+789,Macedo S.A.,Viana,76.340.812/0001-48,Educação,Média,Sousa,SP,61 5402-5998,henrique93@cardoso.com,Ativo
+790,Cirino,Castro - EI,16.325.087/0001-07,Indústria,Média,Araújo Grande,SP,71 6765-2728,eduarda39@da.gov.br,Ativo
+791,Almeida,Silveira,08.629.341/0001-32,Indústria,Média,Almeida da Serra,SP,+55 24 8019-2902,eduardofreitas@da.gov.br,Ativo
+792,da Mota Ltda.,Pacheco S.A.,29.516.740/0001-67,Serviços,Média,da Cruz,SP,44 1025-5501,barbarada-paz@vieira.com.br,Ativo
+793,Câmara - ME,Sales,39.816.257/0001-51,Educação,Média,Pastor,SP,69 2080-5983,cardosovitor-gabriel@borges.com,Ativo
+794,Macedo Ltda.,Dias,92.071.534/0001-27,Tecnologia,Média,Barbosa,SP,88 7495-4210,mcirino@ramos.com,Ativo
+795,Machado Fernandes - EI,Pastor S.A.,26.705.184/0001-89,Agronegócio,Média,da Conceição das Flores,SP,+55 54 6475-2864,jcaldeira@pinto.com,Ativo
+796,Vargas,Alves Abreu - EI,92.481.603/0001-70,Comércio,Média,Santos,SP,+55 47 1535-5051,otto21@da.gov.br,Ativo
+797,Moreira - ME,Pastor,72.439.186/0001-90,Indústria,Média,Cardoso Grande,SP,+55 43 8834-5819,anthony-gabrielda-rosa@monteiro.com,Ativo
+798,Monteiro,Oliveira,39.861.475/0001-08,Governo,Média,Fogaça,SP,+55 31 2578-4640,milena58@sousa.com.br,Ativo
+799,Sampaio,Santos,72.691.085/0001-02,Educação,Média,Cardoso de Ribeiro,SP,+55 71 5435-5196,liamcavalcanti@ferreira.edu.br,Ativo
+800,Fogaça Siqueira e Filhos,Cavalcante,47.293.180/0001-00,Agronegócio,Média,Borges,SP,+55 71 2341-4992,vianaapollo@goncalves.com,Ativo
+801,Aparecida,Jesus Guerra S/A,45.092.317/0001-33,Agronegócio,Média,Mendes,SP,16 0039-1019,samuelfreitas@nascimento.com,Ativo
+802,da Rosa Martins S/A,Pastor S.A.,60.837.419/0001-24,Agronegócio,Média,Ribeiro de Andrade,SP,32 6461-6076,heloisada-paz@santos.br,Ativo
+803,Albuquerque - EI,da Conceição,72.389.051/0001-68,Financeiro,Média,Câmara,SP,+55 48 3361-0944,lopesana-clara@costa.br,Ativo
+804,da Mota,Camargo,37.296.581/0001-60,Tecnologia,Média,Sá do Norte,SP,68 3494-2904,eazevedo@fernandes.com,Ativo
+805,Almeida,Monteiro - EI,93.275.108/0001-78,Indústria,Média,Novais de Goiás,SP,75 4441-7234,liz53@oliveira.org,Ativo
+806,Nunes,Cavalcante Ltda.,48.571.369/0001-80,Educação,Média,da Mota,SP,84 2386-4100,rafael85@mendes.com.br,Ativo
+807,Cavalcanti,Gonçalves e Filhos,43.569.708/0001-70,Agronegócio,Média,Mendes,SP,0800 146 0476,da-rochapedro-miguel@montenegro.edu.br,Ativo
+808,da Mota,Marques Aragão - ME,61.795.238/0001-45,Comércio,Média,Martins Grande,SP,54 3681-5418,pietra99@araujo.br,Ativo
+809,Sampaio,Oliveira Camargo S/A,84.507.396/0001-58,Comércio,Média,da Costa da Praia,SP,65 6050-3374,gpastor@cunha.br,Ativo
+810,Rios,Almeida Guerra - ME,18.295.634/0001-84,Construção,Média,Oliveira de Ramos,SP,15 1908-7886,pedro-henrique85@gomes.com.br,Ativo
+811,Oliveira Leão S.A.,Rodrigues,28.730.945/0001-88,Agronegócio,Média,Oliveira Grande,SP,+55 62 1704-8618,urodrigues@alves.br,Ativo
+812,Costela,Araújo Teixeira S/A,62.031.458/0001-65,Comércio,Média,Rocha,SP,0900 271 8265,ravi-luccamartins@marques.com,Ativo
+813,das Neves,Cavalcante,64.201.859/0001-41,Governo,Média,Duarte,SP,22 9014-5996,yalves@azevedo.com.br,Ativo
+814,Correia,Freitas Ltda.,98.271.463/0001-92,Indústria,Média,Aragão,SP,+55 64 1781-6780,yporto@ribeiro.net,Ativo
+815,Fernandes e Filhos,Caldeira - ME,42.180.735/0001-94,Tecnologia,Média,Melo,SP,+55 28 9264-0703,moraesvalentina@moreira.com.br,Ativo
+816,Marques S.A.,Cassiano,82.641.973/0001-74,Tecnologia,Média,Sá do Sul,SP,+55 15 7288-9592,rpires@barbosa.edu.br,Ativo
+817,Lima - EI,Silveira - EI,61.293.540/0001-03,Governo,Média,Novais,SP,+55 19 8203-9170,lauracorreia@da.org,Ativo
+818,Duarte Peixoto - ME,Ramos da Cunha Ltda.,87.091.623/0001-03,Educação,Média,da Rosa,SP,+55 68 5369-0912,maria-ceciliafonseca@albuquerque.org,Ativo
+819,Guerra,da Cruz - EI,67.012.934/0001-14,Comércio,Média,Teixeira,SP,24 0553-6481,xvieira@rocha.com,Ativo
+820,Guerra Sampaio Ltda.,Campos Fogaça e Filhos,97.814.253/0001-30,Saúde,Média,Jesus Grande,SP,+55 82 2360-6679,lda-paz@cardoso.gov.br,Ativo
+821,Nunes,Rios,29.081.437/0001-89,Comércio,Média,Jesus,SP,+55 54 0666-1799,mcavalcanti@garcia.gov.br,Ativo
+822,Pastor Sousa - EI,Cunha Duarte - EI,76.953.814/0001-02,Serviços,Média,Albuquerque da Mata,SP,+55 53 3482-0849,gabrielduarte@pereira.net,Ativo
+823,Cassiano S.A.,Albuquerque,09.126.837/0001-56,Construção,Média,Pimenta,SP,+55 34 4304-9134,almeidanicolas@duarte.com,Ativo
+824,Cardoso,Pastor - EI,86.597.320/0001-96,Governo,Média,da Rocha,SP,+55 13 5920-8235,bentonunes@lima.br,Ativo
+825,Pinto Ltda.,Cardoso,98.052.317/0001-76,Governo,Média,Melo,SP,46 3079-6618,voliveira@cassiano.com.br,Ativo
+826,Abreu,da Cruz,47.905.126/0001-79,Governo,Média,Ribeiro,SP,+55 81 7956-1007,mmonteiro@barbosa.com,Ativo
+827,Leão Borges - EI,Aparecida Casa Grande e Filhos,51.347.869/0001-48,Saúde,Média,Correia,SP,21 2444-7489,vasconcelosvitor-hugo@lopes.com,Ativo
+828,Souza,Cardoso,35.108.947/0001-03,Serviços,Média,Vasconcelos,SP,+55 35 7085-1732,emanuel45@correia.org,Ativo
+829,Pereira S/A,Moraes,05.847.961/0001-50,Construção,Média,da Luz de da Mata,SP,55 5391-6077,aragaoalice@pastor.com.br,Ativo
+830,Silva Ltda.,das Neves,18.409.756/0001-54,Agronegócio,Média,Nogueira,SP,+55 17 3966-2038,yasmin86@pires.com.br,Ativo
+831,Ribeiro - ME,Cassiano - ME,52.903.874/0001-52,Agronegócio,Média,Costela,SP,+55 93 5623-0397,vinicius08@teixeira.br,Ativo
+832,Montenegro e Filhos,Aparecida,92.056.748/0001-24,Educação,Média,Câmara de Minas,SP,+55 43 3266-1158,camila80@castro.com.br,Ativo
+833,da Costa,Ribeiro Campos S/A,96.023.147/0001-76,Governo,Média,Câmara do Amparo,SP,+55 12 7745-4470,matteobarros@sa.com,Ativo
+834,Gomes,Pinto - EI,53.486.970/0001-05,Construção,Média,Cirino de Goiás,SP,33 9605-3026,sousasophie@almeida.com,Ativo
+835,Mendonça,Abreu,36.802.794/0001-54,Educação,Média,Gonçalves,SP,61 3605-0281,ada-mata@albuquerque.gov.br,Ativo
+836,Pastor S/A,Araújo Sousa S.A.,02.519.486/0001-02,Governo,Média,Sales,SP,+55 83 7597-9531,heloisaaparecida@pinto.edu.br,Ativo
+837,Aparecida,Martins Ferreira - ME,45.962.710/0001-30,Governo,Média,da Paz da Prata,SP,16 4538-1180,silvaagatha@ferreira.gov.br,Ativo
+838,Moura,da Paz da Paz Ltda.,69.281.470/0001-77,Indústria,Média,Monteiro,SP,92 0566-0361,tcarvalho@alves.br,Ativo
+839,da Rocha - ME,Sá Leão - ME,02.389.645/0001-93,Governo,Média,Freitas,SP,+55 82 0173-1671,lavinia05@oliveira.com,Ativo
+840,Cardoso,da Cunha da Rosa S/A,39.528.460/0001-22,Comércio,Média,da Luz da Praia,SP,+55 86 1579-0571,teixeirasabrina@lopes.com.br,Ativo
+841,Silva,Pacheco,36.590.417/0001-07,Saúde,Média,Silva do Amparo,SP,11 8768-0570,ryansouza@melo.com.br,Ativo
+842,Nogueira Ltda.,Abreu Ramos S/A,92.804.731/0001-08,Saúde,Média,Cunha,SP,+55 79 2973-2396,valentim02@duarte.com.br,Ativo
+843,Marques,Pinto,92.413.568/0001-52,Educação,Média,Câmara,SP,0800 520 2320,da-cunhaalexandre@lima.net,Ativo
+844,Teixeira Cavalcanti - EI,da Rocha,23.485.019/0001-70,Comércio,Média,Rocha,SP,88 5515-4526,macedoayla@nunes.com.br,Ativo
+845,Costa - EI,Campos Alves S/A,64.315.987/0001-16,Tecnologia,Média,Cardoso,SP,92 7773-3168,goncalvesisadora@siqueira.br,Ativo
+846,Macedo S/A,Novais Fonseca S/A,36.024.815/0001-58,Saúde,Média,Carvalho da Mata,SP,+55 41 0740-2740,ymelo@montenegro.com,Ativo
+847,Marques,Carvalho,50.671.843/0001-98,Tecnologia,Média,Correia do Galho,SP,44 6461-4974,maria-vitoria93@moreira.gov.br,Ativo
+848,Souza,Peixoto,14.608.529/0001-05,Serviços,Média,da Paz,SP,+55 85 2664-3223,giovanna12@castro.edu.br,Ativo
+849,Ribeiro S/A,Pimenta,48.512.097/0001-48,Comércio,Média,Cirino,SP,79 6223-9847,luiz-felipe25@silva.br,Ativo
+850,Azevedo,Cardoso Costela - ME,89.702.456/0001-07,Tecnologia,Média,Moreira do Norte,SP,53 1349-5647,heloisa05@rodrigues.br,Ativo
+851,Nunes,Correia,83.064.917/0001-87,Indústria,Média,Campos do Norte,SP,+55 32 9261-6620,leaoayla@dias.com.br,Ativo
+852,Rodrigues,da Mota,57.628.931/0001-56,Construção,Média,Cavalcanti,SP,+55 98 7640-0068,hfernandes@moura.com.br,Ativo
+853,da Rocha Rodrigues S/A,Barbosa,69.528.014/0001-89,Agronegócio,Média,da Rosa Paulista,SP,+55 34 8997-4023,sarahjesus@almeida.edu.br,Ativo
+854,Dias Melo S/A,Machado S/A,36.904.258/0001-60,Governo,Média,Moraes,SP,65 0205-0898,bentopereira@souza.com,Ativo
+855,da Mata Rios - EI,Pacheco - ME,17.864.395/0001-73,Agronegócio,Média,Cassiano da Prata,SP,12 1356-9480,anna-liz07@fogaca.com.br,Ativo
+856,da Rosa,Oliveira Ltda.,73.450.268/0001-07,Educação,Média,Abreu da Serra,SP,+55 97 4203-1589,brendamoreira@pimenta.com.br,Ativo
+857,Martins S.A.,Cassiano,03.145.867/0001-23,Indústria,Média,Nascimento das Pedras,SP,82 5951-4186,rebeca23@montenegro.com.br,Ativo
+858,Pereira Dias e Filhos,Sampaio,84.193.762/0001-41,Saúde,Média,Cavalcante,SP,69 0586-9427,smendes@brito.com.br,Ativo
+859,Gomes - ME,Pastor Cunha e Filhos,15.964.032/0001-84,Educação,Média,da Rocha,SP,+55 64 6559-4698,leaoleandro@carvalho.com,Ativo
+860,Rezende Melo S/A,Pinto,80.216.394/0001-59,Educação,Média,Dias Paulista,SP,77 0847-7954,pireslivia@monteiro.br,Ativo
+861,Costa,Nogueira - EI,90.751.386/0001-66,Agronegócio,Média,Duarte,SP,92 9089-4589,zcavalcante@montenegro.edu.br,Ativo
+862,Jesus,Moura Almeida S.A.,07.691.532/0001-61,Comércio,Média,Cirino,SP,+55 49 9051-8812,yrezende@moraes.com.br,Ativo
+863,Rezende - ME,Guerra - ME,90.183.476/0001-06,Saúde,Média,Vasconcelos de Casa Grande,SP,+55 63 6893-3486,maria03@aparecida.br,Ativo
+864,Duarte,Moraes,96.312.570/0001-96,Educação,Média,Macedo de da Costa,SP,+55 45 2315-5505,crocha@cardoso.gov.br,Ativo
+865,Moura - ME,Moreira da Mota e Filhos,49.026.817/0001-28,Governo,Média,das Neves,SP,+55 33 4701-2350,isadoranascimento@camargo.br,Ativo
+866,Vasconcelos,Souza S/A,97.843.605/0001-86,Saúde,Média,Porto,SP,22 4568-4467,benicio36@da.com.br,Ativo
+867,Azevedo - ME,Carvalho Pimenta Ltda.,73.945.106/0001-31,Construção,Média,Fonseca de Machado,SP,+55 68 9273-1868,brenocarvalho@farias.br,Ativo
+868,Ramos,da Conceição da Conceição S.A.,41.675.209/0001-32,Comércio,Média,Pires Paulista,SP,0900 396 6073,ana67@gomes.com,Ativo
+869,Ferreira e Filhos,Nogueira,41.725.908/0001-40,Serviços,Média,Macedo,SP,+55 11 5022-1816,ramosallana@da.com.br,Ativo
+870,Rios,Gomes,04.357.629/0001-44,Saúde,Média,Pastor,SP,+55 54 8643-3026,bento99@santos.com.br,Ativo
+871,Camargo Novais S.A.,Garcia,79.145.368/0001-06,Tecnologia,Média,Barbosa do Sul,SP,+55 62 5634-2022,pedro-lucasda-mata@barbosa.com.br,Ativo
+872,Lima,Leão Mendonça Ltda.,90.136.487/0001-27,Educação,Média,Porto,SP,22 4614-4092,samuelvasconcelos@azevedo.br,Ativo
+873,Gonçalves,Lopes,42.670.539/0001-06,Tecnologia,Média,Sá de Cardoso,SP,51 3199-5695,levi27@garcia.com.br,Ativo
+874,Borges,Pereira,09.364.287/0001-03,Comércio,Média,Fernandes de Minas,SP,+55 85 4448-6722,alexandreda-rosa@sa.net,Ativo
+875,Azevedo da Cunha Ltda.,Garcia,15.724.983/0001-86,Indústria,Média,Camargo,SP,+55 99 9788-7953,carvalhoantony@albuquerque.gov.br,Ativo
+876,da Paz,Macedo Monteiro e Filhos,69.147.023/0001-20,Tecnologia,Média,Araújo,SP,+55 45 8731-4391,francisco14@lopes.br,Ativo
+877,Pires Caldeira S/A,Novaes,18.706.432/0001-88,Educação,Média,Lima da Mata,SP,+55 54 5706-8026,samuelsilveira@freitas.com,Ativo
+878,Albuquerque Guerra S/A,Cirino S.A.,02.678.594/0001-10,Governo,Média,Carvalho da Serra,SP,17 1142-0667,caldeiraana-vitoria@da.com.br,Ativo
+879,Almeida Brito - ME,da Cruz,38.216.570/0001-96,Governo,Média,Dias,SP,+55 92 9222-0562,britocaleb@camargo.org,Ativo
+880,Costela,Oliveira Brito S.A.,32.514.907/0001-65,Educação,Média,da Cruz,SP,+55 98 5645-2342,xda-rosa@pimenta.br,Ativo
+881,Vieira,Cavalcanti Ltda.,98.631.254/0001-02,Agronegócio,Média,Siqueira,SP,44 3677-3498,luiz-gustavo97@fogaca.br,Ativo
+882,Gomes Guerra Ltda.,Nunes,14.763.920/0001-76,Comércio,Média,Pinto,SP,66 6414-7533,spacheco@castro.org,Ativo
+883,Vasconcelos,Teixeira,69.571.284/0001-72,Agronegócio,Média,Cardoso Verde,SP,37 3243-6792,gustavo57@castro.br,Ativo
+884,Costa,Duarte da Mata S.A.,46.597.312/0001-25,Educação,Média,Jesus,SP,+55 45 6824-9793,leaogael@camara.gov.br,Ativo
+885,Brito - ME,Sales Martins S/A,03.981.654/0001-31,Construção,Média,Melo,SP,+55 69 0148-9678,novaisjoao-lucas@siqueira.org,Ativo
+886,Campos Cardoso S/A,Gonçalves,34.791.280/0001-15,Educação,Média,Gomes,SP,19 5633-9172,antonio36@montenegro.com.br,Ativo
+887,Rios S/A,Ramos Jesus e Filhos,64.708.352/0001-89,Serviços,Média,Jesus,SP,+55 89 3539-1016,cavalcanteclara@camargo.com.br,Ativo
+888,Nunes Pereira Ltda.,Teixeira S/A,39.826.175/0001-98,Serviços,Média,Mendes do Oeste,SP,14 8140-9841,barbosaluara@peixoto.net,Ativo
+889,Barbosa Ltda.,Caldeira - ME,04.169.523/0001-17,Agronegócio,Média,Andrade,SP,+55 65 8866-1680,pintobruno@da.com.br,Ativo
+890,da Luz Montenegro e Filhos,da Rosa,84.201.756/0001-99,Agronegócio,Média,Araújo do Amparo,SP,+55 44 7913-8601,maria-luisa11@camargo.net,Ativo
+891,Viana Santos S/A,Almeida,24.750.168/0001-82,Comércio,Média,Campos,SP,+55 55 8745-2719,luizamelo@mendonca.br,Ativo
+892,Lima,Pereira Barbosa S.A.,81.053.274/0001-40,Governo,Média,Campos Verde,SP,17 2321-5401,enzofarias@farias.gov.br,Ativo
+893,Ribeiro,Gomes Azevedo - ME,84.521.679/0001-54,Indústria,Média,Sousa de das Neves,SP,+55 37 0254-7179,raquel85@gomes.gov.br,Ativo
+894,Montenegro,Araújo Alves Ltda.,15.632.794/0001-83,Construção,Média,Vasconcelos do Galho,SP,19 2271-7266,eloaguerra@alves.org,Ativo
+895,Albuquerque,Almeida,01.465.293/0001-45,Financeiro,Média,Garcia,SP,96 6240-8710,portojuliana@nogueira.gov.br,Ativo
+896,Rocha Ltda.,Mendonça S.A.,82.036.149/0001-95,Governo,Média,Campos,SP,42 2232-8222,alicealbuquerque@melo.br,Ativo
+897,Moura Correia Ltda.,Andrade,04.195.827/0001-59,Educação,Média,da Conceição,SP,48 1135-0535,kcasa-grande@abreu.org,Ativo
+898,Porto e Filhos,Mendonça,80.741.952/0001-03,Indústria,Média,Barbosa,SP,+55 17 4194-5341,jose81@da.br,Ativo
+899,Marques,Siqueira,28.017.465/0001-74,Comércio,Média,Câmara da Praia,SP,93 8037-8912,camaralivia@da.com.br,Ativo
+900,Peixoto,Dias Ltda.,85.932.476/0001-13,Saúde,Média,Nogueira,SP,15 2906-9690,elisa28@albuquerque.br,Ativo
+901,Siqueira S/A,Farias,67.318.249/0001-10,Governo,Média,Barros,SP,62 5276-1368,da-rosadanilo@fogaca.com,Ativo
+902,Correia,Silveira,62.987.531/0001-77,Governo,Média,Duarte,SP,+55 13 8423-2423,olivia00@barros.br,Ativo
+903,das Neves Camargo e Filhos,Fernandes,36.124.857/0001-60,Indústria,Média,Pacheco do Sul,SP,53 2796-0242,marcela03@camara.gov.br,Ativo
+904,Rocha,Fogaça,23.195.476/0001-20,Educação,Média,Câmara do Norte,SP,15 0296-6299,macedolevi@mendonca.com,Ativo
+905,Cardoso Alves Ltda.,Jesus - ME,82.195.743/0001-29,Governo,Média,Pereira do Oeste,SP,86 0632-5031,levimontenegro@da.com.br,Ativo
+906,Abreu,Cassiano Aparecida - ME,10.947.563/0001-45,Indústria,Média,Mendonça,SP,89 1900-0029,lorena16@cirino.com.br,Ativo
+907,Sampaio,Azevedo,85.942.037/0001-91,Tecnologia,Média,da Conceição,SP,+55 11 4532-3167,iviana@da.br,Ativo
+908,Macedo,da Cruz,70.142.596/0001-40,Agronegócio,Média,Barros,SP,79 7666-5052,wramos@azevedo.com,Ativo
+909,Viana - EI,Novaes Borges e Filhos,57.039.846/0001-52,Serviços,Média,da Cruz,SP,+55 34 1678-7067,vcostela@carvalho.gov.br,Ativo
+910,Campos,Pacheco,21.935.476/0001-94,Agronegócio,Média,Leão de Goiás,SP,93 1142-9430,alvessamuel@fernandes.com.br,Ativo
+911,Nunes Sá - EI,da Cruz Sampaio e Filhos,13.278.659/0001-56,Educação,Média,Cardoso,SP,87 8417-8376,diego53@aparecida.com.br,Ativo
+912,Rios,Gomes Ltda.,26.891.340/0001-43,Tecnologia,Média,Azevedo Grande,SP,89 2455-3375,wdias@pimenta.br,Ativo
+913,da Luz,Moraes,46.217.953/0001-07,Governo,Média,Campos do Sul,SP,24 6250-6929,yduarte@camargo.com,Ativo
+914,Leão S.A.,Leão,72.358.096/0001-75,Construção,Média,da Cunha,SP,12 2129-1465,cirinojuan@da.edu.br,Ativo
+915,da Paz Ltda.,Silveira,97.280.463/0001-96,Agronegócio,Média,Marques,SP,+55 17 3398-2147,ryancorreia@ramos.com.br,Ativo
+916,Sales Araújo - EI,Dias,16.735.809/0001-00,Comércio,Média,Jesus,SP,+55 88 2863-0112,benjamimaragao@montenegro.org,Ativo
+917,Gomes da Cunha - EI,Costela Sá S.A.,67.904.135/0001-52,Agronegócio,Média,Sampaio,SP,+55 84 6054-9469,benicionovais@leao.org,Ativo
+918,Camargo S.A.,da Luz Pinto Ltda.,13.507.648/0001-09,Financeiro,Média,da Rocha das Flores,SP,+55 48 7580-8038,da-pazthomas@araujo.com,Ativo
+919,da Costa,Ferreira - ME,68.507.129/0001-24,Construção,Média,da Mota,SP,97 3747-5580,bryanpinto@caldeira.edu.br,Ativo
+920,Garcia,Machado,17.842.065/0001-87,Financeiro,Média,Cassiano,SP,83 1698-8371,gborges@moreira.br,Ativo
+921,Moreira,Camargo,17.632.495/0001-74,Financeiro,Média,Castro,SP,65 1705-0583,mateus45@pastor.br,Ativo
+922,Macedo,Nogueira Freitas S.A.,53.849.617/0001-42,Comércio,Média,Gomes,SP,62 2177-5801,valentina46@novaes.br,Ativo
+923,Abreu Vasconcelos S.A.,Cassiano - EI,53.268.194/0001-77,Tecnologia,Média,Pastor da Prata,SP,+55 88 4515-0252,ana-clara61@abreu.com.br,Ativo
+924,Abreu Nascimento - EI,Cardoso,07.345.186/0001-60,Financeiro,Média,Marques de Souza,SP,+55 49 1842-5278,acosta@albuquerque.com,Ativo
+925,Barbosa Aragão S.A.,Casa Grande,34.891.026/0001-99,Construção,Média,Sales de Ribeiro,SP,77 7196-1997,garciaemanuella@ferreira.com.br,Ativo
+926,Guerra,Jesus,40.691.527/0001-24,Agronegócio,Média,Almeida,SP,46 2242-6537,luiz-otaviocardoso@pacheco.com.br,Ativo
+927,da Cruz,Marques S/A,54.791.308/0001-21,Educação,Média,Monteiro Verde,SP,+55 49 1501-0162,balbuquerque@carvalho.br,Ativo
+928,Rios da Luz - ME,Peixoto,78.312.569/0001-80,Construção,Média,Borges de Peixoto,SP,+55 77 1496-7914,tda-cruz@porto.br,Ativo
+929,Rocha,Cassiano Almeida S.A.,17.265.349/0001-58,Serviços,Média,Vasconcelos,SP,98 2468-5492,irios@abreu.com,Ativo
+930,Sales e Filhos,Almeida Nogueira - ME,01.456.398/0001-38,Indústria,Média,Pastor,SP,+55 17 8543-2716,daniloramos@da.com.br,Ativo
+931,Garcia Peixoto e Filhos,Albuquerque Borges S/A,09.846.517/0001-70,Agronegócio,Média,Moreira de Camargo,SP,+55 11 4802-8354,fariasyasmin@pinto.gov.br,Ativo
+932,Aragão da Luz e Filhos,Porto Macedo - ME,61.397.582/0001-86,Comércio,Média,Moraes,SP,+55 41 2268-1594,qsampaio@abreu.com.br,Ativo
+933,Silva,Barbosa Borges S/A,58.396.102/0001-58,Financeiro,Média,Monteiro do Oeste,SP,77 9842-1891,joao-lucas69@melo.com.br,Ativo
+934,Ramos,Sá e Filhos,16.738.059/0001-11,Educação,Média,Cardoso do Galho,SP,+55 87 6368-8501,yvasconcelos@marques.gov.br,Ativo
+935,Cirino Lima - ME,Macedo,89.045.132/0001-43,Financeiro,Média,Barros das Flores,SP,33 2289-8907,rodrigo59@carvalho.br,Ativo
+936,Mendes,Cassiano,65.732.018/0001-23,Comércio,Média,Sousa da Prata,SP,+55 17 5014-1716,maria-sophia89@oliveira.gov.br,Ativo
+937,Gonçalves,Borges,89.705.623/0001-73,Construção,Média,Aparecida do Norte,SP,45 0092-4492,fnovais@porto.br,Ativo
+938,Pires S.A.,Vasconcelos S.A.,93.076.128/0001-10,Serviços,Média,Azevedo,SP,95 6074-2906,kaique22@correia.net,Ativo
+939,Porto - EI,Gomes S.A.,09.751.863/0001-75,Indústria,Média,Gomes,SP,68 2497-5374,sampaiobeatriz@viana.com.br,Ativo
+940,Ramos Ltda.,Gonçalves,95.683.204/0001-80,Serviços,Média,Nogueira do Amparo,SP,+55 85 5445-3451,gabrielly68@fogaca.com.br,Ativo
+941,Rios Souza Ltda.,Viana da Rocha - EI,35.681.940/0001-78,Agronegócio,Média,Gonçalves da Mata,SP,98 5320-7758,gabreu@da.com,Ativo
+942,Vargas,Ribeiro Rezende Ltda.,43.695.201/0001-63,Construção,Média,Teixeira,SP,24 5050-9284,kmartins@aragao.net,Ativo
+943,Cavalcanti,Nunes Aparecida e Filhos,79.358.124/0001-01,Indústria,Média,Rios do Sul,SP,+55 94 8016-2585,fogacabreno@sales.com,Ativo
+944,Fernandes,Ribeiro S.A.,81.492.603/0001-50,Saúde,Média,Peixoto de da Luz,SP,+55 92 3795-3111,rhaviribeiro@oliveira.com,Ativo
+945,Cavalcante,Fogaça,27.418.350/0001-29,Serviços,Média,Camargo do Norte,SP,0300 573 8385,ana51@pires.com.br,Ativo
+946,Aparecida,Pacheco S.A.,51.839.247/0001-37,Financeiro,Média,Sá de Goiás,SP,81 0627-2816,pcosta@da.br,Ativo
+947,Carvalho S/A,Melo,56.283.709/0001-04,Governo,Média,Alves do Galho,SP,+55 98 8187-6209,limaravi-lucca@pereira.net,Ativo
+948,Vieira S.A.,Barbosa,67.029.853/0001-27,Agronegócio,Média,Cardoso,SP,67 7312-3438,das-nevesmilena@borges.gov.br,Ativo
+949,Rezende,Araújo Casa Grande Ltda.,93.627.015/0001-65,Agronegócio,Média,Viana,SP,+55 93 1342-7557,lmartins@camargo.br,Ativo
+950,Pastor,Souza Ltda.,43.195.720/0001-62,Indústria,Média,Pimenta da Praia,SP,+55 89 1029-7711,arthur-gabriel62@rocha.gov.br,Ativo
+951,Gomes Viana Ltda.,Machado S.A.,28.163.709/0001-27,Saúde,Média,Siqueira,SP,94 7392-2198,isabellanunes@viana.br,Ativo
+952,Rocha Marques - ME,Camargo,05.246.389/0001-73,Educação,Média,Ramos de da Rocha,SP,41 9915-3044,caua02@cardoso.br,Ativo
+953,Novais Monteiro - EI,Cunha e Filhos,45.019.236/0001-08,Serviços,Média,Aragão de Goiás,SP,+55 27 4093-4675,davi-miguel82@viana.edu.br,Ativo
+954,Aparecida S/A,Novaes Rios S.A.,72.108.694/0001-96,Tecnologia,Média,Garcia do Norte,SP,+55 45 8422-0138,eloavieira@cavalcanti.com.br,Ativo
+955,Rodrigues Siqueira S/A,Moreira,16.370.952/0001-37,Educação,Média,da Cruz de Sousa,SP,51 9078-9476,ccirino@almeida.com,Ativo
+956,da Cunha e Filhos,Vasconcelos S/A,70.983.125/0001-64,Agronegócio,Média,Vieira do Sul,SP,0800 951 2370,enrico19@pinto.com.br,Ativo
+957,Fonseca,Fonseca,67.243.891/0001-88,Agronegócio,Média,Peixoto,SP,+55 77 7671-3771,jsa@da.gov.br,Ativo
+958,Guerra,Carvalho e Filhos,69.741.025/0001-42,Comércio,Média,Costela de Marques,SP,+55 45 3887-4022,aliciarios@azevedo.org,Ativo
+959,Viana,Garcia,27.615.804/0001-51,Indústria,Média,Barbosa,SP,82 6142-1524,henry-gabrielpeixoto@nascimento.com.br,Ativo
+960,Costela,da Luz,70.432.695/0001-66,Governo,Média,Almeida de Cunha,SP,49 8830-0483,mrodrigues@guerra.com.br,Ativo
+961,Teixeira Ltda.,Souza Casa Grande e Filhos,91.230.674/0001-38,Saúde,Média,da Mota,SP,+55 33 0406-2911,icavalcante@da.edu.br,Ativo
+962,Almeida Borges - EI,Machado e Filhos,96.083.254/0001-90,Tecnologia,Média,Oliveira do Amparo,SP,16 9979-9052,heitormendonca@camargo.edu.br,Ativo
+963,Vieira,Leão,58.146.903/0001-65,Educação,Média,Barbosa do Amparo,SP,+55 86 5631-6312,wfonseca@cavalcanti.com.br,Ativo
+964,Caldeira,Peixoto,46.379.508/0001-43,Serviços,Média,Moura,SP,+55 28 6820-1307,limamarina@correia.com.br,Ativo
+965,Camargo Gomes S.A.,Leão Campos S.A.,17.524.089/0001-98,Indústria,Média,da Cruz,SP,86 2954-5858,carolinasales@da.gov.br,Ativo
+966,Cassiano - ME,Siqueira,32.876.091/0001-10,Serviços,Média,Peixoto,SP,+55 77 5814-7621,marcos-viniciusguerra@campos.edu.br,Ativo
+967,da Conceição,Fogaça,41.359.260/0001-35,Construção,Média,Dias,SP,54 3093-0796,caleb96@fonseca.com.br,Ativo
+968,Carvalho,Siqueira,08.259.347/0001-65,Comércio,Média,Farias,SP,+55 43 6681-1339,bcorreia@alves.br,Ativo
+969,Campos Mendes e Filhos,Santos da Rocha S/A,24.951.670/0001-51,Saúde,Média,Araújo,SP,65 3236-5401,rezendeana-luiza@da.com,Ativo
+970,Teixeira,Cassiano,02.418.956/0001-33,Comércio,Média,Ferreira de Minas,SP,+55 51 8615-6409,gustavo47@correia.gov.br,Ativo
+971,Correia - ME,Dias Ltda.,24.507.869/0001-95,Agronegócio,Média,Gomes,SP,+55 37 1035-6594,luiz-fernandoandrade@da.com.br,Ativo
+972,Lopes,Peixoto,29.516.430/0001-42,Comércio,Média,Borges de Minas,SP,+55 81 9093-4242,andre66@moraes.org,Ativo
+973,Correia,da Rosa Rocha - EI,83.921.760/0001-69,Tecnologia,Média,Lopes Paulista,SP,+55 21 8654-2438,hadassapinto@novaes.com,Ativo
+974,da Mata,Fernandes Almeida - EI,52.948.306/0001-78,Agronegócio,Média,Pereira das Pedras,SP,16 5359-1765,da-luzmaria-cecilia@novaes.net,Ativo
+975,Andrade - EI,da Mota,28.719.534/0001-91,Educação,Média,Moreira das Pedras,SP,71 7989-9470,gsampaio@sampaio.com.br,Ativo
+976,Lopes - EI,Barros Ltda.,97.106.823/0001-38,Serviços,Média,Caldeira de Fernandes,SP,55 7566-5051,ralmeida@gomes.gov.br,Ativo
+977,da Luz,Costela da Paz e Filhos,35.647.201/0001-60,Educação,Média,Teixeira do Sul,SP,35 6693-7540,viniciuscavalcanti@barbosa.br,Ativo
+978,Farias Machado S/A,Andrade,25.068.193/0001-43,Construção,Média,Lima de Souza,SP,+55 73 6481-6384,joananovais@rios.net,Ativo
+979,Moraes,Câmara,01.967.832/0001-44,Agronegócio,Média,Peixoto Alegre,SP,+55 41 9304-8527,hferreira@teixeira.br,Ativo
+980,Cunha - ME,Leão,20.357.194/0001-94,Agronegócio,Média,Cunha Paulista,SP,63 8963-3181,matteocamara@macedo.gov.br,Ativo
+981,Borges,Silva,07.369.821/0001-49,Saúde,Média,Martins dos Dourados,SP,69 2626-3678,bryan89@monteiro.org,Ativo
+982,Vargas,Pimenta,49.328.615/0001-30,Agronegócio,Média,Correia dos Dourados,SP,82 4037-6768,bda-paz@cassiano.com,Ativo
+983,Leão,Fogaça,14.729.603/0001-33,Serviços,Média,Sá do Amparo,SP,+55 85 3099-0009,bernardo65@fogaca.com.br,Ativo
+984,da Costa Souza Ltda.,Fernandes,38.576.920/0001-25,Tecnologia,Média,Cirino do Oeste,SP,+55 55 6600-0470,azevedodante@das.br,Ativo
+985,Barbosa,Peixoto e Filhos,98.672.045/0001-07,Construção,Média,Rodrigues,SP,31 8374-6614,maria-isis76@moraes.com.br,Ativo
+986,Moraes,Rios,04.758.362/0001-05,Saúde,Média,Novaes Grande,SP,+55 15 5256-5995,mouradavi-luiz@silva.com,Ativo
+987,Sales da Conceição S/A,Oliveira Santos S.A.,76.480.291/0001-24,Governo,Média,Pinto,SP,0800 622 1405,cunhafelipe@garcia.com,Ativo
+988,Mendonça,Machado,39.128.460/0001-35,Serviços,Média,Marques da Mata,SP,22 2035-9441,souzalucas-gabriel@viana.gov.br,Ativo
+989,Fogaça Barros - EI,Jesus,47.820.153/0001-49,Tecnologia,Média,Barbosa do Galho,SP,+55 79 0258-5346,sophie15@pinto.br,Ativo
+990,Sales Campos - ME,Fernandes,90.456.812/0001-39,Comércio,Média,Farias da Praia,SP,98 1675-9238,gaelpastor@das.com,Ativo
+991,Siqueira S/A,Nascimento Azevedo Ltda.,63.415.798/0001-52,Educação,Média,Caldeira,SP,47 9730-9121,leonardo73@borges.com,Ativo
+992,Silveira,Borges,39.125.640/0001-63,Construção,Média,Azevedo,SP,32 3030-4407,fnascimento@aragao.com.br,Ativo
+993,Fonseca,Ribeiro,59.738.612/0001-29,Financeiro,Média,Duarte da Mata,SP,+55 51 8299-1269,carolina20@das.gov.br,Ativo
+994,Pinto e Filhos,Almeida - ME,16.854.073/0001-80,Serviços,Média,Castro,SP,+55 97 2168-2682,enzoporto@fogaca.gov.br,Ativo
+995,Cavalcante,Pinto,96.204.175/0001-90,Educação,Média,Souza,SP,+55 11 0593-2572,maria-alicearagao@castro.com,Ativo
+996,da Mata,Pimenta,72.461.930/0001-53,Indústria,Média,Pimenta,SP,42 1452-0580,pietraguerra@garcia.org,Ativo
+997,Cavalcanti S.A.,Albuquerque,65.432.978/0001-78,Educação,Média,Aparecida Verde,SP,+55 16 4189-8566,nicolas01@farias.gov.br,Ativo
+998,Lopes,Câmara Moraes - EI,78.953.264/0001-57,Educação,Média,Barbosa,SP,+55 84 6062-2901,siqueiramathias@albuquerque.org,Ativo
+999,Pastor,Rios,71.084.963/0001-69,Governo,Média,Teixeira,SP,+55 98 8953-8294,diogo91@marques.com.br,Ativo
+1000,Fonseca S.A.,Macedo,28.349.071/0001-13,Governo,Média,Porto,SP,+55 31 9532-6708,nina86@farias.br,Ativo
